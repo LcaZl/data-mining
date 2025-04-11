@@ -1,0 +1,6616 @@
+[
+  {
+    "id": "s4",
+    "route": [
+      {
+        "from": "Giugliano in Campania",
+        "to": "Prato",
+        "merchandise": {
+          "tomatoes": 2,
+          "salad dressing": 1,
+          "toothbrush": 1,
+          "paper towels": 168,
+          "beans": 2,
+          "toilet paper": 2,
+          "fish": 1,
+          "razor": 1,
+          "eggs": 1,
+          "soap": 2,
+          "toilet cleaner": 2,
+          "kitchen towels": 2,
+          "yogurt": 2,
+          "sweater": 2,
+          "dish soap": 1,
+          "shampoo": 7,
+          "butter": 2,
+          "pens": 2,
+          "mouse": 2,
+          "cereal": 2,
+          "ice cream": 1,
+          "keyboard": 1,
+          "broccoli": 1,
+          "bread": 1,
+          "garlic": 2,
+          "cheese": 1,
+          "light bulbs": 121,
+          "coffee": 1,
+          "laptop": 1,
+          "oranges": 1,
+          "spaghetti": 1,
+          "honey": 2,
+          "juice": 1,
+          "laundry detergent": 1,
+          "tuna": 2,
+          "shoes": 2,
+          "ketchup": 1,
+          "chicken": 2
+        }
+      },
+      {
+        "from": "Prato",
+        "to": "Trento",
+        "merchandise": {
+          "tomatoes": 1,
+          "salad dressing": 2,
+          "toothbrush": 2,
+          "paper towels": 7,
+          "chocolate": 1,
+          "beans": 2,
+          "toilet paper": 2,
+          "fish": 2,
+          "carrots": 1,
+          "soap": 1,
+          "kitchen towels": 1,
+          "toothpaste": 2,
+          "yogurt": 2,
+          "potatoes": 1,
+          "sweater": 1,
+          "shampoo": 1,
+          "pens": 2,
+          "mouse": 1,
+          "ice cream": 2,
+          "keyboard": 1,
+          "broccoli": 2,
+          "bread": 1,
+          "garlic": 1,
+          "milk": 2,
+          "rice": 135,
+          "light bulbs": 7,
+          "coffee": 1,
+          "onions": 1,
+          "laptop": 1,
+          "oranges": 2,
+          "spaghetti": 2,
+          "honey": 45,
+          "laundry detergent": 2,
+          "tuna": 1,
+          "shoes": 1,
+          "ketchup": 2,
+          "chicken": 3,
+          "socks": 2
+        }
+      },
+      {
+        "from": "Trento",
+        "to": "Cagliari",
+        "merchandise": {
+          "tomatoes": 2,
+          "salad dressing": 2,
+          "toothbrush": 2,
+          "paper towels": 2,
+          "chocolate": 2,
+          "beans": 1,
+          "toilet paper": 2,
+          "razor": 2,
+          "eggs": 1,
+          "soap": 70,
+          "toilet cleaner": 1,
+          "kitchen towels": 1,
+          "toothpaste": 1,
+          "yogurt": 1,
+          "potatoes": 1,
+          "apples": 2,
+          "trash bags": 1,
+          "dish soap": 3,
+          "shampoo": 2,
+          "pens": 2,
+          "mouse": 58,
+          "cereal": 1,
+          "ice cream": 2,
+          "keyboard": 2,
+          "broccoli": 1,
+          "bread": 1,
+          "garlic": 1,
+          "milk": 2,
+          "rice": 9,
+          "light bulbs": 1,
+          "onions": 1,
+          "laptop": 1,
+          "oranges": 2,
+          "spaghetti": 2,
+          "honey": 31,
+          "laundry detergent": 71,
+          "tuna": 2,
+          "shoes": 2,
+          "ketchup": 1,
+          "socks": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "s2",
+    "route": [
+      {
+        "from": "Messina",
+        "to": "Andria",
+        "merchandise": {
+          "tomatoes": 4,
+          "salad dressing": 14,
+          "toothbrush": 5,
+          "paper towels": 10,
+          "chocolate": 3,
+          "beans": 6,
+          "toilet paper": 2,
+          "fish": 6,
+          "razor": 10,
+          "eggs": 3,
+          "soap": 15,
+          "toilet cleaner": 2,
+          "kitchen towels": 4,
+          "toothpaste": 1,
+          "yogurt": 1,
+          "potatoes": 8,
+          "apples": 6,
+          "trash bags": 1,
+          "sweater": 8,
+          "dish soap": 7,
+          "shampoo": 14,
+          "butter": 2,
+          "pens": 7,
+          "mouse": 4,
+          "cereal": 12,
+          "ice cream": 4,
+          "keyboard": 1,
+          "broccoli": 2,
+          "bread": 3,
+          "garlic": 3,
+          "milk": 3,
+          "cheese": 5,
+          "rice": 7,
+          "light bulbs": 2,
+          "coffee": 2,
+          "onions": 1,
+          "laptop": 6,
+          "oranges": 2,
+          "honey": 10,
+          "juice": 16,
+          "laundry detergent": 9,
+          "tuna": 8,
+          "shoes": 19,
+          "ketchup": 2,
+          "chicken": 5,
+          "socks": 3
+        }
+      },
+      {
+        "from": "Andria",
+        "to": "Trieste",
+        "merchandise": {
+          "tomatoes": 1,
+          "salad dressing": 3,
+          "paper towels": 5,
+          "beans": 2,
+          "fish": 2,
+          "carrots": 1,
+          "razor": 3,
+          "eggs": 5,
+          "soap": 4,
+          "kitchen towels": 2,
+          "toothpaste": 2,
+          "yogurt": 1,
+          "potatoes": 5,
+          "apples": 5,
+          "trash bags": 1,
+          "sweater": 3,
+          "dish soap": 2,
+          "shampoo": 3,
+          "pens": 2,
+          "mouse": 2,
+          "cereal": 4,
+          "ice cream": 1,
+          "broccoli": 2,
+          "garlic": 2,
+          "milk": 1,
+          "cheese": 3,
+          "rice": 2,
+          "onions": 2,
+          "laptop": 1,
+          "spaghetti": 1,
+          "honey": 2,
+          "juice": 4,
+          "laundry detergent": 4,
+          "tuna": 2,
+          "shoes": 8,
+          "chicken": 3,
+          "socks": 3
+        }
+      },
+      {
+        "from": "Trieste",
+        "to": "Rimini",
+        "merchandise": {
+          "salad dressing": 2,
+          "paper towels": 2,
+          "soap": 2,
+          "potatoes": 1,
+          "shampoo": 2,
+          "cereal": 1,
+          "cheese": 1,
+          "rice": 1,
+          "honey": 1,
+          "juice": 2,
+          "laundry detergent": 1,
+          "shoes": 3
+        }
+      }
+    ]
+  },
+  {
+    "id": "s41",
+    "route": [
+      {
+        "from": "Giugliano in Campania",
+        "to": "Perugia",
+        "merchandise": {
+          "paper towels": 161,
+          "shampoo": 7,
+          "light bulbs": 115
+        }
+      },
+      {
+        "from": "Perugia",
+        "to": "Giugliano in Campania",
+        "merchandise": {
+          "paper towels": 73,
+          "shampoo": 3,
+          "rice": 65,
+          "light bulbs": 53,
+          "honey": 24
+        }
+      },
+      {
+        "from": "Giugliano in Campania",
+        "to": "Trento",
+        "merchandise": {
+          "paper towels": 28,
+          "soap": 12,
+          "shampoo": 1,
+          "mouse": 12,
+          "rice": 78,
+          "light bulbs": 20,
+          "honey": 40,
+          "laundry detergent": 14
+        }
+      }
+    ]
+  },
+  {
+    "id": "s5",
+    "route": [
+      {
+        "from": "Terni",
+        "to": "Bologna",
+        "merchandise": {
+          "tomatoes": 2,
+          "toothbrush": 2,
+          "paper towels": 2,
+          "chocolate": 2,
+          "beans": 2,
+          "toilet paper": 3,
+          "fish": 1,
+          "carrots": 2,
+          "eggs": 2,
+          "soap": 3,
+          "toilet cleaner": 1,
+          "toothpaste": 2,
+          "yogurt": 2,
+          "potatoes": 2,
+          "apples": 2,
+          "sweater": 2,
+          "dish soap": 1,
+          "shampoo": 1,
+          "butter": 2,
+          "pens": 2,
+          "mouse": 1,
+          "cereal": 1,
+          "ice cream": 2,
+          "keyboard": 2,
+          "bread": 2,
+          "garlic": 1,
+          "milk": 1,
+          "rice": 2,
+          "coffee": 2,
+          "onions": 1,
+          "laptop": 160,
+          "oranges": 2,
+          "honey": 2,
+          "juice": 68,
+          "tuna": 2,
+          "shoes": 2,
+          "ketchup": 1,
+          "chicken": 1,
+          "socks": 107
+        }
+      },
+      {
+        "from": "Bologna",
+        "to": "Piacenza",
+        "merchandise": {
+          "tomatoes": 2,
+          "toothbrush": 1,
+          "paper towels": 2,
+          "chocolate": 2,
+          "beans": 1,
+          "toilet paper": 2,
+          "carrots": 1,
+          "razor": 2,
+          "eggs": 99,
+          "soap": 2,
+          "toilet cleaner": 1,
+          "toothpaste": 2,
+          "yogurt": 2,
+          "potatoes": 2,
+          "apples": 2,
+          "sweater": 2,
+          "dish soap": 2,
+          "shampoo": 1,
+          "butter": 1,
+          "pens": 1,
+          "mouse": 1,
+          "cereal": 2,
+          "ice cream": 2,
+          "keyboard": 1,
+          "broccoli": 1,
+          "bread": 2,
+          "garlic": 2,
+          "milk": 1,
+          "rice": 2,
+          "light bulbs": 2,
+          "coffee": 2,
+          "onions": 2,
+          "oranges": 2,
+          "spaghetti": 2,
+          "honey": 2,
+          "juice": 3,
+          "laundry detergent": 2,
+          "tuna": 2,
+          "shoes": 114,
+          "ketchup": 2,
+          "chicken": 2
+        }
+      },
+      {
+        "from": "Piacenza",
+        "to": "Salerno",
+        "merchandise": {
+          "tomatoes": 139,
+          "salad dressing": 1,
+          "toothbrush": 1,
+          "paper towels": 2,
+          "chocolate": 2,
+          "toilet paper": 1,
+          "carrots": 2,
+          "razor": 1,
+          "eggs": 24,
+          "soap": 2,
+          "toilet cleaner": 2,
+          "toothpaste": 2,
+          "potatoes": 2,
+          "apples": 1,
+          "sweater": 3,
+          "dish soap": 2,
+          "pens": 1,
+          "mouse": 2,
+          "cereal": 3,
+          "ice cream": 1,
+          "keyboard": 1,
+          "broccoli": 2,
+          "bread": 2,
+          "garlic": 2,
+          "milk": 2,
+          "cheese": 2,
+          "rice": 2,
+          "light bulbs": 2,
+          "coffee": 1,
+          "onions": 2,
+          "laptop": 134,
+          "oranges": 2,
+          "spaghetti": 1,
+          "honey": 1,
+          "juice": 2,
+          "laundry detergent": 2,
+          "tuna": 2,
+          "shoes": 6,
+          "ketchup": 2,
+          "chicken": 1,
+          "socks": 1
+        }
+      },
+      {
+        "from": "Salerno",
+        "to": "Modena",
+        "merchandise": {
+          "tomatoes": 2,
+          "salad dressing": 3,
+          "toothbrush": 2,
+          "paper towels": 2,
+          "chocolate": 2,
+          "toilet paper": 2,
+          "fish": 1,
+          "carrots": 2,
+          "razor": 1,
+          "eggs": 2,
+          "soap": 2,
+          "kitchen towels": 1,
+          "toothpaste": 2,
+          "potatoes": 1,
+          "apples": 106,
+          "sweater": 2,
+          "dish soap": 46,
+          "shampoo": 2,
+          "mouse": 2,
+          "cereal": 1,
+          "ice cream": 1,
+          "keyboard": 2,
+          "broccoli": 2,
+          "bread": 1,
+          "garlic": 1,
+          "milk": 2,
+          "light bulbs": 2,
+          "coffee": 1,
+          "onions": 1,
+          "laptop": 2,
+          "oranges": 2,
+          "spaghetti": 1,
+          "honey": 1,
+          "juice": 3,
+          "laundry detergent": 2,
+          "tuna": 2,
+          "shoes": 2,
+          "chicken": 2,
+          "socks": 59
+        }
+      }
+    ]
+  },
+  {
+    "id": "s28",
+    "route": [
+      {
+        "from": "Bologna",
+        "to": "Reggio Calabria",
+        "merchandise": {
+          "toothbrush": 12,
+          "mouse": 29,
+          "ice cream": 24,
+          "bread": 33,
+          "coffee": 35,
+          "laptop": 90,
+          "juice": 38,
+          "laundry detergent": 25,
+          "socks": 58
+        }
+      },
+      {
+        "from": "Reggio Calabria",
+        "to": "Terni",
+        "merchandise": {
+          "toothbrush": 13,
+          "razor": 11,
+          "eggs": 23,
+          "soap": 3,
+          "butter": 1,
+          "mouse": 16,
+          "ice cream": 13,
+          "bread": 22,
+          "coffee": 21,
+          "laptop": 53,
+          "juice": 40,
+          "laundry detergent": 18,
+          "tuna": 11,
+          "shoes": 25,
+          "socks": 34
+        }
+      }
+    ]
+  },
+  {
+    "id": "s38",
+    "route": [
+      {
+        "from": "Brescia",
+        "to": "Terni",
+        "merchandise": {
+          "bread": 80,
+          "rice": 1,
+          "laptop": 66,
+          "juice": 27,
+          "laundry detergent": 60,
+          "socks": 39
+        }
+      },
+      {
+        "from": "Terni",
+        "to": "Brescia",
+        "merchandise": {
+          "toothbrush": 25,
+          "razor": 47,
+          "eggs": 26,
+          "soap": 13,
+          "bread": 33,
+          "laptop": 20,
+          "juice": 55,
+          "laundry detergent": 25,
+          "shoes": 30,
+          "socks": 11
+        }
+      },
+      {
+        "from": "Brescia",
+        "to": "Pistoia",
+        "merchandise": {
+          "tomatoes": 16,
+          "toothbrush": 28,
+          "razor": 71,
+          "eggs": 30,
+          "soap": 15,
+          "potatoes": 7,
+          "dish soap": 16,
+          "bread": 9,
+          "milk": 1,
+          "laptop": 16,
+          "juice": 53,
+          "laundry detergent": 6,
+          "shoes": 32
+        }
+      },
+      {
+        "from": "Pistoia",
+        "to": "Salerno",
+        "merchandise": {
+          "tomatoes": 52,
+          "toothbrush": 11,
+          "razor": 80,
+          "eggs": 10,
+          "soap": 5,
+          "potatoes": 18,
+          "dish soap": 49,
+          "bread": 1,
+          "laptop": 48,
+          "juice": 20,
+          "tuna": 2,
+          "shoes": 6
+        }
+      }
+    ]
+  },
+  {
+    "id": "s23",
+    "route": [
+      {
+        "from": "Como",
+        "to": "Modena",
+        "merchandise": {
+          "tomatoes": 90,
+          "salad dressing": 2,
+          "toothbrush": 2,
+          "paper towels": 1,
+          "chocolate": 2,
+          "beans": 1,
+          "toilet paper": 1,
+          "fish": 1,
+          "carrots": 1,
+          "razor": 138,
+          "eggs": 1,
+          "toilet cleaner": 2,
+          "toothpaste": 1,
+          "trash bags": 3,
+          "sweater": 2,
+          "dish soap": 2,
+          "butter": 44,
+          "pens": 1,
+          "mouse": 1,
+          "cereal": 2,
+          "ice cream": 1,
+          "keyboard": 1,
+          "bread": 1,
+          "garlic": 36,
+          "rice": 2,
+          "light bulbs": 1,
+          "coffee": 2,
+          "laptop": 2,
+          "oranges": 3,
+          "spaghetti": 2,
+          "juice": 2,
+          "laundry detergent": 2,
+          "tuna": 2,
+          "shoes": 2,
+          "chicken": 2,
+          "socks": 1
+        }
+      },
+      {
+        "from": "Modena",
+        "to": "Piacenza",
+        "merchandise": {
+          "tomatoes": 2,
+          "salad dressing": 96,
+          "toothbrush": 2,
+          "paper towels": 46,
+          "chocolate": 2,
+          "beans": 1,
+          "toilet paper": 2,
+          "carrots": 2,
+          "razor": 2,
+          "eggs": 2,
+          "soap": 1,
+          "toilet cleaner": 2,
+          "kitchen towels": 9,
+          "yogurt": 1,
+          "potatoes": 2,
+          "apples": 2,
+          "trash bags": 1,
+          "sweater": 1,
+          "butter": 1,
+          "pens": 2,
+          "mouse": 2,
+          "broccoli": 1,
+          "bread": 2,
+          "garlic": 2,
+          "cheese": 135,
+          "rice": 2,
+          "light bulbs": 1,
+          "coffee": 2,
+          "laptop": 2,
+          "oranges": 2,
+          "spaghetti": 2,
+          "honey": 1,
+          "laundry detergent": 2,
+          "ketchup": 2,
+          "socks": 1
+        }
+      },
+      {
+        "from": "Piacenza",
+        "to": "Catanzaro",
+        "merchandise": {
+          "tomatoes": 2,
+          "toothbrush": 3,
+          "paper towels": 1,
+          "beans": 2,
+          "toilet paper": 1,
+          "fish": 1,
+          "carrots": 1,
+          "razor": 164,
+          "eggs": 2,
+          "soap": 1,
+          "toilet cleaner": 1,
+          "kitchen towels": 1,
+          "toothpaste": 1,
+          "potatoes": 1,
+          "apples": 2,
+          "trash bags": 1,
+          "sweater": 3,
+          "dish soap": 1,
+          "shampoo": 1,
+          "butter": 2,
+          "pens": 1,
+          "mouse": 2,
+          "cereal": 1,
+          "ice cream": 2,
+          "keyboard": 1,
+          "broccoli": 48,
+          "garlic": 1,
+          "milk": 1,
+          "cheese": 2,
+          "coffee": 1,
+          "onions": 2,
+          "laptop": 1,
+          "oranges": 1,
+          "juice": 104,
+          "tuna": 2,
+          "shoes": 2,
+          "socks": 1
+        }
+      },
+      {
+        "from": "Catanzaro",
+        "to": "Trento",
+        "merchandise": {
+          "tomatoes": 2,
+          "salad dressing": 1,
+          "toothbrush": 2,
+          "paper towels": 1,
+          "chocolate": 1,
+          "beans": 1,
+          "toilet paper": 1,
+          "razor": 7,
+          "eggs": 1,
+          "soap": 1,
+          "toilet cleaner": 2,
+          "kitchen towels": 1,
+          "toothpaste": 1,
+          "yogurt": 2,
+          "sweater": 1,
+          "dish soap": 1,
+          "shampoo": 2,
+          "butter": 2,
+          "pens": 1,
+          "mouse": 2,
+          "cereal": 2,
+          "ice cream": 2,
+          "keyboard": 2,
+          "broccoli": 4,
+          "bread": 2,
+          "milk": 1,
+          "rice": 2,
+          "light bulbs": 2,
+          "laptop": 58,
+          "spaghetti": 2,
+          "honey": 1,
+          "juice": 6,
+          "shoes": 2,
+          "ketchup": 2,
+          "chicken": 1,
+          "socks": 143
+        }
+      }
+    ]
+  },
+  {
+    "id": "s21",
+    "route": [
+      {
+        "from": "Messina",
+        "to": "Como",
+        "merchandise": {
+          "tomatoes": 89,
+          "razor": 130,
+          "butter": 49,
+          "garlic": 36
+        }
+      }
+    ]
+  },
+  {
+    "id": "s33",
+    "route": [
+      {
+        "from": "Alessandria",
+        "to": "Taranto",
+        "merchandise": {
+          "salad dressing": 5,
+          "paper towels": 1,
+          "carrots": 9,
+          "razor": 1,
+          "eggs": 38,
+          "trash bags": 49,
+          "pens": 2,
+          "mouse": 19,
+          "cereal": 1,
+          "rice": 1,
+          "light bulbs": 53,
+          "laptop": 5,
+          "honey": 19,
+          "juice": 2,
+          "laundry detergent": 38,
+          "ketchup": 10
+        }
+      }
+    ]
+  },
+  {
+    "id": "s1",
+    "route": [
+      {
+        "from": "Rimini",
+        "to": "Genoa",
+        "merchandise": {
+          "tomatoes": 1,
+          "salad dressing": 1,
+          "toothbrush": 1,
+          "paper towels": 2,
+          "beans": 1,
+          "toilet paper": 1,
+          "fish": 1,
+          "carrots": 1,
+          "razor": 16,
+          "eggs": 97,
+          "soap": 1,
+          "toilet cleaner": 1,
+          "toothpaste": 1,
+          "yogurt": 34,
+          "apples": 1,
+          "butter": 1,
+          "pens": 54,
+          "mouse": 4,
+          "cereal": 1,
+          "broccoli": 1,
+          "bread": 10,
+          "garlic": 1,
+          "rice": 3,
+          "light bulbs": 49,
+          "coffee": 102,
+          "onions": 1,
+          "laptop": 1,
+          "juice": 1,
+          "tuna": 1,
+          "shoes": 1,
+          "ketchup": 6,
+          "chicken": 1
+        }
+      },
+      {
+        "from": "Genoa",
+        "to": "Rimini",
+        "merchandise": {
+          "tomatoes": 1,
+          "salad dressing": 1,
+          "toothbrush": 2,
+          "paper towels": 1,
+          "chocolate": 23,
+          "beans": 2,
+          "toilet paper": 1,
+          "fish": 1,
+          "razor": 4,
+          "eggs": 15,
+          "toilet cleaner": 1,
+          "kitchen towels": 17,
+          "yogurt": 8,
+          "potatoes": 1,
+          "apples": 1,
+          "trash bags": 1,
+          "sweater": 44,
+          "shampoo": 17,
+          "butter": 1,
+          "pens": 11,
+          "mouse": 3,
+          "cereal": 1,
+          "ice cream": 44,
+          "broccoli": 21,
+          "bread": 12,
+          "garlic": 1,
+          "milk": 1,
+          "cheese": 1,
+          "rice": 3,
+          "light bulbs": 9,
+          "coffee": 21,
+          "laptop": 47,
+          "spaghetti": 1,
+          "juice": 2,
+          "laundry detergent": 3,
+          "tuna": 40,
+          "ketchup": 1
+        }
+      },
+      {
+        "from": "Rimini",
+        "to": "Piacenza",
+        "merchandise": {
+          "tomatoes": 1,
+          "chocolate": 8,
+          "razor": 1,
+          "eggs": 4,
+          "kitchen towels": 6,
+          "yogurt": 3,
+          "sweater": 17,
+          "shampoo": 3,
+          "pens": 4,
+          "mouse": 1,
+          "ice cream": 8,
+          "broccoli": 7,
+          "bread": 4,
+          "light bulbs": 3,
+          "coffee": 7,
+          "laptop": 14,
+          "tuna": 12
+        }
+      }
+    ]
+  },
+  {
+    "id": "s25",
+    "route": [
+      {
+        "from": "Lucca",
+        "to": "Brindisi",
+        "merchandise": {
+          "tomatoes": 1,
+          "salad dressing": 2,
+          "paper towels": 1,
+          "fish": 29,
+          "razor": 1,
+          "eggs": 2,
+          "soap": 1,
+          "kitchen towels": 2,
+          "toothpaste": 1,
+          "potatoes": 2,
+          "apples": 2,
+          "trash bags": 1,
+          "sweater": 1,
+          "dish soap": 2,
+          "shampoo": 1,
+          "pens": 2,
+          "mouse": 2,
+          "cereal": 1,
+          "ice cream": 2,
+          "broccoli": 2,
+          "bread": 2,
+          "garlic": 1,
+          "milk": 1,
+          "cheese": 2,
+          "rice": 1,
+          "onions": 153,
+          "laptop": 1,
+          "oranges": 1,
+          "spaghetti": 2,
+          "juice": 2,
+          "laundry detergent": 2,
+          "tuna": 1,
+          "shoes": 1,
+          "chicken": 1,
+          "socks": 2
+        }
+      },
+      {
+        "from": "Brindisi",
+        "to": "Taranto",
+        "merchandise": {
+          "tomatoes": 1,
+          "salad dressing": 1,
+          "paper towels": 2,
+          "chocolate": 2,
+          "beans": 2,
+          "fish": 4,
+          "carrots": 1,
+          "razor": 1,
+          "eggs": 2,
+          "soap": 86,
+          "potatoes": 2,
+          "trash bags": 2,
+          "sweater": 1,
+          "dish soap": 1,
+          "shampoo": 1,
+          "butter": 1,
+          "pens": 2,
+          "mouse": 1,
+          "cereal": 2,
+          "ice cream": 2,
+          "broccoli": 2,
+          "garlic": 1,
+          "milk": 1,
+          "rice": 1,
+          "coffee": 3,
+          "onions": 12,
+          "laptop": 1,
+          "spaghetti": 1,
+          "honey": 3,
+          "juice": 14,
+          "laundry detergent": 2,
+          "tuna": 2,
+          "ketchup": 1,
+          "chicken": 1,
+          "socks": 151
+        }
+      }
+    ]
+  },
+  {
+    "id": "s35",
+    "route": [
+      {
+        "from": "Giugliano in Campania",
+        "to": "Vicenza",
+        "merchandise": {
+          "tomatoes": 1,
+          "salad dressing": 1,
+          "toothbrush": 1,
+          "paper towels": 1,
+          "chocolate": 1,
+          "beans": 2,
+          "toilet paper": 1,
+          "fish": 1,
+          "carrots": 1,
+          "soap": 1,
+          "toilet cleaner": 1,
+          "toothpaste": 1,
+          "yogurt": 2,
+          "potatoes": 1,
+          "sweater": 1,
+          "dish soap": 2,
+          "pens": 1,
+          "cereal": 1,
+          "keyboard": 1,
+          "broccoli": 1,
+          "garlic": 2,
+          "milk": 2,
+          "cheese": 1,
+          "rice": 73,
+          "light bulbs": 1,
+          "coffee": 1,
+          "onions": 2,
+          "laptop": 39,
+          "oranges": 1,
+          "honey": 1,
+          "juice": 1,
+          "laundry detergent": 2,
+          "chicken": 1,
+          "socks": 2
+        }
+      },
+      {
+        "from": "Vicenza",
+        "to": "Palermo",
+        "merchandise": {
+          "tomatoes": 1,
+          "toothbrush": 1,
+          "chocolate": 2,
+          "toilet paper": 1,
+          "carrots": 2,
+          "eggs": 2,
+          "kitchen towels": 1,
+          "toothpaste": 1,
+          "trash bags": 1,
+          "dish soap": 1,
+          "butter": 1,
+          "pens": 1,
+          "cereal": 140,
+          "ice cream": 2,
+          "keyboard": 1,
+          "broccoli": 2,
+          "bread": 2,
+          "milk": 2,
+          "rice": 4,
+          "light bulbs": 1,
+          "laptop": 3,
+          "oranges": 1,
+          "juice": 1,
+          "laundry detergent": 1,
+          "tuna": 1,
+          "shoes": 2,
+          "chicken": 1,
+          "socks": 89
+        }
+      }
+    ]
+  },
+  {
+    "id": "s12",
+    "route": [
+      {
+        "from": "Padua",
+        "to": "Vicenza",
+        "merchandise": {
+          "soap": 58,
+          "toilet cleaner": 60,
+          "butter": 1,
+          "garlic": 1,
+          "rice": 29,
+          "laptop": 15,
+          "tuna": 49,
+          "ketchup": 80
+        }
+      },
+      {
+        "from": "Vicenza",
+        "to": "Padua",
+        "merchandise": {
+          "soap": 29,
+          "toilet cleaner": 30,
+          "sweater": 30,
+          "cereal": 14,
+          "milk": 35,
+          "rice": 20,
+          "laptop": 10,
+          "tuna": 25,
+          "ketchup": 38,
+          "socks": 12
+        }
+      },
+      {
+        "from": "Padua",
+        "to": "Catanzaro",
+        "merchandise": {
+          "fish": 10,
+          "soap": 9,
+          "toilet cleaner": 9,
+          "sweater": 41,
+          "shampoo": 12,
+          "cereal": 30,
+          "milk": 48,
+          "cheese": 11,
+          "rice": 11,
+          "laptop": 5,
+          "tuna": 8,
+          "ketchup": 11,
+          "socks": 23
+        }
+      }
+    ]
+  },
+  {
+    "id": "s48",
+    "route": [
+      {
+        "from": "Como",
+        "to": "Reggio Emilia",
+        "merchandise": {
+          "beans": 50,
+          "soap": 43,
+          "toothpaste": 14,
+          "trash bags": 15,
+          "butter": 88,
+          "cereal": 22,
+          "garlic": 84,
+          "rice": 1,
+          "light bulbs": 78,
+          "laptop": 1
+        }
+      },
+      {
+        "from": "Reggio Emilia",
+        "to": "Monza",
+        "merchandise": {
+          "chocolate": 8,
+          "beans": 37,
+          "soap": 34,
+          "toothpaste": 12,
+          "trash bags": 14,
+          "butter": 52,
+          "pens": 13,
+          "cereal": 17,
+          "ice cream": 6,
+          "garlic": 73,
+          "light bulbs": 60,
+          "onions": 15,
+          "honey": 8
+        }
+      },
+      {
+        "from": "Monza",
+        "to": "Palermo",
+        "merchandise": {
+          "chocolate": 16,
+          "beans": 18,
+          "soap": 19,
+          "toothpaste": 5,
+          "trash bags": 9,
+          "butter": 16,
+          "pens": 21,
+          "cereal": 7,
+          "ice cream": 11,
+          "garlic": 71,
+          "light bulbs": 31,
+          "onions": 30,
+          "honey": 22,
+          "socks": 2
+        }
+      },
+      {
+        "from": "Palermo",
+        "to": "Naples",
+        "merchandise": {
+          "paper towels": 2,
+          "chocolate": 24,
+          "beans": 2,
+          "soap": 4,
+          "kitchen towels": 3,
+          "toothpaste": 1,
+          "trash bags": 2,
+          "sweater": 2,
+          "butter": 4,
+          "pens": 16,
+          "mouse": 23,
+          "cereal": 2,
+          "ice cream": 9,
+          "garlic": 65,
+          "light bulbs": 5,
+          "onions": 23,
+          "honey": 33,
+          "juice": 3,
+          "laundry detergent": 1,
+          "shoes": 7
+        }
+      },
+      {
+        "from": "Naples",
+        "to": "Foggia",
+        "merchandise": {
+          "paper towels": 8,
+          "chocolate": 10,
+          "soap": 43,
+          "kitchen towels": 3,
+          "sweater": 2,
+          "pens": 6,
+          "mouse": 54,
+          "ice cream": 3,
+          "garlic": 24,
+          "onions": 8,
+          "honey": 13,
+          "juice": 3,
+          "laundry detergent": 1,
+          "shoes": 9
+        }
+      }
+    ]
+  },
+  {
+    "id": "s49",
+    "route": [
+      {
+        "from": "Vicenza",
+        "to": "Pesaro",
+        "merchandise": {
+          "toilet paper": 1,
+          "kitchen towels": 111,
+          "apples": 90,
+          "trash bags": 1,
+          "milk": 138,
+          "rice": 2,
+          "oranges": 34
+        }
+      },
+      {
+        "from": "Pesaro",
+        "to": "Guidonia Montecelio",
+        "merchandise": {
+          "toothbrush": 16,
+          "kitchen towels": 66,
+          "yogurt": 36,
+          "apples": 55,
+          "trash bags": 1,
+          "ice cream": 14,
+          "milk": 79,
+          "oranges": 26,
+          "laundry detergent": 36
+        }
+      }
+    ]
+  },
+  {
+    "id": "s26",
+    "route": [
+      {
+        "from": "Monza",
+        "to": "Como",
+        "merchandise": {
+          "tomatoes": 1,
+          "salad dressing": 1,
+          "paper towels": 1,
+          "beans": 1,
+          "toilet paper": 2,
+          "fish": 1,
+          "carrots": 1,
+          "razor": 1,
+          "eggs": 1,
+          "soap": 1,
+          "toilet cleaner": 1,
+          "kitchen towels": 2,
+          "toothpaste": 14,
+          "yogurt": 2,
+          "potatoes": 2,
+          "apples": 2,
+          "sweater": 1,
+          "dish soap": 2,
+          "butter": 168,
+          "cereal": 32,
+          "ice cream": 1,
+          "keyboard": 2,
+          "garlic": 172,
+          "milk": 1,
+          "rice": 2,
+          "light bulbs": 1,
+          "coffee": 1,
+          "onions": 3,
+          "laptop": 2,
+          "spaghetti": 1,
+          "honey": 1,
+          "juice": 2,
+          "chicken": 1,
+          "socks": 2
+        }
+      },
+      {
+        "from": "Como",
+        "to": "Naples",
+        "merchandise": {
+          "tomatoes": 1,
+          "toothbrush": 1,
+          "paper towels": 2,
+          "chocolate": 1,
+          "beans": 1,
+          "toilet paper": 1,
+          "fish": 1,
+          "razor": 1,
+          "eggs": 2,
+          "soap": 1,
+          "toilet cleaner": 2,
+          "kitchen towels": 2,
+          "toothpaste": 2,
+          "potatoes": 1,
+          "apples": 1,
+          "shampoo": 1,
+          "butter": 9,
+          "pens": 30,
+          "mouse": 1,
+          "cereal": 4,
+          "ice cream": 11,
+          "keyboard": 1,
+          "bread": 1,
+          "garlic": 67,
+          "milk": 1,
+          "cheese": 1,
+          "rice": 2,
+          "light bulbs": 2,
+          "coffee": 1,
+          "onions": 68,
+          "oranges": 2,
+          "honey": 1,
+          "juice": 1,
+          "tuna": 2,
+          "ketchup": 1,
+          "chicken": 1,
+          "socks": 2
+        }
+      }
+    ]
+  },
+  {
+    "id": "s44",
+    "route": [
+      {
+        "from": "Verona",
+        "to": "Vicenza",
+        "merchandise": {
+          "salad dressing": 113,
+          "bread": 95,
+          "laptop": 140,
+          "oranges": 106
+        }
+      },
+      {
+        "from": "Vicenza",
+        "to": "Verona",
+        "merchandise": {
+          "salad dressing": 87,
+          "toothbrush": 16,
+          "butter": 105,
+          "bread": 38,
+          "laptop": 52,
+          "oranges": 43,
+          "laundry detergent": 77
+        }
+      },
+      {
+        "from": "Verona",
+        "to": "Naples",
+        "merchandise": {
+          "salad dressing": 56,
+          "toothbrush": 17,
+          "fish": 25,
+          "butter": 122,
+          "bread": 7,
+          "laptop": 9,
+          "oranges": 8,
+          "laundry detergent": 111
+        }
+      }
+    ]
+  },
+  {
+    "id": "s43",
+    "route": [
+      {
+        "from": "Rimini",
+        "to": "Giugliano in Campania",
+        "merchandise": {
+          "salad dressing": 14,
+          "paper towels": 22,
+          "razor": 1,
+          "potatoes": 21,
+          "pens": 1,
+          "cereal": 1,
+          "coffee": 1,
+          "laptop": 1,
+          "spaghetti": 11,
+          "honey": 15,
+          "chicken": 52
+        }
+      },
+      {
+        "from": "Giugliano in Campania",
+        "to": "Novara",
+        "merchandise": {
+          "salad dressing": 12,
+          "paper towels": 15,
+          "chocolate": 16,
+          "fish": 13,
+          "carrots": 4,
+          "razor": 1,
+          "toilet cleaner": 4,
+          "potatoes": 15,
+          "apples": 7,
+          "garlic": 10,
+          "milk": 14,
+          "laptop": 10,
+          "spaghetti": 3,
+          "honey": 21,
+          "shoes": 24,
+          "ketchup": 9,
+          "chicken": 34
+        }
+      }
+    ]
+  },
+  {
+    "id": "s27",
+    "route": [
+      {
+        "from": "Pescara",
+        "to": "Lucca",
+        "merchandise": {
+          "chocolate": 62,
+          "fish": 22,
+          "razor": 1,
+          "eggs": 2,
+          "shampoo": 73,
+          "mouse": 2,
+          "cereal": 2,
+          "coffee": 2,
+          "onions": 78,
+          "laundry detergent": 72,
+          "tuna": 53
+        }
+      },
+      {
+        "from": "Lucca",
+        "to": "Pescara",
+        "merchandise": {
+          "salad dressing": 22,
+          "chocolate": 18,
+          "fish": 19,
+          "razor": 1,
+          "soap": 12,
+          "potatoes": 45,
+          "trash bags": 50,
+          "shampoo": 21,
+          "coffee": 1,
+          "onions": 106,
+          "juice": 2,
+          "laundry detergent": 20,
+          "tuna": 17,
+          "socks": 20
+        }
+      },
+      {
+        "from": "Pescara",
+        "to": "Novara",
+        "merchandise": {
+          "tomatoes": 18,
+          "salad dressing": 34,
+          "fish": 12,
+          "soap": 46,
+          "kitchen towels": 1,
+          "potatoes": 39,
+          "trash bags": 43,
+          "sweater": 1,
+          "onions": 72,
+          "juice": 4,
+          "tuna": 2,
+          "socks": 44
+        }
+      },
+      {
+        "from": "Novara",
+        "to": "Taranto",
+        "merchandise": {
+          "tomatoes": 45,
+          "salad dressing": 37,
+          "paper towels": 2,
+          "toilet paper": 1,
+          "fish": 1,
+          "soap": 92,
+          "toothpaste": 1,
+          "broccoli": 1,
+          "onions": 3,
+          "juice": 7,
+          "tuna": 4,
+          "socks": 71
+        }
+      }
+    ]
+  },
+  {
+    "id": "s0",
+    "route": [
+      {
+        "from": "Catania",
+        "to": "Trieste",
+        "merchandise": {
+          "tomatoes": 1,
+          "chocolate": 1,
+          "toilet paper": 41,
+          "fish": 1,
+          "kitchen towels": 3,
+          "apples": 76,
+          "trash bags": 23,
+          "sweater": 1,
+          "pens": 1,
+          "mouse": 1,
+          "cereal": 1,
+          "keyboard": 61,
+          "bread": 77,
+          "milk": 90,
+          "cheese": 1,
+          "rice": 64,
+          "light bulbs": 1,
+          "honey": 1,
+          "juice": 1,
+          "tuna": 1,
+          "ketchup": 2,
+          "socks": 1
+        }
+      },
+      {
+        "from": "Trieste",
+        "to": "Prato",
+        "merchandise": {
+          "toilet paper": 9,
+          "kitchen towels": 2,
+          "apples": 18,
+          "trash bags": 6,
+          "butter": 11,
+          "keyboard": 15,
+          "bread": 67,
+          "milk": 24,
+          "rice": 15,
+          "ketchup": 7,
+          "chicken": 25
+        }
+      }
+    ]
+  },
+  {
+    "id": "s18",
+    "route": [
+      {
+        "from": "Barletta",
+        "to": "Giugliano in Campania",
+        "merchandise": {
+          "salad dressing": 22,
+          "toothbrush": 2,
+          "chocolate": 2,
+          "beans": 1,
+          "toilet paper": 2,
+          "razor": 1,
+          "eggs": 1,
+          "soap": 1,
+          "toilet cleaner": 1,
+          "yogurt": 1,
+          "potatoes": 71,
+          "apples": 3,
+          "dish soap": 2,
+          "shampoo": 2,
+          "pens": 1,
+          "mouse": 1,
+          "ice cream": 1,
+          "broccoli": 1,
+          "bread": 2,
+          "garlic": 2,
+          "cheese": 2,
+          "rice": 2,
+          "light bulbs": 1,
+          "coffee": 2,
+          "onions": 2,
+          "oranges": 1,
+          "spaghetti": 2,
+          "juice": 1,
+          "laundry detergent": 1,
+          "tuna": 2,
+          "ketchup": 1,
+          "socks": 2
+        }
+      },
+      {
+        "from": "Giugliano in Campania",
+        "to": "Perugia",
+        "merchandise": {
+          "tomatoes": 1,
+          "salad dressing": 3,
+          "paper towels": 1,
+          "chocolate": 3,
+          "toilet paper": 2,
+          "fish": 2,
+          "carrots": 1,
+          "eggs": 3,
+          "soap": 2,
+          "toilet cleaner": 1,
+          "kitchen towels": 2,
+          "toothpaste": 2,
+          "potatoes": 5,
+          "apples": 81,
+          "trash bags": 1,
+          "sweater": 2,
+          "pens": 3,
+          "mouse": 1,
+          "cereal": 2,
+          "ice cream": 2,
+          "broccoli": 2,
+          "bread": 1,
+          "milk": 155,
+          "cheese": 1,
+          "rice": 2,
+          "light bulbs": 2,
+          "coffee": 1,
+          "onions": 1,
+          "laptop": 148,
+          "oranges": 1,
+          "spaghetti": 1,
+          "laundry detergent": 1,
+          "tuna": 2,
+          "shoes": 2,
+          "ketchup": 103,
+          "chicken": 2,
+          "socks": 2
+        }
+      }
+    ]
+  },
+  {
+    "id": "s39",
+    "route": [
+      {
+        "from": "Rimini",
+        "to": "Brindisi",
+        "merchandise": {
+          "tomatoes": 1,
+          "toothbrush": 2,
+          "paper towels": 1,
+          "beans": 1,
+          "toilet paper": 2,
+          "razor": 1,
+          "eggs": 2,
+          "soap": 1,
+          "kitchen towels": 1,
+          "toothpaste": 1,
+          "yogurt": 1,
+          "dish soap": 1,
+          "shampoo": 2,
+          "butter": 1,
+          "pens": 1,
+          "mouse": 99,
+          "ice cream": 1,
+          "broccoli": 1,
+          "bread": 1,
+          "garlic": 2,
+          "cheese": 1,
+          "rice": 42,
+          "light bulbs": 2,
+          "coffee": 1,
+          "onions": 2,
+          "oranges": 1,
+          "honey": 1,
+          "tuna": 1,
+          "ketchup": 2,
+          "socks": 2
+        }
+      },
+      {
+        "from": "Brindisi",
+        "to": "Bologna",
+        "merchandise": {
+          "tomatoes": 23,
+          "toothbrush": 7,
+          "paper towels": 1,
+          "chocolate": 2,
+          "toilet paper": 2,
+          "fish": 1,
+          "carrots": 2,
+          "razor": 1,
+          "eggs": 1,
+          "soap": 1,
+          "toilet cleaner": 1,
+          "kitchen towels": 2,
+          "sweater": 122,
+          "shampoo": 16,
+          "pens": 1,
+          "mouse": 9,
+          "cereal": 1,
+          "ice cream": 2,
+          "broccoli": 1,
+          "milk": 1,
+          "rice": 5,
+          "light bulbs": 2,
+          "coffee": 1,
+          "onions": 2,
+          "laptop": 1,
+          "oranges": 1,
+          "laundry detergent": 1,
+          "tuna": 1,
+          "shoes": 1,
+          "ketchup": 1,
+          "socks": 2
+        }
+      }
+    ]
+  },
+  {
+    "id": "s34",
+    "route": [
+      {
+        "from": "Turin",
+        "to": "Rimini",
+        "merchandise": {
+          "chocolate": 129,
+          "honey": 60,
+          "ketchup": 179
+        }
+      }
+    ]
+  },
+  {
+    "id": "s8",
+    "route": [
+      {
+        "from": "Rimini",
+        "to": "Grosseto",
+        "merchandise": {
+          "tomatoes": 1,
+          "salad dressing": 1,
+          "toothbrush": 1,
+          "chocolate": 134,
+          "fish": 1,
+          "razor": 1,
+          "eggs": 2,
+          "soap": 1,
+          "kitchen towels": 2,
+          "yogurt": 1,
+          "potatoes": 1,
+          "apples": 1,
+          "trash bags": 1,
+          "sweater": 2,
+          "dish soap": 2,
+          "shampoo": 2,
+          "butter": 1,
+          "pens": 3,
+          "mouse": 2,
+          "ice cream": 1,
+          "keyboard": 1,
+          "bread": 2,
+          "garlic": 1,
+          "cheese": 2,
+          "coffee": 2,
+          "laptop": 1,
+          "honey": 52,
+          "laundry detergent": 2,
+          "shoes": 2,
+          "ketchup": 178
+        }
+      },
+      {
+        "from": "Grosseto",
+        "to": "Pistoia",
+        "merchandise": {
+          "tomatoes": 1,
+          "salad dressing": 2,
+          "toothbrush": 2,
+          "paper towels": 1,
+          "chocolate": 2,
+          "fish": 1,
+          "carrots": 2,
+          "razor": 1,
+          "eggs": 1,
+          "soap": 2,
+          "yogurt": 1,
+          "potatoes": 1,
+          "trash bags": 1,
+          "sweater": 1,
+          "dish soap": 1,
+          "butter": 2,
+          "pens": 1,
+          "mouse": 2,
+          "cereal": 1,
+          "ice cream": 1,
+          "keyboard": 1,
+          "broccoli": 2,
+          "bread": 1,
+          "garlic": 1,
+          "milk": 39,
+          "cheese": 1,
+          "onions": 2,
+          "laptop": 2,
+          "oranges": 1,
+          "honey": 1,
+          "laundry detergent": 2,
+          "tuna": 167,
+          "shoes": 1,
+          "ketchup": 2,
+          "socks": 2
+        }
+      },
+      {
+        "from": "Pistoia",
+        "to": "Andria",
+        "merchandise": {
+          "tomatoes": 2,
+          "salad dressing": 1,
+          "chocolate": 1,
+          "beans": 2,
+          "toilet paper": 1,
+          "carrots": 2,
+          "razor": 1,
+          "eggs": 129,
+          "soap": 2,
+          "kitchen towels": 123,
+          "yogurt": 1,
+          "potatoes": 2,
+          "apples": 95,
+          "trash bags": 1,
+          "sweater": 76,
+          "butter": 2,
+          "pens": 2,
+          "mouse": 1,
+          "ice cream": 2,
+          "keyboard": 1,
+          "broccoli": 2,
+          "bread": 1,
+          "milk": 3,
+          "cheese": 1,
+          "light bulbs": 2,
+          "coffee": 2,
+          "laptop": 2,
+          "oranges": 1,
+          "spaghetti": 1,
+          "honey": 2,
+          "juice": 1,
+          "laundry detergent": 2,
+          "tuna": 6,
+          "shoes": 2,
+          "ketchup": 2,
+          "chicken": 2,
+          "socks": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "s36",
+    "route": [
+      {
+        "from": "Rimini",
+        "to": "Bologna",
+        "merchandise": {
+          "paper towels": 9,
+          "spaghetti": 38,
+          "honey": 57,
+          "chicken": 19
+        }
+      },
+      {
+        "from": "Bologna",
+        "to": "Andria",
+        "merchandise": {
+          "paper towels": 6,
+          "chocolate": 5,
+          "fish": 5,
+          "carrots": 9,
+          "toilet cleaner": 16,
+          "garlic": 29,
+          "milk": 1,
+          "laptop": 2,
+          "spaghetti": 19,
+          "honey": 37,
+          "shoes": 9,
+          "chicken": 14
+        }
+      },
+      {
+        "from": "Andria",
+        "to": "Guidonia Montecelio",
+        "merchandise": {
+          "paper towels": 2,
+          "chocolate": 23,
+          "fish": 12,
+          "carrots": 12,
+          "toilet cleaner": 20,
+          "garlic": 38,
+          "milk": 9,
+          "rice": 10,
+          "spaghetti": 6,
+          "honey": 32,
+          "shoes": 20,
+          "chicken": 5
+        }
+      }
+    ]
+  },
+  {
+    "id": "s9",
+    "route": [
+      {
+        "from": "Ferrara",
+        "to": "Andria",
+        "merchandise": {
+          "tomatoes": 2,
+          "salad dressing": 2,
+          "paper towels": 1,
+          "chocolate": 2,
+          "toilet paper": 106,
+          "carrots": 2,
+          "razor": 2,
+          "eggs": 4,
+          "soap": 2,
+          "toilet cleaner": 92,
+          "kitchen towels": 2,
+          "toothpaste": 1,
+          "yogurt": 2,
+          "potatoes": 1,
+          "apples": 2,
+          "trash bags": 2,
+          "sweater": 1,
+          "dish soap": 1,
+          "shampoo": 1,
+          "butter": 1,
+          "pens": 2,
+          "mouse": 1,
+          "cereal": 2,
+          "ice cream": 1,
+          "keyboard": 2,
+          "broccoli": 2,
+          "bread": 2,
+          "garlic": 1,
+          "milk": 2,
+          "rice": 2,
+          "light bulbs": 3,
+          "coffee": 2,
+          "onions": 2,
+          "laptop": 2,
+          "oranges": 165,
+          "spaghetti": 2,
+          "juice": 2,
+          "laundry detergent": 78,
+          "shoes": 1,
+          "ketchup": 2,
+          "chicken": 1,
+          "socks": 2
+        }
+      },
+      {
+        "from": "Andria",
+        "to": "Brescia",
+        "merchandise": {
+          "tomatoes": 1,
+          "salad dressing": 31,
+          "paper towels": 2,
+          "chocolate": 3,
+          "beans": 2,
+          "fish": 2,
+          "razor": 1,
+          "eggs": 2,
+          "soap": 2,
+          "toilet cleaner": 1,
+          "kitchen towels": 1,
+          "yogurt": 1,
+          "potatoes": 2,
+          "apples": 1,
+          "sweater": 2,
+          "dish soap": 2,
+          "shampoo": 2,
+          "pens": 2,
+          "mouse": 2,
+          "cereal": 2,
+          "broccoli": 2,
+          "bread": 1,
+          "garlic": 2,
+          "milk": 1,
+          "rice": 2,
+          "light bulbs": 1,
+          "coffee": 2,
+          "onions": 2,
+          "laptop": 4,
+          "spaghetti": 1,
+          "honey": 2,
+          "laundry detergent": 1,
+          "tuna": 1,
+          "shoes": 2,
+          "ketchup": 1,
+          "chicken": 2,
+          "socks": 1
+        }
+      },
+      {
+        "from": "Brescia",
+        "to": "Pesaro",
+        "merchandise": {
+          "tomatoes": 126,
+          "toothbrush": 2,
+          "chocolate": 2,
+          "beans": 2,
+          "toilet paper": 3,
+          "fish": 2,
+          "carrots": 1,
+          "razor": 1,
+          "eggs": 1,
+          "kitchen towels": 1,
+          "toothpaste": 1,
+          "trash bags": 2,
+          "dish soap": 1,
+          "shampoo": 2,
+          "butter": 1,
+          "pens": 2,
+          "cereal": 1,
+          "ice cream": 1,
+          "keyboard": 2,
+          "broccoli": 2,
+          "bread": 3,
+          "garlic": 103,
+          "milk": 2,
+          "cheese": 2,
+          "rice": 1,
+          "light bulbs": 1,
+          "coffee": 2,
+          "onions": 2,
+          "laptop": 2,
+          "oranges": 2,
+          "spaghetti": 2,
+          "honey": 2,
+          "juice": 2,
+          "laundry detergent": 2,
+          "tuna": 1,
+          "shoes": 1,
+          "chicken": 1,
+          "socks": 2
+        }
+      },
+      {
+        "from": "Pesaro",
+        "to": "Reggio Calabria",
+        "merchandise": {
+          "tomatoes": 2,
+          "salad dressing": 2,
+          "toothbrush": 2,
+          "chocolate": 2,
+          "fish": 1,
+          "carrots": 2,
+          "eggs": 1,
+          "soap": 1,
+          "kitchen towels": 44,
+          "toothpaste": 1,
+          "potatoes": 2,
+          "apples": 14,
+          "trash bags": 2,
+          "sweater": 1,
+          "butter": 1,
+          "cereal": 1,
+          "ice cream": 2,
+          "keyboard": 3,
+          "broccoli": 2,
+          "bread": 4,
+          "milk": 2,
+          "cheese": 2,
+          "rice": 2,
+          "light bulbs": 1,
+          "coffee": 2,
+          "laptop": 2,
+          "oranges": 1,
+          "honey": 1,
+          "laundry detergent": 2,
+          "tuna": 2,
+          "shoes": 2,
+          "ketchup": 1,
+          "chicken": 1,
+          "socks": 3
+        }
+      }
+    ]
+  },
+  {
+    "id": "s20",
+    "route": [
+      {
+        "from": "Taranto",
+        "to": "Alessandria",
+        "merchandise": {
+          "tomatoes": 1,
+          "salad dressing": 1,
+          "toothbrush": 2,
+          "paper towels": 1,
+          "chocolate": 1,
+          "beans": 2,
+          "toilet paper": 1,
+          "fish": 1,
+          "carrots": 11,
+          "razor": 2,
+          "eggs": 2,
+          "soap": 1,
+          "toilet cleaner": 2,
+          "kitchen towels": 2,
+          "toothpaste": 2,
+          "yogurt": 2,
+          "potatoes": 1,
+          "apples": 3,
+          "trash bags": 176,
+          "sweater": 1,
+          "dish soap": 1,
+          "butter": 1,
+          "mouse": 2,
+          "cereal": 1,
+          "ice cream": 2,
+          "keyboard": 1,
+          "broccoli": 2,
+          "bread": 1,
+          "garlic": 2,
+          "cheese": 2,
+          "light bulbs": 120,
+          "coffee": 1,
+          "onions": 1,
+          "oranges": 3,
+          "spaghetti": 2,
+          "honey": 2,
+          "juice": 2,
+          "laundry detergent": 134
+        }
+      },
+      {
+        "from": "Alessandria",
+        "to": "Trieste",
+        "merchandise": {
+          "tomatoes": 1,
+          "salad dressing": 2,
+          "paper towels": 1,
+          "chocolate": 1,
+          "beans": 1,
+          "toilet paper": 1,
+          "fish": 1,
+          "carrots": 2,
+          "razor": 116,
+          "toothpaste": 2,
+          "yogurt": 2,
+          "potatoes": 1,
+          "apples": 2,
+          "sweater": 1,
+          "shampoo": 1,
+          "butter": 1,
+          "pens": 2,
+          "mouse": 1,
+          "ice cream": 144,
+          "keyboard": 1,
+          "broccoli": 1,
+          "bread": 2,
+          "milk": 1,
+          "rice": 1,
+          "light bulbs": 1,
+          "coffee": 2,
+          "onions": 1,
+          "laptop": 1,
+          "oranges": 135,
+          "spaghetti": 1,
+          "honey": 2,
+          "juice": 1,
+          "laundry detergent": 2,
+          "tuna": 2,
+          "ketchup": 2,
+          "chicken": 1,
+          "socks": 2
+        }
+      },
+      {
+        "from": "Trieste",
+        "to": "Bolzano-Bozen",
+        "merchandise": {
+          "tomatoes": 2,
+          "salad dressing": 2,
+          "toothbrush": 1,
+          "paper towels": 2,
+          "beans": 2,
+          "toilet paper": 2,
+          "fish": 2,
+          "carrots": 2,
+          "soap": 1,
+          "toilet cleaner": 115,
+          "kitchen towels": 2,
+          "toothpaste": 1,
+          "potatoes": 1,
+          "apples": 3,
+          "trash bags": 1,
+          "butter": 24,
+          "pens": 1,
+          "mouse": 1,
+          "cereal": 2,
+          "ice cream": 2,
+          "keyboard": 2,
+          "broccoli": 2,
+          "garlic": 2,
+          "milk": 1,
+          "light bulbs": 3,
+          "coffee": 157,
+          "onions": 1,
+          "laptop": 2,
+          "oranges": 2,
+          "laundry detergent": 159,
+          "shoes": 1,
+          "ketchup": 1,
+          "chicken": 2,
+          "socks": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "s22",
+    "route": [
+      {
+        "from": "Brescia",
+        "to": "Trieste",
+        "merchandise": {
+          "tomatoes": 2,
+          "salad dressing": 1,
+          "toothbrush": 2,
+          "paper towels": 2,
+          "toilet paper": 1,
+          "fish": 1,
+          "carrots": 1,
+          "razor": 1,
+          "eggs": 2,
+          "soap": 1,
+          "kitchen towels": 1,
+          "toothpaste": 1,
+          "potatoes": 1,
+          "apples": 3,
+          "trash bags": 2,
+          "dish soap": 1,
+          "shampoo": 2,
+          "pens": 2,
+          "mouse": 2,
+          "ice cream": 2,
+          "keyboard": 2,
+          "broccoli": 1,
+          "bread": 141,
+          "garlic": 2,
+          "milk": 2,
+          "cheese": 1,
+          "rice": 1,
+          "light bulbs": 1,
+          "coffee": 1,
+          "laptop": 11,
+          "oranges": 2,
+          "spaghetti": 2,
+          "honey": 3,
+          "juice": 1,
+          "laundry detergent": 102,
+          "tuna": 2,
+          "shoes": 2,
+          "chicken": 2
+        }
+      },
+      {
+        "from": "Trieste",
+        "to": "Pistoia",
+        "merchandise": {
+          "tomatoes": 1,
+          "toothbrush": 71,
+          "chocolate": 3,
+          "beans": 2,
+          "toilet paper": 2,
+          "carrots": 1,
+          "razor": 138,
+          "eggs": 1,
+          "soap": 30,
+          "toilet cleaner": 1,
+          "kitchen towels": 1,
+          "toothpaste": 1,
+          "yogurt": 1,
+          "potatoes": 2,
+          "apples": 2,
+          "trash bags": 2,
+          "sweater": 4,
+          "butter": 1,
+          "pens": 2,
+          "cereal": 1,
+          "ice cream": 1,
+          "keyboard": 2,
+          "broccoli": 2,
+          "bread": 3,
+          "garlic": 2,
+          "milk": 3,
+          "cheese": 1,
+          "rice": 2,
+          "light bulbs": 2,
+          "coffee": 3,
+          "onions": 2,
+          "oranges": 1,
+          "spaghetti": 2,
+          "juice": 144,
+          "laundry detergent": 2,
+          "tuna": 2,
+          "ketchup": 1,
+          "chicken": 2,
+          "socks": 2
+        }
+      },
+      {
+        "from": "Pistoia",
+        "to": "Salerno",
+        "merchandise": {
+          "tomatoes": 1,
+          "paper towels": 1,
+          "beans": 2,
+          "toilet paper": 2,
+          "fish": 1,
+          "razor": 136,
+          "eggs": 1,
+          "soap": 2,
+          "toothpaste": 2,
+          "potatoes": 36,
+          "apples": 2,
+          "sweater": 1,
+          "dish soap": 110,
+          "shampoo": 2,
+          "butter": 2,
+          "pens": 1,
+          "mouse": 1,
+          "ice cream": 2,
+          "keyboard": 2,
+          "bread": 3,
+          "garlic": 2,
+          "milk": 3,
+          "cheese": 1,
+          "rice": 2,
+          "laptop": 1,
+          "spaghetti": 2,
+          "honey": 2,
+          "juice": 1,
+          "laundry detergent": 1,
+          "tuna": 1,
+          "shoes": 2,
+          "ketchup": 2,
+          "chicken": 2,
+          "socks": 1
+        }
+      },
+      {
+        "from": "Salerno",
+        "to": "Catania",
+        "merchandise": {
+          "salad dressing": 2,
+          "paper towels": 1,
+          "beans": 2,
+          "toilet paper": 1,
+          "carrots": 96,
+          "eggs": 1,
+          "soap": 55,
+          "toilet cleaner": 2,
+          "toothpaste": 2,
+          "yogurt": 128,
+          "apples": 1,
+          "trash bags": 1,
+          "dish soap": 1,
+          "shampoo": 2,
+          "butter": 2,
+          "pens": 1,
+          "mouse": 1,
+          "cereal": 1,
+          "ice cream": 1,
+          "keyboard": 2,
+          "broccoli": 1,
+          "bread": 2,
+          "milk": 2,
+          "cheese": 2,
+          "rice": 2,
+          "light bulbs": 1,
+          "onions": 2,
+          "laptop": 2,
+          "laundry detergent": 2,
+          "shoes": 2,
+          "ketchup": 2,
+          "socks": 2
+        }
+      }
+    ]
+  },
+  {
+    "id": "s7",
+    "route": [
+      {
+        "from": "Padua",
+        "to": "Modena",
+        "merchandise": {
+          "tomatoes": 1,
+          "salad dressing": 1,
+          "chocolate": 1,
+          "toilet paper": 1,
+          "carrots": 1,
+          "eggs": 1,
+          "soap": 2,
+          "kitchen towels": 2,
+          "yogurt": 1,
+          "potatoes": 2,
+          "apples": 1,
+          "sweater": 2,
+          "shampoo": 2,
+          "butter": 2,
+          "mouse": 1,
+          "keyboard": 2,
+          "broccoli": 2,
+          "bread": 1,
+          "garlic": 2,
+          "rice": 1,
+          "light bulbs": 86,
+          "coffee": 1,
+          "onions": 2,
+          "laptop": 2,
+          "oranges": 1,
+          "honey": 146,
+          "juice": 2,
+          "laundry detergent": 2,
+          "tuna": 1,
+          "shoes": 2,
+          "ketchup": 1,
+          "socks": 1
+        }
+      },
+      {
+        "from": "Modena",
+        "to": "Pistoia",
+        "merchandise": {
+          "tomatoes": 1,
+          "salad dressing": 1,
+          "toothbrush": 1,
+          "paper towels": 1,
+          "chocolate": 1,
+          "beans": 2,
+          "toilet paper": 1,
+          "fish": 2,
+          "razor": 2,
+          "eggs": 1,
+          "soap": 1,
+          "toilet cleaner": 2,
+          "kitchen towels": 2,
+          "toothpaste": 2,
+          "apples": 2,
+          "sweater": 1,
+          "dish soap": 1,
+          "shampoo": 2,
+          "pens": 2,
+          "mouse": 2,
+          "cereal": 2,
+          "ice cream": 2,
+          "broccoli": 1,
+          "bread": 2,
+          "garlic": 2,
+          "milk": 1,
+          "cheese": 1,
+          "rice": 2,
+          "onions": 2,
+          "laptop": 1,
+          "oranges": 168,
+          "honey": 1,
+          "juice": 2,
+          "laundry detergent": 1,
+          "shoes": 75,
+          "ketchup": 1,
+          "chicken": 1,
+          "socks": 1
+        }
+      },
+      {
+        "from": "Pistoia",
+        "to": "Verona",
+        "merchandise": {
+          "salad dressing": 2,
+          "toothbrush": 2,
+          "chocolate": 1,
+          "toilet paper": 2,
+          "carrots": 1,
+          "razor": 2,
+          "soap": 2,
+          "toilet cleaner": 2,
+          "kitchen towels": 130,
+          "yogurt": 3,
+          "potatoes": 1,
+          "apples": 118,
+          "trash bags": 2,
+          "sweater": 1,
+          "shampoo": 2,
+          "butter": 2,
+          "pens": 1,
+          "mouse": 1,
+          "ice cream": 109,
+          "keyboard": 2,
+          "broccoli": 1,
+          "bread": 2,
+          "light bulbs": 2,
+          "coffee": 1,
+          "onions": 2,
+          "laptop": 1,
+          "oranges": 1,
+          "spaghetti": 2,
+          "honey": 2,
+          "juice": 1,
+          "laundry detergent": 1,
+          "tuna": 1,
+          "ketchup": 1,
+          "socks": 1
+        }
+      },
+      {
+        "from": "Verona",
+        "to": "Bergamo",
+        "merchandise": {
+          "tomatoes": 3,
+          "toothbrush": 1,
+          "paper towels": 3,
+          "chocolate": 2,
+          "beans": 2,
+          "carrots": 1,
+          "eggs": 2,
+          "soap": 50,
+          "toilet cleaner": 1,
+          "kitchen towels": 6,
+          "yogurt": 2,
+          "potatoes": 105,
+          "apples": 6,
+          "trash bags": 2,
+          "sweater": 152,
+          "dish soap": 1,
+          "shampoo": 3,
+          "butter": 2,
+          "pens": 2,
+          "mouse": 2,
+          "cereal": 57,
+          "ice cream": 5,
+          "keyboard": 1,
+          "broccoli": 2,
+          "bread": 2,
+          "garlic": 1,
+          "cheese": 2,
+          "rice": 2,
+          "light bulbs": 1,
+          "coffee": 1,
+          "onions": 1,
+          "laptop": 2,
+          "oranges": 2,
+          "spaghetti": 1,
+          "honey": 1,
+          "juice": 1,
+          "tuna": 1,
+          "shoes": 1,
+          "ketchup": 1,
+          "chicken": 2,
+          "socks": 2
+        }
+      }
+    ]
+  },
+  {
+    "id": "s42",
+    "route": [
+      {
+        "from": "Padua",
+        "to": "Pescara",
+        "merchandise": {
+          "light bulbs": 88,
+          "honey": 146
+        }
+      },
+      {
+        "from": "Pescara",
+        "to": "Padua",
+        "merchandise": {
+          "light bulbs": 43,
+          "oranges": 87,
+          "honey": 70,
+          "shoes": 45
+        }
+      },
+      {
+        "from": "Padua",
+        "to": "Pistoia",
+        "merchandise": {
+          "kitchen towels": 14,
+          "apples": 14,
+          "ice cream": 11,
+          "light bulbs": 18,
+          "oranges": 115,
+          "honey": 28,
+          "shoes": 59
+        }
+      }
+    ]
+  },
+  {
+    "id": "s17",
+    "route": [
+      {
+        "from": "Novara",
+        "to": "Rimini",
+        "merchandise": {
+          "salad dressing": 1,
+          "toothbrush": 1,
+          "paper towels": 44,
+          "chocolate": 2,
+          "beans": 1,
+          "toilet paper": 2,
+          "fish": 2,
+          "carrots": 1,
+          "soap": 1,
+          "toilet cleaner": 1,
+          "yogurt": 2,
+          "potatoes": 1,
+          "apples": 2,
+          "sweater": 2,
+          "butter": 1,
+          "mouse": 1,
+          "broccoli": 1,
+          "bread": 1,
+          "cheese": 2,
+          "rice": 2,
+          "light bulbs": 1,
+          "coffee": 2,
+          "laptop": 1,
+          "oranges": 2,
+          "spaghetti": 1,
+          "honey": 2,
+          "shoes": 2,
+          "ketchup": 2,
+          "chicken": 121
+        }
+      },
+      {
+        "from": "Rimini",
+        "to": "Treviso",
+        "merchandise": {
+          "tomatoes": 1,
+          "toothbrush": 1,
+          "paper towels": 1,
+          "chocolate": 117,
+          "beans": 1,
+          "toilet paper": 2,
+          "fish": 93,
+          "razor": 2,
+          "eggs": 1,
+          "soap": 2,
+          "toilet cleaner": 1,
+          "kitchen towels": 1,
+          "toothpaste": 2,
+          "yogurt": 1,
+          "potatoes": 1,
+          "apples": 2,
+          "sweater": 1,
+          "shampoo": 2,
+          "butter": 1,
+          "pens": 2,
+          "cereal": 2,
+          "broccoli": 2,
+          "bread": 2,
+          "milk": 1,
+          "cheese": 2,
+          "rice": 1,
+          "coffee": 2,
+          "onions": 1,
+          "laptop": 1,
+          "oranges": 1,
+          "spaghetti": 1,
+          "honey": 123,
+          "juice": 2,
+          "tuna": 1,
+          "shoes": 164,
+          "ketchup": 1,
+          "socks": 2
+        }
+      }
+    ]
+  },
+  {
+    "id": "s31",
+    "route": [
+      {
+        "from": "Foggia",
+        "to": "Pistoia",
+        "merchandise": {
+          "kitchen towels": 2,
+          "mouse": 2,
+          "ice cream": 20,
+          "rice": 33,
+          "onions": 106
+        }
+      },
+      {
+        "from": "Pistoia",
+        "to": "Foggia",
+        "merchandise": {
+          "beans": 71,
+          "kitchen towels": 2,
+          "potatoes": 16,
+          "mouse": 1,
+          "ice cream": 9,
+          "rice": 17,
+          "onions": 44
+        }
+      },
+      {
+        "from": "Foggia",
+        "to": "Trento",
+        "merchandise": {
+          "tomatoes": 1,
+          "beans": 82,
+          "soap": 11,
+          "kitchen towels": 23,
+          "potatoes": 21,
+          "sweater": 2,
+          "shampoo": 1,
+          "ice cream": 1,
+          "rice": 3,
+          "onions": 5,
+          "ketchup": 17,
+          "chicken": 2
+        }
+      }
+    ]
+  },
+  {
+    "id": "s13",
+    "route": [
+      {
+        "from": "Palermo",
+        "to": "Vicenza",
+        "merchandise": {
+          "salad dressing": 1,
+          "paper towels": 2,
+          "chocolate": 1,
+          "beans": 127,
+          "toilet paper": 1,
+          "soap": 96,
+          "toilet cleaner": 1,
+          "kitchen towels": 2,
+          "yogurt": 1,
+          "potatoes": 2,
+          "apples": 1,
+          "trash bags": 12,
+          "sweater": 2,
+          "dish soap": 1,
+          "butter": 1,
+          "pens": 1,
+          "keyboard": 1,
+          "garlic": 2,
+          "milk": 1,
+          "cheese": 1,
+          "light bulbs": 178,
+          "coffee": 2,
+          "laptop": 1,
+          "oranges": 2,
+          "spaghetti": 2,
+          "honey": 2,
+          "juice": 1,
+          "laundry detergent": 1,
+          "tuna": 1,
+          "shoes": 2,
+          "ketchup": 1,
+          "chicken": 2,
+          "socks": 1
+        }
+      },
+      {
+        "from": "Vicenza",
+        "to": "Foggia",
+        "merchandise": {
+          "tomatoes": 2,
+          "salad dressing": 1,
+          "paper towels": 1,
+          "chocolate": 49,
+          "beans": 7,
+          "toilet paper": 1,
+          "fish": 1,
+          "carrots": 1,
+          "razor": 1,
+          "eggs": 1,
+          "soap": 7,
+          "toilet cleaner": 1,
+          "kitchen towels": 2,
+          "toothpaste": 1,
+          "yogurt": 2,
+          "trash bags": 4,
+          "sweater": 1,
+          "dish soap": 2,
+          "shampoo": 1,
+          "butter": 1,
+          "pens": 1,
+          "mouse": 1,
+          "cereal": 2,
+          "ice cream": 2,
+          "broccoli": 1,
+          "garlic": 90,
+          "milk": 2,
+          "cheese": 2,
+          "rice": 1,
+          "light bulbs": 11,
+          "coffee": 2,
+          "oranges": 1,
+          "honey": 78,
+          "juice": 1,
+          "laundry detergent": 1,
+          "tuna": 2,
+          "shoes": 1,
+          "ketchup": 1,
+          "chicken": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "s40",
+    "route": [
+      {
+        "from": "Genoa",
+        "to": "Novara",
+        "merchandise": {
+          "salad dressing": 1,
+          "toothbrush": 1,
+          "paper towels": 1,
+          "chocolate": 1,
+          "beans": 2,
+          "toilet paper": 1,
+          "fish": 1,
+          "soap": 2,
+          "toilet cleaner": 1,
+          "kitchen towels": 65,
+          "toothpaste": 2,
+          "yogurt": 2,
+          "apples": 2,
+          "trash bags": 1,
+          "sweater": 7,
+          "shampoo": 2,
+          "mouse": 2,
+          "cereal": 1,
+          "broccoli": 1,
+          "cheese": 1,
+          "rice": 2,
+          "light bulbs": 2,
+          "onions": 1,
+          "laptop": 2,
+          "oranges": 1,
+          "honey": 2,
+          "juice": 1,
+          "tuna": 1,
+          "shoes": 4,
+          "ketchup": 2,
+          "chicken": 1
+        }
+      },
+      {
+        "from": "Novara",
+        "to": "Venice",
+        "merchandise": {
+          "tomatoes": 1,
+          "salad dressing": 2,
+          "toothbrush": 1,
+          "paper towels": 2,
+          "chocolate": 1,
+          "beans": 1,
+          "toilet paper": 1,
+          "fish": 2,
+          "carrots": 1,
+          "razor": 2,
+          "eggs": 1,
+          "kitchen towels": 6,
+          "yogurt": 2,
+          "potatoes": 2,
+          "apples": 1,
+          "sweater": 3,
+          "butter": 1,
+          "cereal": 2,
+          "ice cream": 1,
+          "keyboard": 1,
+          "garlic": 2,
+          "milk": 1,
+          "cheese": 1,
+          "rice": 86,
+          "light bulbs": 2,
+          "coffee": 1,
+          "laptop": 1,
+          "shoes": 3,
+          "ketchup": 1,
+          "chicken": 142,
+          "socks": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "s16",
+    "route": [
+      {
+        "from": "Andria",
+        "to": "Rimini",
+        "merchandise": {
+          "salad dressing": 1,
+          "toothbrush": 2,
+          "chocolate": 2,
+          "beans": 1,
+          "toilet paper": 2,
+          "fish": 1,
+          "carrots": 2,
+          "eggs": 1,
+          "soap": 2,
+          "toothpaste": 2,
+          "potatoes": 2,
+          "apples": 2,
+          "trash bags": 1,
+          "shampoo": 3,
+          "pens": 1,
+          "mouse": 1,
+          "cereal": 1,
+          "ice cream": 3,
+          "bread": 1,
+          "garlic": 2,
+          "milk": 2,
+          "cheese": 2,
+          "rice": 1,
+          "coffee": 2,
+          "oranges": 2,
+          "spaghetti": 46,
+          "honey": 65,
+          "laundry detergent": 2,
+          "tuna": 2,
+          "shoes": 2,
+          "ketchup": 3,
+          "chicken": 1,
+          "socks": 2
+        }
+      },
+      {
+        "from": "Rimini",
+        "to": "Guidonia Montecelio",
+        "merchandise": {
+          "salad dressing": 3,
+          "toothbrush": 2,
+          "chocolate": 2,
+          "beans": 1,
+          "fish": 2,
+          "carrots": 21,
+          "eggs": 2,
+          "soap": 3,
+          "toilet cleaner": 22,
+          "kitchen towels": 2,
+          "yogurt": 2,
+          "potatoes": 1,
+          "apples": 1,
+          "trash bags": 2,
+          "sweater": 1,
+          "dish soap": 2,
+          "shampoo": 1,
+          "butter": 1,
+          "pens": 2,
+          "mouse": 1,
+          "cereal": 1,
+          "keyboard": 1,
+          "broccoli": 1,
+          "bread": 1,
+          "garlic": 55,
+          "milk": 1,
+          "cheese": 1,
+          "rice": 2,
+          "light bulbs": 2,
+          "coffee": 2,
+          "onions": 2,
+          "laptop": 3,
+          "oranges": 2,
+          "spaghetti": 1,
+          "juice": 1,
+          "laundry detergent": 1,
+          "tuna": 1,
+          "shoes": 2,
+          "ketchup": 1,
+          "chicken": 3
+        }
+      },
+      {
+        "from": "Guidonia Montecelio",
+        "to": "Treviso",
+        "merchandise": {
+          "tomatoes": 1,
+          "salad dressing": 2,
+          "paper towels": 1,
+          "chocolate": 100,
+          "beans": 2,
+          "toilet paper": 1,
+          "fish": 2,
+          "razor": 2,
+          "eggs": 2,
+          "soap": 2,
+          "toilet cleaner": 2,
+          "kitchen towels": 2,
+          "toothpaste": 2,
+          "yogurt": 1,
+          "apples": 1,
+          "trash bags": 1,
+          "sweater": 2,
+          "dish soap": 2,
+          "shampoo": 1,
+          "butter": 2,
+          "mouse": 1,
+          "cereal": 2,
+          "broccoli": 2,
+          "bread": 3,
+          "garlic": 2,
+          "milk": 61,
+          "cheese": 1,
+          "rice": 103,
+          "laptop": 2,
+          "oranges": 1,
+          "spaghetti": 2,
+          "honey": 55,
+          "juice": 3,
+          "laundry detergent": 1,
+          "tuna": 1,
+          "shoes": 2,
+          "ketchup": 1,
+          "chicken": 1,
+          "socks": 1
+        }
+      },
+      {
+        "from": "Treviso",
+        "to": "Giugliano in Campania",
+        "merchandise": {
+          "toothbrush": 2,
+          "paper towels": 1,
+          "chocolate": 1,
+          "beans": 1,
+          "toilet paper": 2,
+          "fish": 2,
+          "carrots": 20,
+          "razor": 1,
+          "soap": 1,
+          "kitchen towels": 1,
+          "toothpaste": 2,
+          "yogurt": 2,
+          "potatoes": 1,
+          "trash bags": 1,
+          "dish soap": 2,
+          "shampoo": 2,
+          "butter": 1,
+          "pens": 1,
+          "mouse": 1,
+          "cereal": 2,
+          "ice cream": 1,
+          "keyboard": 2,
+          "broccoli": 2,
+          "bread": 2,
+          "garlic": 142,
+          "milk": 2,
+          "cheese": 1,
+          "rice": 1,
+          "light bulbs": 2,
+          "coffee": 2,
+          "onions": 2,
+          "oranges": 2,
+          "spaghetti": 1,
+          "honey": 2,
+          "shoes": 3,
+          "ketchup": 1,
+          "chicken": 2,
+          "socks": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "s30",
+    "route": [
+      {
+        "from": "Foggia",
+        "to": "Pistoia",
+        "merchandise": {
+          "tomatoes": 1,
+          "salad dressing": 2,
+          "toothbrush": 1,
+          "paper towels": 2,
+          "beans": 1,
+          "fish": 2,
+          "carrots": 2,
+          "razor": 1,
+          "eggs": 2,
+          "soap": 2,
+          "toilet cleaner": 1,
+          "kitchen towels": 2,
+          "yogurt": 1,
+          "potatoes": 2,
+          "trash bags": 2,
+          "sweater": 2,
+          "shampoo": 1,
+          "mouse": 3,
+          "cereal": 2,
+          "ice cream": 21,
+          "broccoli": 1,
+          "bread": 2,
+          "milk": 1,
+          "cheese": 1,
+          "rice": 29,
+          "light bulbs": 2,
+          "coffee": 1,
+          "onions": 113,
+          "laptop": 1,
+          "oranges": 1,
+          "laundry detergent": 2,
+          "tuna": 1,
+          "shoes": 2,
+          "ketchup": 2,
+          "chicken": 1
+        }
+      },
+      {
+        "from": "Pistoia",
+        "to": "Trento",
+        "merchandise": {
+          "toothbrush": 1,
+          "paper towels": 1,
+          "beans": 131,
+          "fish": 2,
+          "razor": 2,
+          "eggs": 1,
+          "soap": 3,
+          "toilet cleaner": 2,
+          "kitchen towels": 2,
+          "toothpaste": 1,
+          "yogurt": 1,
+          "potatoes": 28,
+          "apples": 2,
+          "sweater": 2,
+          "dish soap": 1,
+          "shampoo": 2,
+          "butter": 1,
+          "pens": 1,
+          "mouse": 1,
+          "cereal": 1,
+          "ice cream": 2,
+          "keyboard": 2,
+          "broccoli": 2,
+          "bread": 1,
+          "garlic": 1,
+          "rice": 1,
+          "coffee": 1,
+          "onions": 2,
+          "laptop": 1,
+          "oranges": 1,
+          "spaghetti": 1,
+          "juice": 1,
+          "laundry detergent": 1,
+          "shoes": 2,
+          "ketchup": 1,
+          "chicken": 2,
+          "socks": 2
+        }
+      },
+      {
+        "from": "Trento",
+        "to": "Alessandria",
+        "merchandise": {
+          "tomatoes": 1,
+          "salad dressing": 1,
+          "toothbrush": 2,
+          "chocolate": 2,
+          "beans": 1,
+          "toilet paper": 1,
+          "fish": 2,
+          "carrots": 2,
+          "eggs": 1,
+          "soap": 26,
+          "kitchen towels": 75,
+          "toothpaste": 1,
+          "yogurt": 2,
+          "apples": 1,
+          "trash bags": 2,
+          "sweater": 1,
+          "dish soap": 1,
+          "shampoo": 2,
+          "butter": 2,
+          "pens": 1,
+          "cereal": 2,
+          "ice cream": 2,
+          "keyboard": 2,
+          "broccoli": 1,
+          "bread": 2,
+          "garlic": 1,
+          "cheese": 2,
+          "rice": 1,
+          "light bulbs": 1,
+          "coffee": 1,
+          "onions": 1,
+          "laptop": 1,
+          "oranges": 2,
+          "spaghetti": 1,
+          "honey": 1,
+          "laundry detergent": 2,
+          "tuna": 1,
+          "shoes": 2,
+          "ketchup": 34,
+          "chicken": 2,
+          "socks": 1
+        }
+      },
+      {
+        "from": "Alessandria",
+        "to": "Torre del Greco",
+        "merchandise": {
+          "tomatoes": 1,
+          "salad dressing": 3,
+          "paper towels": 2,
+          "chocolate": 2,
+          "beans": 1,
+          "toilet paper": 1,
+          "fish": 1,
+          "carrots": 1,
+          "eggs": 2,
+          "soap": 2,
+          "toilet cleaner": 1,
+          "kitchen towels": 1,
+          "yogurt": 1,
+          "potatoes": 1,
+          "apples": 1,
+          "trash bags": 1,
+          "dish soap": 1,
+          "pens": 2,
+          "mouse": 2,
+          "cereal": 1,
+          "keyboard": 1,
+          "garlic": 7,
+          "milk": 2,
+          "cheese": 1,
+          "light bulbs": 1,
+          "coffee": 1,
+          "onions": 1,
+          "laptop": 2,
+          "oranges": 1,
+          "spaghetti": 162,
+          "juice": 2,
+          "laundry detergent": 1,
+          "tuna": 2,
+          "ketchup": 1,
+          "chicken": 1,
+          "socks": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "s45",
+    "route": [
+      {
+        "from": "Pistoia",
+        "to": "Verona",
+        "merchandise": {
+          "salad dressing": 51,
+          "ice cream": 12,
+          "bread": 41,
+          "rice": 27,
+          "onions": 62,
+          "laptop": 59,
+          "oranges": 46
+        }
+      },
+      {
+        "from": "Verona",
+        "to": "Foggia",
+        "merchandise": {
+          "salad dressing": 43,
+          "toothbrush": 6,
+          "beans": 25,
+          "potatoes": 9,
+          "butter": 28,
+          "ice cream": 8,
+          "bread": 26,
+          "rice": 21,
+          "onions": 41,
+          "laptop": 36,
+          "oranges": 29,
+          "laundry detergent": 20
+        }
+      }
+    ]
+  },
+  {
+    "id": "s15",
+    "route": [
+      {
+        "from": "Padua",
+        "to": "Bolzano-Bozen",
+        "merchandise": {
+          "tomatoes": 2,
+          "salad dressing": 2,
+          "paper towels": 1,
+          "chocolate": 2,
+          "beans": 1,
+          "toilet paper": 1,
+          "fish": 2,
+          "eggs": 1,
+          "soap": 96,
+          "toilet cleaner": 100,
+          "toothpaste": 1,
+          "yogurt": 1,
+          "potatoes": 1,
+          "trash bags": 1,
+          "sweater": 1,
+          "shampoo": 1,
+          "butter": 1,
+          "pens": 2,
+          "keyboard": 1,
+          "broccoli": 1,
+          "bread": 3,
+          "garlic": 1,
+          "rice": 1,
+          "light bulbs": 2,
+          "onions": 2,
+          "laptop": 1,
+          "oranges": 1,
+          "spaghetti": 2,
+          "juice": 3,
+          "laundry detergent": 3,
+          "tuna": 82,
+          "shoes": 1,
+          "ketchup": 141,
+          "chicken": 1,
+          "socks": 1
+        }
+      },
+      {
+        "from": "Bolzano-Bozen",
+        "to": "Catanzaro",
+        "merchandise": {
+          "tomatoes": 2,
+          "salad dressing": 2,
+          "paper towels": 1,
+          "chocolate": 2,
+          "toilet paper": 2,
+          "carrots": 1,
+          "razor": 3,
+          "eggs": 1,
+          "soap": 2,
+          "kitchen towels": 1,
+          "yogurt": 2,
+          "potatoes": 2,
+          "apples": 2,
+          "trash bags": 1,
+          "sweater": 106,
+          "dish soap": 1,
+          "butter": 1,
+          "pens": 2,
+          "mouse": 2,
+          "cereal": 1,
+          "ice cream": 1,
+          "keyboard": 3,
+          "broccoli": 2,
+          "bread": 2,
+          "milk": 118,
+          "rice": 1,
+          "coffee": 2,
+          "onions": 3,
+          "laptop": 1,
+          "oranges": 1,
+          "spaghetti": 1,
+          "honey": 2,
+          "juice": 1,
+          "laundry detergent": 1,
+          "tuna": 1,
+          "shoes": 2
+        }
+      },
+      {
+        "from": "Catanzaro",
+        "to": "Barletta",
+        "merchandise": {
+          "toothbrush": 1,
+          "chocolate": 2,
+          "beans": 2,
+          "toilet paper": 3,
+          "fish": 106,
+          "carrots": 2,
+          "razor": 2,
+          "eggs": 2,
+          "toilet cleaner": 4,
+          "yogurt": 1,
+          "potatoes": 2,
+          "apples": 2,
+          "trash bags": 2,
+          "sweater": 1,
+          "dish soap": 2,
+          "shampoo": 144,
+          "butter": 1,
+          "pens": 2,
+          "mouse": 2,
+          "cereal": 2,
+          "ice cream": 1,
+          "keyboard": 2,
+          "broccoli": 1,
+          "bread": 2,
+          "garlic": 1,
+          "milk": 1,
+          "cheese": 116,
+          "rice": 2,
+          "light bulbs": 1,
+          "onions": 1,
+          "laptop": 2,
+          "oranges": 1,
+          "spaghetti": 2,
+          "honey": 2,
+          "juice": 1,
+          "laundry detergent": 2,
+          "tuna": 2,
+          "shoes": 2,
+          "chicken": 1,
+          "socks": 1
+        }
+      },
+      {
+        "from": "Barletta",
+        "to": "Turin",
+        "merchandise": {
+          "salad dressing": 1,
+          "toothbrush": 2,
+          "paper towels": 2,
+          "chocolate": 1,
+          "beans": 2,
+          "fish": 6,
+          "carrots": 2,
+          "razor": 1,
+          "eggs": 2,
+          "soap": 1,
+          "toilet cleaner": 1,
+          "kitchen towels": 2,
+          "yogurt": 1,
+          "potatoes": 1,
+          "apples": 1,
+          "dish soap": 2,
+          "shampoo": 8,
+          "butter": 1,
+          "pens": 1,
+          "mouse": 2,
+          "cereal": 1,
+          "bread": 1,
+          "garlic": 1,
+          "cheese": 7,
+          "rice": 2,
+          "light bulbs": 105,
+          "coffee": 2,
+          "onions": 1,
+          "laptop": 1,
+          "spaghetti": 1,
+          "honey": 1,
+          "juice": 2,
+          "laundry detergent": 1,
+          "shoes": 2,
+          "ketchup": 1,
+          "chicken": 2,
+          "socks": 31
+        }
+      }
+    ]
+  },
+  {
+    "id": "s3",
+    "route": [
+      {
+        "from": "Reggio Calabria",
+        "to": "Trieste",
+        "merchandise": {
+          "tomatoes": 2,
+          "salad dressing": 2,
+          "toothbrush": 58,
+          "chocolate": 1,
+          "beans": 2,
+          "toilet paper": 2,
+          "fish": 2,
+          "carrots": 2,
+          "razor": 1,
+          "eggs": 2,
+          "soap": 1,
+          "kitchen towels": 1,
+          "yogurt": 2,
+          "potatoes": 3,
+          "apples": 2,
+          "sweater": 1,
+          "shampoo": 2,
+          "butter": 2,
+          "pens": 2,
+          "mouse": 162,
+          "cereal": 1,
+          "ice cream": 138,
+          "keyboard": 1,
+          "broccoli": 2,
+          "bread": 2,
+          "garlic": 1,
+          "milk": 2,
+          "cheese": 1,
+          "rice": 2,
+          "light bulbs": 1,
+          "coffee": 171,
+          "laptop": 2,
+          "oranges": 2,
+          "spaghetti": 1,
+          "honey": 1,
+          "juice": 2,
+          "laundry detergent": 2,
+          "tuna": 2,
+          "ketchup": 2,
+          "chicken": 2,
+          "socks": 2
+        }
+      },
+      {
+        "from": "Trieste",
+        "to": "La Spezia",
+        "merchandise": {
+          "tomatoes": 1,
+          "salad dressing": 2,
+          "toothbrush": 1,
+          "paper towels": 1,
+          "chocolate": 2,
+          "beans": 2,
+          "toilet paper": 1,
+          "fish": 3,
+          "carrots": 1,
+          "razor": 2,
+          "eggs": 2,
+          "soap": 1,
+          "toilet cleaner": 1,
+          "kitchen towels": 2,
+          "toothpaste": 3,
+          "yogurt": 2,
+          "potatoes": 2,
+          "apples": 2,
+          "trash bags": 2,
+          "shampoo": 2,
+          "butter": 1,
+          "pens": 2,
+          "mouse": 2,
+          "cereal": 2,
+          "keyboard": 1,
+          "bread": 1,
+          "garlic": 1,
+          "milk": 3,
+          "light bulbs": 2,
+          "coffee": 2,
+          "onions": 2,
+          "laptop": 1,
+          "honey": 1,
+          "juice": 75,
+          "laundry detergent": 2,
+          "tuna": 155,
+          "shoes": 2,
+          "ketchup": 1,
+          "chicken": 2,
+          "socks": 1
+        }
+      },
+      {
+        "from": "La Spezia",
+        "to": "Salerno",
+        "merchandise": {
+          "salad dressing": 1,
+          "toothbrush": 2,
+          "paper towels": 1,
+          "chocolate": 1,
+          "beans": 2,
+          "toilet paper": 2,
+          "fish": 2,
+          "carrots": 2,
+          "eggs": 2,
+          "kitchen towels": 1,
+          "toothpaste": 2,
+          "apples": 1,
+          "trash bags": 1,
+          "sweater": 139,
+          "dish soap": 2,
+          "shampoo": 1,
+          "butter": 3,
+          "mouse": 1,
+          "cereal": 2,
+          "ice cream": 2,
+          "keyboard": 2,
+          "broccoli": 2,
+          "bread": 3,
+          "garlic": 2,
+          "coffee": 1,
+          "onions": 2,
+          "laptop": 2,
+          "oranges": 38,
+          "spaghetti": 2,
+          "juice": 1,
+          "laundry detergent": 1,
+          "tuna": 2,
+          "shoes": 2,
+          "ketchup": 2,
+          "chicken": 2,
+          "socks": 2
+        }
+      },
+      {
+        "from": "Salerno",
+        "to": "Busto Arsizio",
+        "merchandise": {
+          "tomatoes": 2,
+          "salad dressing": 2,
+          "chocolate": 107,
+          "beans": 2,
+          "toilet paper": 2,
+          "fish": 2,
+          "razor": 2,
+          "eggs": 1,
+          "soap": 1,
+          "toilet cleaner": 1,
+          "kitchen towels": 2,
+          "toothpaste": 2,
+          "yogurt": 2,
+          "potatoes": 2,
+          "trash bags": 2,
+          "sweater": 2,
+          "dish soap": 1,
+          "shampoo": 1,
+          "butter": 1,
+          "pens": 2,
+          "mouse": 1,
+          "broccoli": 2,
+          "bread": 2,
+          "garlic": 1,
+          "milk": 1,
+          "cheese": 1,
+          "rice": 1,
+          "light bulbs": 3,
+          "coffee": 2,
+          "onions": 144,
+          "laptop": 2,
+          "spaghetti": 1,
+          "honey": 2,
+          "juice": 2,
+          "laundry detergent": 1,
+          "tuna": 2,
+          "shoes": 2,
+          "ketchup": 2,
+          "chicken": 34,
+          "socks": 2
+        }
+      }
+    ]
+  },
+  {
+    "id": "s37",
+    "route": [
+      {
+        "from": "Reggio Calabria",
+        "to": "Palermo",
+        "merchandise": {
+          "salad dressing": 2,
+          "toothbrush": 60,
+          "mouse": 150,
+          "ice cream": 127,
+          "coffee": 168,
+          "laptop": 2
+        }
+      },
+      {
+        "from": "Palermo",
+        "to": "Reggio Calabria",
+        "merchandise": {
+          "toothbrush": 25,
+          "mouse": 51,
+          "ice cream": 43,
+          "garlic": 2,
+          "coffee": 66,
+          "laptop": 2,
+          "juice": 45,
+          "tuna": 83
+        }
+      },
+      {
+        "from": "Reggio Calabria",
+        "to": "La Spezia",
+        "merchandise": {
+          "toothbrush": 4,
+          "sweater": 30,
+          "mouse": 8,
+          "ice cream": 7,
+          "garlic": 2,
+          "cheese": 2,
+          "coffee": 13,
+          "laptop": 2,
+          "oranges": 13,
+          "juice": 51,
+          "laundry detergent": 1,
+          "tuna": 96
+        }
+      }
+    ]
+  },
+  {
+    "id": "s47",
+    "route": [
+      {
+        "from": "Ferrara",
+        "to": "Andria",
+        "merchandise": {
+          "toilet paper": 101,
+          "toilet cleaner": 92,
+          "oranges": 156,
+          "laundry detergent": 80
+        }
+      },
+      {
+        "from": "Andria",
+        "to": "Ferrara",
+        "merchandise": {
+          "salad dressing": 28,
+          "toilet paper": 32,
+          "toilet cleaner": 32,
+          "laptop": 2,
+          "oranges": 48,
+          "laundry detergent": 30
+        }
+      },
+      {
+        "from": "Ferrara",
+        "to": "Brescia",
+        "merchandise": {
+          "tomatoes": 31,
+          "salad dressing": 27,
+          "toilet paper": 9,
+          "toilet cleaner": 9,
+          "garlic": 30,
+          "laptop": 2,
+          "oranges": 14,
+          "laundry detergent": 8
+        }
+      }
+    ]
+  },
+  {
+    "id": "s19",
+    "route": [
+      {
+        "from": "Guidonia Montecelio",
+        "to": "Vicenza",
+        "merchandise": {
+          "tomatoes": 1,
+          "salad dressing": 2,
+          "paper towels": 2,
+          "beans": 1,
+          "toilet paper": 2,
+          "fish": 1,
+          "razor": 1,
+          "eggs": 1,
+          "soap": 1,
+          "toilet cleaner": 2,
+          "kitchen towels": 115,
+          "toothpaste": 1,
+          "yogurt": 1,
+          "potatoes": 1,
+          "apples": 93,
+          "trash bags": 2,
+          "sweater": 1,
+          "dish soap": 1,
+          "shampoo": 2,
+          "butter": 1,
+          "mouse": 2,
+          "cereal": 2,
+          "ice cream": 1,
+          "keyboard": 2,
+          "bread": 3,
+          "milk": 150,
+          "cheese": 1,
+          "rice": 2,
+          "light bulbs": 1,
+          "coffee": 1,
+          "onions": 1,
+          "laptop": 2,
+          "oranges": 24,
+          "spaghetti": 2,
+          "laundry detergent": 1,
+          "tuna": 1,
+          "shoes": 2,
+          "ketchup": 1,
+          "socks": 2
+        }
+      },
+      {
+        "from": "Vicenza",
+        "to": "Sassari",
+        "merchandise": {
+          "salad dressing": 1,
+          "toothbrush": 41,
+          "chocolate": 1,
+          "carrots": 2,
+          "eggs": 2,
+          "soap": 1,
+          "toilet cleaner": 1,
+          "kitchen towels": 7,
+          "toothpaste": 1,
+          "yogurt": 97,
+          "potatoes": 2,
+          "apples": 6,
+          "trash bags": 2,
+          "sweater": 2,
+          "dish soap": 2,
+          "shampoo": 1,
+          "butter": 1,
+          "pens": 1,
+          "mouse": 1,
+          "cereal": 1,
+          "ice cream": 18,
+          "broccoli": 2,
+          "bread": 2,
+          "milk": 9,
+          "cheese": 2,
+          "rice": 1,
+          "light bulbs": 1,
+          "coffee": 1,
+          "onions": 2,
+          "laptop": 2,
+          "oranges": 4,
+          "spaghetti": 1,
+          "honey": 1,
+          "juice": 1,
+          "laundry detergent": 97,
+          "shoes": 2,
+          "ketchup": 1,
+          "chicken": 1,
+          "socks": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "s11",
+    "route": [
+      {
+        "from": "Sassari",
+        "to": "Modena",
+        "merchandise": {
+          "tomatoes": 2,
+          "salad dressing": 1,
+          "toothbrush": 1,
+          "paper towels": 1,
+          "beans": 1,
+          "fish": 2,
+          "soap": 1,
+          "toilet cleaner": 1,
+          "toothpaste": 2,
+          "yogurt": 2,
+          "apples": 1,
+          "sweater": 1,
+          "shampoo": 1,
+          "butter": 2,
+          "pens": 2,
+          "mouse": 12,
+          "cereal": 1,
+          "ice cream": 1,
+          "bread": 1,
+          "garlic": 3,
+          "milk": 1,
+          "rice": 2,
+          "light bulbs": 2,
+          "onions": 2,
+          "oranges": 32,
+          "spaghetti": 2,
+          "juice": 1,
+          "laundry detergent": 1,
+          "shoes": 1,
+          "ketchup": 2,
+          "chicken": 1,
+          "socks": 2
+        }
+      },
+      {
+        "from": "Modena",
+        "to": "Bologna",
+        "merchandise": {
+          "salad dressing": 3,
+          "toothbrush": 1,
+          "paper towels": 2,
+          "toilet paper": 1,
+          "fish": 2,
+          "carrots": 2,
+          "razor": 1,
+          "eggs": 1,
+          "toilet cleaner": 1,
+          "toothpaste": 2,
+          "apples": 2,
+          "mouse": 2,
+          "cereal": 1,
+          "ice cream": 1,
+          "keyboard": 1,
+          "broccoli": 2,
+          "bread": 1,
+          "garlic": 112,
+          "milk": 57,
+          "cheese": 2,
+          "rice": 1,
+          "light bulbs": 103,
+          "coffee": 1,
+          "onions": 1,
+          "laptop": 1,
+          "spaghetti": 2,
+          "honey": 1,
+          "laundry detergent": 1,
+          "tuna": 2,
+          "shoes": 1,
+          "ketchup": 12,
+          "chicken": 1
+        }
+      },
+      {
+        "from": "Bologna",
+        "to": "Grosseto",
+        "merchandise": {
+          "salad dressing": 2,
+          "paper towels": 3,
+          "chocolate": 7,
+          "beans": 1,
+          "toilet paper": 66,
+          "carrots": 1,
+          "razor": 2,
+          "soap": 2,
+          "toilet cleaner": 2,
+          "kitchen towels": 2,
+          "toothpaste": 1,
+          "yogurt": 1,
+          "apples": 1,
+          "trash bags": 1,
+          "cereal": 2,
+          "keyboard": 1,
+          "bread": 1,
+          "garlic": 1,
+          "milk": 2,
+          "cheese": 2,
+          "rice": 2,
+          "coffee": 1,
+          "laptop": 2,
+          "spaghetti": 28,
+          "honey": 1,
+          "juice": 1,
+          "laundry detergent": 1,
+          "tuna": 146,
+          "shoes": 2,
+          "chicken": 2,
+          "socks": 2
+        }
+      },
+      {
+        "from": "Grosseto",
+        "to": "Milan",
+        "merchandise": {
+          "tomatoes": 1,
+          "salad dressing": 3,
+          "paper towels": 127,
+          "chocolate": 3,
+          "beans": 1,
+          "toilet paper": 4,
+          "fish": 1,
+          "razor": 2,
+          "eggs": 2,
+          "soap": 2,
+          "kitchen towels": 1,
+          "toothpaste": 1,
+          "trash bags": 1,
+          "sweater": 2,
+          "dish soap": 25,
+          "shampoo": 1,
+          "pens": 2,
+          "mouse": 2,
+          "cereal": 121,
+          "broccoli": 1,
+          "garlic": 79,
+          "milk": 1,
+          "cheese": 2,
+          "light bulbs": 2,
+          "laptop": 2,
+          "spaghetti": 2,
+          "honey": 1,
+          "tuna": 8,
+          "shoes": 1,
+          "chicken": 1,
+          "socks": 2
+        }
+      }
+    ]
+  },
+  {
+    "id": "s10",
+    "route": [
+      {
+        "from": "Verona",
+        "to": "Modena",
+        "merchandise": {
+          "tomatoes": 2,
+          "salad dressing": 120,
+          "paper towels": 3,
+          "chocolate": 1,
+          "toilet paper": 1,
+          "carrots": 1,
+          "razor": 1,
+          "eggs": 1,
+          "soap": 1,
+          "kitchen towels": 1,
+          "toothpaste": 2,
+          "yogurt": 2,
+          "potatoes": 2,
+          "apples": 1,
+          "trash bags": 2,
+          "sweater": 2,
+          "butter": 1,
+          "pens": 2,
+          "mouse": 2,
+          "cereal": 2,
+          "keyboard": 2,
+          "broccoli": 2,
+          "bread": 96,
+          "garlic": 2,
+          "milk": 1,
+          "cheese": 1,
+          "rice": 1,
+          "light bulbs": 3,
+          "laptop": 149,
+          "oranges": 107,
+          "honey": 1,
+          "juice": 2,
+          "laundry detergent": 1,
+          "shoes": 1,
+          "ketchup": 2,
+          "chicken": 1,
+          "socks": 2
+        }
+      },
+      {
+        "from": "Modena",
+        "to": "Naples",
+        "merchandise": {
+          "salad dressing": 72,
+          "toothbrush": 19,
+          "paper towels": 2,
+          "chocolate": 2,
+          "beans": 1,
+          "toilet paper": 1,
+          "razor": 2,
+          "eggs": 1,
+          "soap": 2,
+          "toilet cleaner": 1,
+          "kitchen towels": 2,
+          "toothpaste": 2,
+          "potatoes": 1,
+          "trash bags": 1,
+          "sweater": 2,
+          "dish soap": 1,
+          "shampoo": 2,
+          "butter": 179,
+          "mouse": 2,
+          "cereal": 1,
+          "ice cream": 1,
+          "keyboard": 2,
+          "bread": 1,
+          "milk": 1,
+          "cheese": 1,
+          "rice": 2,
+          "light bulbs": 2,
+          "coffee": 2,
+          "onions": 1,
+          "oranges": 2,
+          "spaghetti": 1,
+          "juice": 2,
+          "laundry detergent": 134,
+          "shoes": 1,
+          "ketchup": 1,
+          "socks": 1
+        }
+      },
+      {
+        "from": "Naples",
+        "to": "Torre del Greco",
+        "merchandise": {
+          "paper towels": 3,
+          "fish": 99,
+          "carrots": 2,
+          "eggs": 2,
+          "soap": 1,
+          "toilet cleaner": 1,
+          "kitchen towels": 1,
+          "toothpaste": 1,
+          "apples": 1,
+          "sweater": 1,
+          "dish soap": 1,
+          "shampoo": 2,
+          "butter": 29,
+          "pens": 2,
+          "mouse": 2,
+          "ice cream": 1,
+          "keyboard": 2,
+          "broccoli": 2,
+          "bread": 2,
+          "milk": 1,
+          "rice": 2,
+          "light bulbs": 1,
+          "coffee": 1,
+          "onions": 2,
+          "laptop": 1,
+          "oranges": 2,
+          "spaghetti": 1,
+          "juice": 2,
+          "laundry detergent": 122,
+          "shoes": 1,
+          "ketchup": 1,
+          "socks": 2
+        }
+      },
+      {
+        "from": "Torre del Greco",
+        "to": "Alessandria",
+        "merchandise": {
+          "tomatoes": 1,
+          "salad dressing": 1,
+          "toothbrush": 2,
+          "paper towels": 1,
+          "chocolate": 2,
+          "beans": 1,
+          "toilet paper": 1,
+          "razor": 1,
+          "eggs": 2,
+          "toilet cleaner": 1,
+          "kitchen towels": 1,
+          "toothpaste": 1,
+          "apples": 1,
+          "trash bags": 129,
+          "sweater": 2,
+          "dish soap": 1,
+          "shampoo": 3,
+          "butter": 1,
+          "mouse": 2,
+          "cereal": 1,
+          "bread": 119,
+          "garlic": 1,
+          "milk": 2,
+          "cheese": 2,
+          "rice": 1,
+          "coffee": 3,
+          "onions": 133,
+          "laptop": 1,
+          "spaghetti": 1,
+          "juice": 1,
+          "laundry detergent": 2,
+          "tuna": 2,
+          "shoes": 163,
+          "ketchup": 2
+        }
+      }
+    ]
+  },
+  {
+    "id": "s32",
+    "route": [
+      {
+        "from": "Sassari",
+        "to": "Naples",
+        "merchandise": {
+          "mouse": 25,
+          "oranges": 32
+        }
+      },
+      {
+        "from": "Naples",
+        "to": "Sassari",
+        "merchandise": {
+          "mouse": 21,
+          "garlic": 58,
+          "milk": 30,
+          "light bulbs": 52,
+          "oranges": 15,
+          "ketchup": 13
+        }
+      },
+      {
+        "from": "Sassari",
+        "to": "Bologna",
+        "merchandise": {
+          "chocolate": 4,
+          "toilet paper": 12,
+          "mouse": 9,
+          "garlic": 74,
+          "milk": 38,
+          "light bulbs": 67,
+          "oranges": 4,
+          "spaghetti": 8,
+          "tuna": 28,
+          "ketchup": 17
+        }
+      }
+    ]
+  },
+  {
+    "id": "s14",
+    "route": [
+      {
+        "from": "Pescara",
+        "to": "Modena",
+        "merchandise": {
+          "tomatoes": 2,
+          "salad dressing": 2,
+          "toothbrush": 2,
+          "chocolate": 145,
+          "beans": 2,
+          "toilet paper": 2,
+          "fish": 1,
+          "razor": 1,
+          "eggs": 1,
+          "soap": 1,
+          "toilet cleaner": 2,
+          "kitchen towels": 2,
+          "yogurt": 1,
+          "potatoes": 2,
+          "apples": 1,
+          "trash bags": 1,
+          "sweater": 1,
+          "dish soap": 3,
+          "shampoo": 170,
+          "butter": 2,
+          "pens": 1,
+          "mouse": 2,
+          "cereal": 1,
+          "ice cream": 2,
+          "keyboard": 1,
+          "broccoli": 1,
+          "garlic": 2,
+          "cheese": 2,
+          "rice": 1,
+          "light bulbs": 1,
+          "coffee": 2,
+          "onions": 2,
+          "laptop": 1,
+          "oranges": 1,
+          "honey": 1,
+          "juice": 2,
+          "laundry detergent": 170,
+          "tuna": 121,
+          "shoes": 1,
+          "ketchup": 2,
+          "chicken": 2,
+          "socks": 2
+        }
+      },
+      {
+        "from": "Modena",
+        "to": "Novara",
+        "merchandise": {
+          "tomatoes": 2,
+          "salad dressing": 68,
+          "toothbrush": 2,
+          "paper towels": 2,
+          "chocolate": 1,
+          "beans": 1,
+          "toilet paper": 1,
+          "fish": 1,
+          "eggs": 2,
+          "soap": 1,
+          "toilet cleaner": 1,
+          "toothpaste": 1,
+          "potatoes": 146,
+          "apples": 1,
+          "trash bags": 173,
+          "dish soap": 1,
+          "shampoo": 2,
+          "butter": 1,
+          "pens": 2,
+          "mouse": 1,
+          "cereal": 1,
+          "ice cream": 1,
+          "keyboard": 1,
+          "broccoli": 1,
+          "bread": 1,
+          "garlic": 2,
+          "milk": 1,
+          "cheese": 2,
+          "rice": 2,
+          "light bulbs": 2,
+          "onions": 163,
+          "oranges": 1,
+          "spaghetti": 1,
+          "honey": 2,
+          "juice": 2,
+          "laundry detergent": 1,
+          "tuna": 1,
+          "ketchup": 1,
+          "socks": 2
+        }
+      },
+      {
+        "from": "Novara",
+        "to": "Taranto",
+        "merchandise": {
+          "tomatoes": 104,
+          "salad dressing": 83,
+          "toothbrush": 2,
+          "paper towels": 3,
+          "beans": 1,
+          "fish": 1,
+          "carrots": 1,
+          "razor": 3,
+          "eggs": 2,
+          "soap": 117,
+          "toilet cleaner": 1,
+          "kitchen towels": 1,
+          "yogurt": 3,
+          "potatoes": 2,
+          "trash bags": 2,
+          "sweater": 2,
+          "dish soap": 1,
+          "shampoo": 2,
+          "butter": 1,
+          "pens": 1,
+          "mouse": 2,
+          "ice cream": 1,
+          "broccoli": 1,
+          "garlic": 1,
+          "milk": 1,
+          "light bulbs": 2,
+          "onions": 2,
+          "laptop": 1,
+          "oranges": 1,
+          "spaghetti": 1,
+          "honey": 2,
+          "juice": 1,
+          "laundry detergent": 1,
+          "tuna": 1,
+          "shoes": 2,
+          "chicken": 2,
+          "socks": 2
+        }
+      },
+      {
+        "from": "Taranto",
+        "to": "Cagliari",
+        "merchandise": {
+          "tomatoes": 2,
+          "salad dressing": 2,
+          "paper towels": 3,
+          "chocolate": 1,
+          "toilet paper": 1,
+          "fish": 2,
+          "carrots": 2,
+          "razor": 2,
+          "soap": 1,
+          "toilet cleaner": 2,
+          "kitchen towels": 82,
+          "toothpaste": 2,
+          "yogurt": 2,
+          "potatoes": 2,
+          "apples": 117,
+          "trash bags": 1,
+          "sweater": 1,
+          "dish soap": 2,
+          "shampoo": 1,
+          "butter": 1,
+          "pens": 2,
+          "mouse": 147,
+          "keyboard": 2,
+          "broccoli": 2,
+          "bread": 1,
+          "garlic": 73,
+          "milk": 2,
+          "rice": 2,
+          "light bulbs": 2,
+          "coffee": 1,
+          "onions": 1,
+          "laptop": 2,
+          "oranges": 2,
+          "spaghetti": 1,
+          "honey": 2,
+          "juice": 1,
+          "laundry detergent": 1,
+          "tuna": 2,
+          "shoes": 2,
+          "ketchup": 1,
+          "chicken": 1,
+          "socks": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "s46",
+    "route": [
+      {
+        "from": "Milan",
+        "to": "Pescara",
+        "merchandise": {
+          "chocolate": 134,
+          "shampoo": 151,
+          "laundry detergent": 154,
+          "tuna": 121
+        }
+      }
+    ]
+  },
+  {
+    "id": "s24",
+    "route": [
+      {
+        "from": "Trieste",
+        "to": "Reggio Emilia",
+        "merchandise": {
+          "salad dressing": 132,
+          "chocolate": 1,
+          "beans": 1,
+          "carrots": 2,
+          "razor": 1,
+          "eggs": 1,
+          "potatoes": 1,
+          "sweater": 1,
+          "shampoo": 2,
+          "butter": 1,
+          "ice cream": 1,
+          "keyboard": 1,
+          "cheese": 1,
+          "light bulbs": 2,
+          "coffee": 2,
+          "onions": 1,
+          "laptop": 104,
+          "spaghetti": 2,
+          "laundry detergent": 1,
+          "tuna": 2,
+          "socks": 3
+        }
+      },
+      {
+        "from": "Reggio Emilia",
+        "to": "Trieste",
+        "merchandise": {
+          "tomatoes": 1,
+          "salad dressing": 16,
+          "beans": 2,
+          "toilet paper": 1,
+          "fish": 2,
+          "carrots": 1,
+          "razor": 1,
+          "eggs": 1,
+          "soap": 1,
+          "toilet cleaner": 1,
+          "kitchen towels": 1,
+          "yogurt": 1,
+          "potatoes": 1,
+          "apples": 1,
+          "trash bags": 2,
+          "butter": 1,
+          "pens": 1,
+          "mouse": 1,
+          "cereal": 1,
+          "ice cream": 1,
+          "bread": 1,
+          "garlic": 125,
+          "cheese": 129,
+          "onions": 1,
+          "laptop": 155,
+          "oranges": 2,
+          "spaghetti": 2,
+          "juice": 1,
+          "laundry detergent": 29,
+          "tuna": 1,
+          "shoes": 1,
+          "ketchup": 1
+        }
+      },
+      {
+        "from": "Trieste",
+        "to": "Busto Arsizio",
+        "merchandise": {
+          "tomatoes": 130,
+          "salad dressing": 1,
+          "toothbrush": 1,
+          "beans": 2,
+          "toilet paper": 2,
+          "carrots": 1,
+          "razor": 1,
+          "eggs": 2,
+          "yogurt": 2,
+          "potatoes": 1,
+          "shampoo": 100,
+          "butter": 1,
+          "pens": 1,
+          "mouse": 1,
+          "cereal": 42,
+          "ice cream": 1,
+          "broccoli": 2,
+          "bread": 1,
+          "garlic": 35,
+          "milk": 1,
+          "cheese": 35,
+          "rice": 1,
+          "light bulbs": 2,
+          "coffee": 42,
+          "laptop": 38,
+          "honey": 1,
+          "juice": 1,
+          "laundry detergent": 11,
+          "tuna": 1,
+          "ketchup": 1,
+          "chicken": 2,
+          "socks": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "s29",
+    "route": [
+      {
+        "from": "Latina",
+        "to": "Verona",
+        "merchandise": {
+          "paper towels": 76,
+          "fish": 146,
+          "broccoli": 149,
+          "spaghetti": 64
+        }
+      }
+    ]
+  },
+  {
+    "id": "s6",
+    "route": [
+      {
+        "from": "Verona",
+        "to": "Modena",
+        "merchandise": {
+          "tomatoes": 1,
+          "salad dressing": 1,
+          "toothbrush": 2,
+          "paper towels": 72,
+          "chocolate": 1,
+          "beans": 1,
+          "toilet paper": 2,
+          "fish": 146,
+          "carrots": 3,
+          "razor": 2,
+          "eggs": 2,
+          "soap": 2,
+          "kitchen towels": 2,
+          "toothpaste": 1,
+          "yogurt": 1,
+          "potatoes": 1,
+          "apples": 1,
+          "trash bags": 2,
+          "sweater": 1,
+          "shampoo": 1,
+          "butter": 1,
+          "pens": 2,
+          "mouse": 2,
+          "cereal": 1,
+          "ice cream": 1,
+          "keyboard": 2,
+          "broccoli": 159,
+          "milk": 1,
+          "onions": 2,
+          "laptop": 1,
+          "oranges": 2,
+          "spaghetti": 61,
+          "honey": 2,
+          "juice": 1,
+          "laundry detergent": 2,
+          "tuna": 2,
+          "shoes": 2,
+          "chicken": 2,
+          "socks": 1
+        }
+      },
+      {
+        "from": "Modena",
+        "to": "Parma",
+        "merchandise": {
+          "tomatoes": 2,
+          "salad dressing": 2,
+          "toothbrush": 2,
+          "paper towels": 2,
+          "chocolate": 1,
+          "beans": 1,
+          "toilet paper": 154,
+          "carrots": 1,
+          "razor": 1,
+          "eggs": 2,
+          "soap": 2,
+          "toilet cleaner": 1,
+          "kitchen towels": 1,
+          "toothpaste": 2,
+          "yogurt": 2,
+          "potatoes": 1,
+          "apples": 2,
+          "trash bags": 1,
+          "sweater": 1,
+          "dish soap": 1,
+          "butter": 1,
+          "pens": 2,
+          "mouse": 2,
+          "cereal": 155,
+          "ice cream": 1,
+          "bread": 2,
+          "garlic": 2,
+          "milk": 1,
+          "rice": 1,
+          "coffee": 1,
+          "onions": 1,
+          "laptop": 2,
+          "oranges": 2,
+          "laundry detergent": 1,
+          "tuna": 1,
+          "shoes": 1,
+          "ketchup": 2,
+          "chicken": 2,
+          "socks": 1
+        }
+      },
+      {
+        "from": "Parma",
+        "to": "Livorno",
+        "merchandise": {
+          "salad dressing": 2,
+          "toothbrush": 2,
+          "fish": 1,
+          "carrots": 2,
+          "eggs": 76,
+          "soap": 1,
+          "kitchen towels": 2,
+          "yogurt": 93,
+          "potatoes": 1,
+          "apples": 2,
+          "sweater": 2,
+          "dish soap": 1,
+          "shampoo": 1,
+          "butter": 1,
+          "pens": 2,
+          "mouse": 1,
+          "cereal": 1,
+          "ice cream": 145,
+          "keyboard": 2,
+          "broccoli": 2,
+          "garlic": 1,
+          "milk": 141,
+          "cheese": 2,
+          "rice": 1,
+          "light bulbs": 2,
+          "onions": 1,
+          "laptop": 1,
+          "oranges": 1,
+          "spaghetti": 2,
+          "honey": 2,
+          "juice": 1,
+          "laundry detergent": 2,
+          "tuna": 2,
+          "shoes": 2,
+          "ketchup": 2,
+          "chicken": 1,
+          "socks": 2
+        }
+      },
+      {
+        "from": "Livorno",
+        "to": "Lecce",
+        "merchandise": {
+          "toothbrush": 1,
+          "chocolate": 1,
+          "beans": 108,
+          "toilet paper": 1,
+          "fish": 2,
+          "carrots": 1,
+          "razor": 2,
+          "eggs": 3,
+          "soap": 2,
+          "toilet cleaner": 1,
+          "kitchen towels": 61,
+          "yogurt": 4,
+          "potatoes": 166,
+          "apples": 1,
+          "trash bags": 1,
+          "sweater": 2,
+          "dish soap": 2,
+          "butter": 2,
+          "pens": 1,
+          "mouse": 2,
+          "cereal": 3,
+          "ice cream": 5,
+          "keyboard": 2,
+          "broccoli": 2,
+          "bread": 1,
+          "garlic": 1,
+          "milk": 3,
+          "cheese": 3,
+          "rice": 1,
+          "light bulbs": 2,
+          "coffee": 1,
+          "onions": 1,
+          "oranges": 3,
+          "spaghetti": 1,
+          "honey": 1,
+          "laundry detergent": 1,
+          "tuna": 1,
+          "shoes": 3,
+          "chicken": 2,
+          "socks": 2
+        }
+      }
+    ]
+  },
+  {
+    "id": "s0",
+    "route": [
+      {
+        "from": "Milan",
+        "to": "Forl\u00ec",
+        "merchandise": {
+          "cereal": 11,
+          "toothbrush": 16,
+          "keyboard": 11
+        }
+      }
+    ]
+  },
+  {
+    "id": "s1",
+    "route": [
+      {
+        "from": "Rome",
+        "to": "Catania",
+        "merchandise": {
+          "bread": 8,
+          "coffee": 38,
+          "eggs": 47,
+          "light bulbs": 25
+        }
+      },
+      {
+        "from": "Catania",
+        "to": "Piacenza",
+        "merchandise": {
+          "bread": 8,
+          "coffee": 38,
+          "eggs": 47,
+          "light bulbs": 25
+        }
+      },
+      {
+        "from": "Piacenza",
+        "to": "Pisa",
+        "merchandise": {
+          "bread": 10,
+          "tuna": 45,
+          "chocolate": 23,
+          "kitchen towels": 16
+        }
+      },
+      {
+        "from": "Pisa",
+        "to": "Reggio Calabria",
+        "merchandise": {
+          "bread": 10,
+          "tuna": 45,
+          "chocolate": 23,
+          "kitchen towels": 16
+        }
+      }
+    ]
+  },
+  {
+    "id": "s2",
+    "route": [
+      {
+        "from": "Salerno",
+        "to": "Novara",
+        "merchandise": {
+          "onions": 43,
+          "fish": 5
+        }
+      },
+      {
+        "from": "Novara",
+        "to": "Pescara",
+        "merchandise": {
+          "onions": 43,
+          "fish": 5
+        }
+      },
+      {
+        "from": "Pescara",
+        "to": "Lucca",
+        "merchandise": {
+          "onions": 43,
+          "fish": 5
+        }
+      },
+      {
+        "from": "Lucca",
+        "to": "Taranto",
+        "merchandise": {
+          "juice": 4,
+          "soap": 26,
+          "socks": 47
+        }
+      },
+      {
+        "from": "Taranto",
+        "to": "Rome",
+        "merchandise": {
+          "tuna": 44,
+          "pens": 5
+        }
+      },
+      {
+        "from": "Rome",
+        "to": "Milan",
+        "merchandise": {
+          "tuna": 44,
+          "pens": 5
+        }
+      }
+    ]
+  },
+  {
+    "id": "s3",
+    "route": [
+      {
+        "from": "Giugliano in Campania",
+        "to": "Cagliari",
+        "merchandise": {
+          "apples": 25,
+          "pens": 30
+        }
+      },
+      {
+        "from": "Cagliari",
+        "to": "Reggio Emilia",
+        "merchandise": {
+          "apples": 25,
+          "pens": 30
+        }
+      },
+      {
+        "from": "Reggio Emilia",
+        "to": "Salerno",
+        "merchandise": {
+          "apples": 25,
+          "pens": 30
+        }
+      },
+      {
+        "from": "Salerno",
+        "to": "Florence",
+        "merchandise": {
+          "apples": 25,
+          "pens": 30
+        }
+      }
+    ]
+  },
+  {
+    "id": "s4",
+    "route": [
+      {
+        "from": "Trieste",
+        "to": "Guidonia Montecelio",
+        "merchandise": {
+          "milk": 45,
+          "apples": 41,
+          "bread": 42,
+          "keyboard": 32
+        }
+      },
+      {
+        "from": "Guidonia Montecelio",
+        "to": "Rome",
+        "merchandise": {
+          "milk": 45,
+          "apples": 41,
+          "bread": 42,
+          "keyboard": 32
+        }
+      },
+      {
+        "from": "Rome",
+        "to": "Catania",
+        "merchandise": {
+          "milk": 45,
+          "apples": 41,
+          "bread": 42,
+          "keyboard": 32
+        }
+      }
+    ]
+  },
+  {
+    "id": "s5",
+    "route": [
+      {
+        "from": "Foggia",
+        "to": "Rimini",
+        "merchandise": {
+          "light bulbs": 20,
+          "ketchup": 11,
+          "eggs": 42
+        }
+      },
+      {
+        "from": "Rimini",
+        "to": "Trieste",
+        "merchandise": {
+          "ice cream": 49,
+          "laundry detergent": 1,
+          "shampoo": 17
+        }
+      }
+    ]
+  },
+  {
+    "id": "s6",
+    "route": [
+      {
+        "from": "Vicenza",
+        "to": "Giugliano in Campania",
+        "merchandise": {
+          "laptop": 11,
+          "rice": 50
+        }
+      },
+      {
+        "from": "Giugliano in Campania",
+        "to": "Palermo",
+        "merchandise": {
+          "socks": 26,
+          "cereal": 42
+        }
+      },
+      {
+        "from": "Palermo",
+        "to": "Barletta",
+        "merchandise": {
+          "ketchup": 3,
+          "sweater": 35,
+          "juice": 40,
+          "kitchen towels": 34
+        }
+      }
+    ]
+  },
+  {
+    "id": "s7",
+    "route": [
+      {
+        "from": "Messina",
+        "to": "Como",
+        "merchandise": {
+          "garlic": 10,
+          "razor": 39,
+          "tomatoes": 25,
+          "butter": 12
+        }
+      },
+      {
+        "from": "Como",
+        "to": "Piacenza",
+        "merchandise": {
+          "paper towels": 13,
+          "cheese": 38,
+          "kitchen towels": 2,
+          "salad dressing": 27
+        }
+      },
+      {
+        "from": "Piacenza",
+        "to": "Catanzaro",
+        "merchandise": {
+          "juice": 29,
+          "razor": 47,
+          "broccoli": 13
+        }
+      },
+      {
+        "from": "Catanzaro",
+        "to": "Trento",
+        "merchandise": {
+          "laptop": 17,
+          "socks": 2
+        }
+      }
+    ]
+  },
+  {
+    "id": "s8",
+    "route": [
+      {
+        "from": "Udine",
+        "to": "Rimini",
+        "merchandise": {
+          "laundry detergent": 3,
+          "salad dressing": 44,
+          "potatoes": 48,
+          "yogurt": 5
+        }
+      }
+    ]
+  },
+  {
+    "id": "s9",
+    "route": [
+      {
+        "from": "Florence",
+        "to": "Cesena",
+        "merchandise": {
+          "tuna": 4,
+          "dish soap": 4,
+          "shoes": 39,
+          "shampoo": 9
+        }
+      }
+    ]
+  },
+  {
+    "id": "s10",
+    "route": [
+      {
+        "from": "Verona",
+        "to": "Sassari",
+        "merchandise": {
+          "oranges": 9,
+          "mouse": 2
+        }
+      },
+      {
+        "from": "Sassari",
+        "to": "Modena",
+        "merchandise": {
+          "milk": 16,
+          "light bulbs": 29,
+          "garlic": 32,
+          "ketchup": 3
+        }
+      },
+      {
+        "from": "Modena",
+        "to": "Bologna",
+        "merchandise": {
+          "milk": 16,
+          "light bulbs": 29,
+          "garlic": 32,
+          "ketchup": 3
+        }
+      },
+      {
+        "from": "Bologna",
+        "to": "Rimini",
+        "merchandise": {
+          "tuna": 41,
+          "toilet paper": 18,
+          "spaghetti": 7,
+          "chocolate": 1
+        }
+      },
+      {
+        "from": "Rimini",
+        "to": "Arezzo",
+        "merchandise": {
+          "tuna": 41,
+          "toilet paper": 18,
+          "spaghetti": 7,
+          "chocolate": 1
+        }
+      },
+      {
+        "from": "Arezzo",
+        "to": "Grosseto",
+        "merchandise": {
+          "tuna": 41,
+          "toilet paper": 18,
+          "spaghetti": 7,
+          "chocolate": 1
+        }
+      },
+      {
+        "from": "Grosseto",
+        "to": "Milan",
+        "merchandise": {
+          "paper towels": 37,
+          "dish soap": 6,
+          "garlic": 23,
+          "cereal": 36
+        }
+      }
+    ]
+  },
+  {
+    "id": "s11",
+    "route": [
+      {
+        "from": "Pistoia",
+        "to": "Foggia",
+        "merchandise": {
+          "ice cream": 6,
+          "onions": 32,
+          "rice": 8
+        }
+      },
+      {
+        "from": "Foggia",
+        "to": "Trento",
+        "merchandise": {
+          "beans": 37,
+          "potatoes": 7
+        }
+      },
+      {
+        "from": "Trento",
+        "to": "Alessandria",
+        "merchandise": {
+          "kitchen towels": 21,
+          "soap": 7,
+          "ketchup": 34
+        }
+      },
+      {
+        "from": "Alessandria",
+        "to": "Torre del Greco",
+        "merchandise": {
+          "garlic": 2,
+          "spaghetti": 47
+        }
+      }
+    ]
+  },
+  {
+    "id": "s12",
+    "route": [
+      {
+        "from": "Milan",
+        "to": "Forl\u00ec",
+        "merchandise": {
+          "cereal": 11,
+          "toothbrush": 16,
+          "juice": 48,
+          "rice": 5
+        }
+      }
+    ]
+  },
+  {
+    "id": "s13",
+    "route": [
+      {
+        "from": "Giugliano in Campania",
+        "to": "Barletta",
+        "merchandise": {
+          "potatoes": 20,
+          "salad dressing": 5
+        }
+      },
+      {
+        "from": "Barletta",
+        "to": "Perugia",
+        "merchandise": {
+          "milk": 46,
+          "laptop": 45,
+          "apples": 24,
+          "ketchup": 31
+        }
+      },
+      {
+        "from": "Perugia",
+        "to": "Forl\u00ec",
+        "merchandise": {
+          "beans": 22,
+          "garlic": 21,
+          "keyboard": 37
+        }
+      },
+      {
+        "from": "Forl\u00ec",
+        "to": "Brindisi",
+        "merchandise": {
+          "beans": 22,
+          "garlic": 21,
+          "keyboard": 37
+        }
+      }
+    ]
+  },
+  {
+    "id": "s14",
+    "route": [
+      {
+        "from": "Rimini",
+        "to": "Ancona",
+        "merchandise": {
+          "spaghetti": 13,
+          "honey": 18
+        }
+      },
+      {
+        "from": "Ancona",
+        "to": "Andria",
+        "merchandise": {
+          "spaghetti": 13,
+          "honey": 18
+        }
+      },
+      {
+        "from": "Andria",
+        "to": "Guidonia Montecelio",
+        "merchandise": {
+          "carrots": 6,
+          "toilet cleaner": 6,
+          "garlic": 15
+        }
+      },
+      {
+        "from": "Guidonia Montecelio",
+        "to": "Foggia",
+        "merchandise": {
+          "chocolate": 28,
+          "milk": 17,
+          "rice": 29,
+          "honey": 15
+        }
+      },
+      {
+        "from": "Foggia",
+        "to": "Treviso",
+        "merchandise": {
+          "chocolate": 28,
+          "milk": 17,
+          "rice": 29,
+          "honey": 15
+        }
+      },
+      {
+        "from": "Treviso",
+        "to": "Giugliano in Campania",
+        "merchandise": {
+          "garlic": 40,
+          "carrots": 4
+        }
+      }
+    ]
+  },
+  {
+    "id": "s15",
+    "route": [
+      {
+        "from": "Latina",
+        "to": "Verona",
+        "merchandise": {
+          "fish": 41,
+          "spaghetti": 17,
+          "broccoli": 45,
+          "paper towels": 20
+        }
+      },
+      {
+        "from": "Verona",
+        "to": "Parma",
+        "merchandise": {
+          "toilet paper": 43,
+          "cereal": 44
+        }
+      },
+      {
+        "from": "Parma",
+        "to": "Livorno",
+        "merchandise": {
+          "yogurt": 26,
+          "eggs": 21,
+          "milk": 40,
+          "ice cream": 41
+        }
+      },
+      {
+        "from": "Livorno",
+        "to": "Reggio Emilia",
+        "merchandise": {
+          "beans": 31,
+          "kitchen towels": 17,
+          "potatoes": 49
+        }
+      },
+      {
+        "from": "Reggio Emilia",
+        "to": "Lecce",
+        "merchandise": {
+          "beans": 31,
+          "kitchen towels": 17,
+          "potatoes": 49
+        }
+      }
+    ]
+  },
+  {
+    "id": "s16",
+    "route": [
+      {
+        "from": "Turin",
+        "to": "Rimini",
+        "merchandise": {
+          "ketchup": 50,
+          "honey": 46,
+          "chocolate": 50
+        }
+      },
+      {
+        "from": "Rimini",
+        "to": "Pistoia",
+        "merchandise": {
+          "milk": 11,
+          "tuna": 48
+        }
+      },
+      {
+        "from": "Pistoia",
+        "to": "Andria",
+        "merchandise": {
+          "kitchen towels": 36,
+          "sweater": 22,
+          "apples": 28,
+          "eggs": 38
+        }
+      },
+      {
+        "from": "Andria",
+        "to": "Taranto",
+        "merchandise": {
+          "milk": 8,
+          "eggs": 49,
+          "laundry detergent": 9
+        }
+      }
+    ]
+  },
+  {
+    "id": "s17",
+    "route": [
+      {
+        "from": "Vicenza",
+        "to": "Guidonia Montecelio",
+        "merchandise": {
+          "apples": 26,
+          "oranges": 6,
+          "kitchen towels": 33,
+          "milk": 43,
+          "dish soap": 3
+        }
+      },
+      {
+        "from": "Guidonia Montecelio",
+        "to": "Sassari",
+        "merchandise": {
+          "toothbrush": 12,
+          "ice cream": 4,
+          "yogurt": 29,
+          "laundry detergent": 29,
+          "oranges": 43,
+          "juice": 21
+        }
+      },
+      {
+        "from": "Sassari",
+        "to": "Bergamo",
+        "merchandise": {
+          "kitchen towels": 22,
+          "tomatoes": 42,
+          "socks": 44,
+          "shampoo": 32,
+          "carrots": 10
+        }
+      }
+    ]
+  },
+  {
+    "id": "s18",
+    "route": [
+      {
+        "from": "Palermo",
+        "to": "Giugliano in Campania",
+        "merchandise": {
+          "shampoo": 2,
+          "light bulbs": 34,
+          "paper towels": 48,
+          "ice cream": 20
+        }
+      },
+      {
+        "from": "Giugliano in Campania",
+        "to": "Trento",
+        "merchandise": {
+          "honey": 13,
+          "rice": 40,
+          "spaghetti": 10
+        }
+      },
+      {
+        "from": "Trento",
+        "to": "Cagliari",
+        "merchandise": {
+          "soap": 21,
+          "honey": 8,
+          "mouse": 17,
+          "laundry detergent": 21,
+          "laptop": 28
+        }
+      },
+      {
+        "from": "Cagliari",
+        "to": "Brescia",
+        "merchandise": {
+          "onions": 34,
+          "beans": 7,
+          "coffee": 15,
+          "honey": 43
+        }
+      }
+    ]
+  },
+  {
+    "id": "s19",
+    "route": [
+      {
+        "from": "Genoa",
+        "to": "Rimini",
+        "merchandise": {
+          "razor": 12,
+          "coffee": 48,
+          "pens": 44,
+          "yogurt": 26,
+          "oranges": 1
+        }
+      },
+      {
+        "from": "Rimini",
+        "to": "Piacenza",
+        "merchandise": {
+          "sweater": 42,
+          "broccoli": 20,
+          "laptop": 49,
+          "coffee": 43
+        }
+      }
+    ]
+  },
+  {
+    "id": "s20",
+    "route": [
+      {
+        "from": "Andria",
+        "to": "Ferrara",
+        "merchandise": {
+          "toilet cleaner": 26,
+          "oranges": 47,
+          "laundry detergent": 22,
+          "toilet paper": 30,
+          "kitchen towels": 12
+        }
+      },
+      {
+        "from": "Ferrara",
+        "to": "Brescia",
+        "merchandise": {
+          "laptop": 1,
+          "salad dressing": 8,
+          "socks": 22
+        }
+      },
+      {
+        "from": "Brescia",
+        "to": "Pesaro",
+        "merchandise": {
+          "garlic": 29,
+          "tomatoes": 36,
+          "eggs": 32,
+          "butter": 14
+        }
+      },
+      {
+        "from": "Pesaro",
+        "to": "Reggio Calabria",
+        "merchandise": {
+          "apples": 4,
+          "kitchen towels": 12,
+          "tomatoes": 44
+        }
+      }
+    ]
+  },
+  {
+    "id": "s21",
+    "route": [
+      {
+        "from": "Catania",
+        "to": "Padua",
+        "merchandise": {
+          "toilet cleaner": 28,
+          "ketchup": 40,
+          "tuna": 23,
+          "soap": 27
+        }
+      },
+      {
+        "from": "Padua",
+        "to": "Catanzaro",
+        "merchandise": {
+          "milk": 33,
+          "sweater": 30
+        }
+      },
+      {
+        "from": "Catanzaro",
+        "to": "Barletta",
+        "merchandise": {
+          "toilet cleaner": 1,
+          "shampoo": 41,
+          "fish": 30,
+          "cheese": 33
+        }
+      },
+      {
+        "from": "Barletta",
+        "to": "Ancona",
+        "merchandise": {
+          "socks": 9,
+          "light bulbs": 31
+        }
+      },
+      {
+        "from": "Ancona",
+        "to": "Turin",
+        "merchandise": {
+          "socks": 9,
+          "light bulbs": 31
+        }
+      }
+    ]
+  },
+  {
+    "id": "s22",
+    "route": [
+      {
+        "from": "Rimini",
+        "to": "Novara",
+        "merchandise": {
+          "chicken": 34,
+          "paper towels": 12,
+          "shoes": 20,
+          "milk": 16
+        }
+      },
+      {
+        "from": "Novara",
+        "to": "Treviso",
+        "merchandise": {
+          "shoes": 46,
+          "honey": 35,
+          "fish": 26,
+          "chocolate": 33,
+          "yogurt": 10
+        }
+      },
+      {
+        "from": "Treviso",
+        "to": "Perugia",
+        "merchandise": {
+          "shoes": 11,
+          "toothbrush": 44,
+          "fish": 38,
+          "mouse": 16
+        }
+      }
+    ]
+  },
+  {
+    "id": "s23",
+    "route": [
+      {
+        "from": "Salerno",
+        "to": "Lucca",
+        "merchandise": {
+          "onions": 43,
+          "fish": 7,
+          "potatoes": 17
+        }
+      },
+      {
+        "from": "Lucca",
+        "to": "Taranto",
+        "merchandise": {
+          "juice": 4,
+          "soap": 26,
+          "socks": 47,
+          "kitchen towels": 6
+        }
+      },
+      {
+        "from": "Taranto",
+        "to": "Milan",
+        "merchandise": {
+          "tuna": 44,
+          "pens": 5,
+          "coffee": 29
+        }
+      }
+    ]
+  },
+  {
+    "id": "s24",
+    "route": [
+      {
+        "from": "Latina",
+        "to": "Trieste",
+        "merchandise": {
+          "laptop": 29,
+          "salad dressing": 38,
+          "toothbrush": 45,
+          "toilet paper": 22
+        }
+      },
+      {
+        "from": "Trieste",
+        "to": "Busto Arsizio",
+        "merchandise": {
+          "garlic": 40,
+          "cheese": 42,
+          "laundry detergent": 8,
+          "laptop": 47,
+          "pens": 45
+        }
+      },
+      {
+        "from": "Busto Arsizio",
+        "to": "Brescia",
+        "merchandise": {
+          "tomatoes": 48,
+          "coffee": 15,
+          "shampoo": 38,
+          "cereal": 15,
+          "laundry detergent": 29,
+          "tuna": 9
+        }
+      }
+    ]
+  },
+  {
+    "id": "s25",
+    "route": [
+      {
+        "from": "Brescia",
+        "to": "Padua",
+        "merchandise": {
+          "honey": 41,
+          "light bulbs": 24,
+          "apples": 2,
+          "juice": 37
+        }
+      },
+      {
+        "from": "Padua",
+        "to": "Pistoia",
+        "merchandise": {
+          "oranges": 47,
+          "shoes": 21,
+          "toothpaste": 40
+        }
+      },
+      {
+        "from": "Pistoia",
+        "to": "Verona",
+        "merchandise": {
+          "apples": 33,
+          "ice cream": 31,
+          "kitchen towels": 37,
+          "toilet cleaner": 1,
+          "coffee": 6
+        }
+      },
+      {
+        "from": "Verona",
+        "to": "Bergamo",
+        "merchandise": {
+          "sweater": 44,
+          "soap": 14,
+          "potatoes": 31,
+          "cereal": 16,
+          "light bulbs": 12
+        }
+      }
+    ]
+  },
+  {
+    "id": "s26",
+    "route": [
+      {
+        "from": "Alessandria",
+        "to": "Taranto",
+        "merchandise": {
+          "carrots": 3,
+          "light bulbs": 13,
+          "trash bags": 32,
+          "laundry detergent": 24
+        }
+      },
+      {
+        "from": "Taranto",
+        "to": "Trieste",
+        "merchandise": {
+          "oranges": 38,
+          "razor": 33,
+          "ice cream": 41
+        }
+      },
+      {
+        "from": "Trieste",
+        "to": "Bolzano-Bozen",
+        "merchandise": {
+          "coffee": 44,
+          "butter": 5,
+          "laundry detergent": 46,
+          "toilet cleaner": 33
+        }
+      }
+    ]
+  },
+  {
+    "id": "s27",
+    "route": [
+      {
+        "from": "Rimini",
+        "to": "Andria",
+        "merchandise": {
+          "spaghetti": 13,
+          "honey": 18
+        }
+      },
+      {
+        "from": "Andria",
+        "to": "Guidonia Montecelio",
+        "merchandise": {
+          "carrots": 6,
+          "toilet cleaner": 6,
+          "garlic": 15
+        }
+      },
+      {
+        "from": "Guidonia Montecelio",
+        "to": "Treviso",
+        "merchandise": {
+          "chocolate": 28,
+          "milk": 17,
+          "rice": 29,
+          "honey": 15
+        }
+      },
+      {
+        "from": "Treviso",
+        "to": "Rome",
+        "merchandise": {
+          "garlic": 40,
+          "carrots": 4
+        }
+      },
+      {
+        "from": "Rome",
+        "to": "Giugliano in Campania",
+        "merchandise": {
+          "garlic": 40,
+          "carrots": 4
+        }
+      }
+    ]
+  },
+  {
+    "id": "s28",
+    "route": [
+      {
+        "from": "Cesena",
+        "to": "Prato",
+        "merchandise": {
+          "rice": 43,
+          "toilet paper": 28,
+          "trash bags": 14,
+          "kitchen towels": 2
+        }
+      },
+      {
+        "from": "Prato",
+        "to": "Bergamo",
+        "merchandise": {
+          "ketchup": 6,
+          "bread": 44,
+          "chicken": 21,
+          "butter": 8,
+          "toothbrush": 28
+        }
+      }
+    ]
+  },
+  {
+    "id": "s29",
+    "route": [
+      {
+        "from": "Latina",
+        "to": "Reggio Calabria",
+        "merchandise": {
+          "coffee": 48,
+          "ice cream": 39,
+          "toothbrush": 16,
+          "mouse": 46,
+          "chicken": 36
+        }
+      },
+      {
+        "from": "Reggio Calabria",
+        "to": "La Spezia",
+        "merchandise": {
+          "juice": 21,
+          "tuna": 44,
+          "mouse": 49,
+          "tomatoes": 37
+        }
+      },
+      {
+        "from": "La Spezia",
+        "to": "Salerno",
+        "merchandise": {
+          "sweater": 39,
+          "oranges": 10,
+          "ketchup": 31
+        }
+      },
+      {
+        "from": "Salerno",
+        "to": "Busto Arsizio",
+        "merchandise": {
+          "chocolate": 30,
+          "onions": 41,
+          "chicken": 9,
+          "trash bags": 9,
+          "cereal": 14
+        }
+      }
+    ]
+  },
+  {
+    "id": "s30",
+    "route": [
+      {
+        "from": "Milan",
+        "to": "Verona",
+        "merchandise": {
+          "oranges": 30,
+          "salad dressing": 34,
+          "laptop": 42,
+          "bread": 27,
+          "rice": 7,
+          "keyboard": 13
+        }
+      },
+      {
+        "from": "Verona",
+        "to": "Naples",
+        "merchandise": {
+          "butter": 50,
+          "salad dressing": 20,
+          "laundry detergent": 38,
+          "toothbrush": 5,
+          "carrots": 1
+        }
+      },
+      {
+        "from": "Naples",
+        "to": "Torre del Greco",
+        "merchandise": {
+          "butter": 8,
+          "laundry detergent": 34,
+          "fish": 28,
+          "honey": 23
+        }
+      },
+      {
+        "from": "Torre del Greco",
+        "to": "Alessandria",
+        "merchandise": {
+          "trash bags": 36,
+          "onions": 38,
+          "shoes": 47,
+          "bread": 34,
+          "laundry detergent": 39
+        }
+      }
+    ]
+  },
+  {
+    "id": "s31",
+    "route": [
+      {
+        "from": "Parma",
+        "to": "Ferrara",
+        "merchandise": {
+          "razor": 15,
+          "soap": 46,
+          "honey": 24,
+          "toothpaste": 23
+        }
+      }
+    ]
+  },
+  {
+    "id": "s32",
+    "route": [
+      {
+        "from": "Bologna",
+        "to": "Terni",
+        "merchandise": {
+          "laptop": 45,
+          "juice": 19,
+          "socks": 30,
+          "toothbrush": 34,
+          "chocolate": 6
+        }
+      },
+      {
+        "from": "Terni",
+        "to": "Piacenza",
+        "merchandise": {
+          "shoes": 32,
+          "eggs": 28,
+          "ice cream": 20
+        }
+      },
+      {
+        "from": "Piacenza",
+        "to": "Salerno",
+        "merchandise": {
+          "tomatoes": 39,
+          "laptop": 38,
+          "shoes": 1,
+          "eggs": 6,
+          "milk": 3
+        }
+      },
+      {
+        "from": "Salerno",
+        "to": "Modena",
+        "merchandise": {
+          "dish soap": 13,
+          "socks": 16,
+          "apples": 30,
+          "razor": 36,
+          "tomatoes": 40
+        }
+      }
+    ]
+  },
+  {
+    "id": "s33",
+    "route": [
+      {
+        "from": "Udine",
+        "to": "Genoa",
+        "merchandise": {
+          "sweater": 2,
+          "kitchen towels": 18,
+          "shampoo": 9
+        }
+      },
+      {
+        "from": "Genoa",
+        "to": "Venice",
+        "merchandise": {
+          "chicken": 43,
+          "rice": 26,
+          "tomatoes": 29
+        }
+      },
+      {
+        "from": "Venice",
+        "to": "Torre del Greco",
+        "merchandise": {
+          "tuna": 31,
+          "apples": 13,
+          "dish soap": 2,
+          "chicken": 34
+        }
+      }
+    ]
+  },
+  {
+    "id": "s34",
+    "route": [
+      {
+        "from": "Arezzo",
+        "to": "Brescia",
+        "merchandise": {
+          "laptop": 3,
+          "bread": 47,
+          "laundry detergent": 35
+        }
+      },
+      {
+        "from": "Brescia",
+        "to": "Pistoia",
+        "merchandise": {
+          "razor": 39,
+          "soap": 8,
+          "toothbrush": 20,
+          "juice": 41
+        }
+      },
+      {
+        "from": "Pistoia",
+        "to": "Salerno",
+        "merchandise": {
+          "dish soap": 31,
+          "potatoes": 10,
+          "razor": 39
+        }
+      },
+      {
+        "from": "Salerno",
+        "to": "Catania",
+        "merchandise": {
+          "carrots": 27,
+          "soap": 15,
+          "yogurt": 37
+        }
+      }
+    ]
+  },
+  {
+    "id": "s35",
+    "route": [
+      {
+        "from": "Como",
+        "to": "Monza",
+        "merchandise": {
+          "butter": 47,
+          "garlic": 49,
+          "cereal": 8,
+          "toothpaste": 3,
+          "oranges": 21
+        }
+      },
+      {
+        "from": "Monza",
+        "to": "Naples",
+        "merchandise": {
+          "onions": 20,
+          "ice cream": 2,
+          "garlic": 17,
+          "pens": 8,
+          "butter": 32
+        }
+      },
+      {
+        "from": "Naples",
+        "to": "Foggia",
+        "merchandise": {
+          "mouse": 37,
+          "shoes": 2,
+          "toilet cleaner": 19,
+          "salad dressing": 15
+        }
+      }
+    ]
+  },
+  {
+    "id": "s36",
+    "route": [
+      {
+        "from": "Trieste",
+        "to": "Catania",
+        "merchandise": {
+          "milk": 45,
+          "apples": 2,
+          "bread": 37,
+          "keyboard": 4
+        }
+      }
+    ]
+  },
+  {
+    "id": "s37",
+    "route": [
+      {
+        "from": "Lecce",
+        "to": "Trieste",
+        "merchandise": {
+          "ketchup": 6,
+          "carrots": 1,
+          "honey": 40,
+          "shoes": 3
+        }
+      },
+      {
+        "from": "Trieste",
+        "to": "Bari",
+        "merchandise": {
+          "toothpaste": 1,
+          "socks": 15,
+          "apples": 23,
+          "sweater": 7
+        }
+      }
+    ]
+  },
+  {
+    "id": "s38",
+    "route": [
+      {
+        "from": "Genoa",
+        "to": "Cesena",
+        "merchandise": {
+          "razor": 12,
+          "coffee": 15,
+          "pens": 8,
+          "yogurt": 26
+        }
+      },
+      {
+        "from": "Cesena",
+        "to": "Pisa",
+        "merchandise": {
+          "razor": 12,
+          "coffee": 15,
+          "pens": 8,
+          "yogurt": 26
+        }
+      },
+      {
+        "from": "Pisa",
+        "to": "Rimini",
+        "merchandise": {
+          "razor": 12,
+          "coffee": 15,
+          "pens": 8,
+          "yogurt": 26
+        }
+      },
+      {
+        "from": "Rimini",
+        "to": "Piacenza",
+        "merchandise": {
+          "sweater": 42,
+          "broccoli": 20,
+          "laptop": 49
+        }
+      }
+    ]
+  },
+  {
+    "id": "s39",
+    "route": [
+      {
+        "from": "Forl\u00ec",
+        "to": "Turin",
+        "merchandise": {
+          "razor": 31,
+          "paper towels": 32
+        }
+      },
+      {
+        "from": "Turin",
+        "to": "Brindisi",
+        "merchandise": {
+          "potatoes": 25,
+          "broccoli": 22,
+          "paper towels": 36,
+          "laundry detergent": 29
+        }
+      }
+    ]
+  },
+  {
+    "id": "s40",
+    "route": [
+      {
+        "from": "Torre del Greco",
+        "to": "Latina",
+        "merchandise": {
+          "salad dressing": 28,
+          "beans": 31,
+          "laptop": 15,
+          "toothbrush": 16
+        }
+      }
+    ]
+  },
+  {
+    "id": "s41",
+    "route": [
+      {
+        "from": "Milan",
+        "to": "Pescara",
+        "merchandise": {
+          "tuna": 34,
+          "laundry detergent": 48,
+          "chocolate": 41,
+          "shampoo": 48,
+          "rice": 3
+        }
+      },
+      {
+        "from": "Pescara",
+        "to": "Novara",
+        "merchandise": {
+          "potatoes": 41,
+          "onions": 46,
+          "salad dressing": 19,
+          "trash bags": 49,
+          "oranges": 5
+        }
+      },
+      {
+        "from": "Novara",
+        "to": "Taranto",
+        "merchandise": {
+          "tomatoes": 29,
+          "salad dressing": 23,
+          "soap": 33,
+          "potatoes": 34
+        }
+      },
+      {
+        "from": "Taranto",
+        "to": "Cagliari",
+        "merchandise": {
+          "kitchen towels": 23,
+          "mouse": 42,
+          "garlic": 20,
+          "apples": 33,
+          "soap": 45,
+          "milk": 24
+        }
+      }
+    ]
+  },
+  {
+    "id": "s42",
+    "route": [
+      {
+        "from": "Turin",
+        "to": "Rimini",
+        "merchandise": {
+          "mouse": 28,
+          "rice": 11,
+          "laundry detergent": 18
+        }
+      },
+      {
+        "from": "Rimini",
+        "to": "Bologna",
+        "merchandise": {
+          "shampoo": 5,
+          "tomatoes": 6,
+          "toothbrush": 1,
+          "sweater": 38,
+          "mouse": 26
+        }
+      },
+      {
+        "from": "Bologna",
+        "to": "Reggio Calabria",
+        "merchandise": {
+          "light bulbs": 11,
+          "toilet paper": 37,
+          "paper towels": 18,
+          "pens": 23,
+          "garlic": 21
+        }
+      }
+    ]
+  },
+  {
+    "id": "s43",
+    "route": [
+      {
+        "from": "Rome",
+        "to": "Piacenza",
+        "merchandise": {
+          "bread": 8,
+          "coffee": 38,
+          "eggs": 47,
+          "light bulbs": 25
+        }
+      },
+      {
+        "from": "Piacenza",
+        "to": "Reggio Calabria",
+        "merchandise": {
+          "bread": 10,
+          "tuna": 3,
+          "chocolate": 3,
+          "kitchen towels": 3
+        }
+      }
+    ]
+  },
+  {
+    "id": "s44",
+    "route": [
+      {
+        "from": "Lecce",
+        "to": "Florence",
+        "merchandise": {
+          "ketchup": 6,
+          "carrots": 21
+        }
+      },
+      {
+        "from": "Florence",
+        "to": "Vicenza",
+        "merchandise": {
+          "ketchup": 6,
+          "carrots": 21
+        }
+      },
+      {
+        "from": "Vicenza",
+        "to": "Bolzano-Bozen",
+        "merchandise": {
+          "ketchup": 6,
+          "carrots": 21
+        }
+      },
+      {
+        "from": "Bolzano-Bozen",
+        "to": "Trieste",
+        "merchandise": {
+          "ketchup": 6,
+          "carrots": 21
+        }
+      },
+      {
+        "from": "Trieste",
+        "to": "Bari",
+        "merchandise": {
+          "toothpaste": 1,
+          "socks": 15
+        }
+      }
+    ]
+  },
+  {
+    "id": "s45",
+    "route": [
+      {
+        "from": "Arezzo",
+        "to": "Brescia",
+        "merchandise": {
+          "laptop": 3,
+          "bread": 40,
+          "laundry detergent": 29
+        }
+      },
+      {
+        "from": "Brescia",
+        "to": "Bolzano-Bozen",
+        "merchandise": {
+          "razor": 39,
+          "soap": 25,
+          "toothbrush": 20,
+          "juice": 47
+        }
+      },
+      {
+        "from": "Bolzano-Bozen",
+        "to": "Novara",
+        "merchandise": {
+          "razor": 39,
+          "soap": 25,
+          "toothbrush": 20,
+          "juice": 47
+        }
+      },
+      {
+        "from": "Novara",
+        "to": "Pistoia",
+        "merchandise": {
+          "razor": 39,
+          "soap": 25,
+          "toothbrush": 20,
+          "juice": 47
+        }
+      },
+      {
+        "from": "Pistoia",
+        "to": "Salerno",
+        "merchandise": {
+          "dish soap": 31,
+          "potatoes": 10,
+          "razor": 39
+        }
+      },
+      {
+        "from": "Salerno",
+        "to": "Bergamo",
+        "merchandise": {
+          "carrots": 27,
+          "soap": 15,
+          "yogurt": 37
+        }
+      },
+      {
+        "from": "Bergamo",
+        "to": "Catania",
+        "merchandise": {
+          "carrots": 27,
+          "soap": 15,
+          "yogurt": 37
+        }
+      }
+    ]
+  },
+  {
+    "id": "s46",
+    "route": [
+      {
+        "from": "Vicenza",
+        "to": "Palermo",
+        "merchandise": {
+          "light bulbs": 50,
+          "trash bags": 2,
+          "soap": 27,
+          "beans": 36
+        }
+      },
+      {
+        "from": "Palermo",
+        "to": "Foggia",
+        "merchandise": {
+          "honey": 23,
+          "chocolate": 8,
+          "garlic": 35
+        }
+      },
+      {
+        "from": "Foggia",
+        "to": "Treviso",
+        "merchandise": {
+          "soap": 42,
+          "paper towels": 5
+        }
+      }
+    ]
+  },
+  {
+    "id": "s47",
+    "route": [
+      {
+        "from": "Pistoia",
+        "to": "Foggia",
+        "merchandise": {
+          "ice cream": 6,
+          "onions": 32,
+          "rice": 8
+        }
+      },
+      {
+        "from": "Foggia",
+        "to": "Trento",
+        "merchandise": {
+          "beans": 37,
+          "potatoes": 7
+        }
+      },
+      {
+        "from": "Trento",
+        "to": "Pisa",
+        "merchandise": {
+          "kitchen towels": 21,
+          "soap": 7,
+          "ketchup": 15
+        }
+      },
+      {
+        "from": "Pisa",
+        "to": "Lucca",
+        "merchandise": {
+          "kitchen towels": 21,
+          "soap": 7,
+          "ketchup": 15
+        }
+      },
+      {
+        "from": "Lucca",
+        "to": "Alessandria",
+        "merchandise": {
+          "kitchen towels": 21,
+          "soap": 7,
+          "ketchup": 15
+        }
+      },
+      {
+        "from": "Alessandria",
+        "to": "Torre del Greco",
+        "merchandise": {
+          "garlic": 2,
+          "spaghetti": 47
+        }
+      }
+    ]
+  },
+  {
+    "id": "s48",
+    "route": [
+      {
+        "from": "Pescara",
+        "to": "Arezzo",
+        "merchandise": {
+          "chocolate": 1,
+          "cereal": 49
+        }
+      },
+      {
+        "from": "Arezzo",
+        "to": "Padua",
+        "merchandise": {
+          "carrots": 2,
+          "butter": 5,
+          "toothpaste": 25
+        }
+      }
+    ]
+  },
+  {
+    "id": "s49",
+    "route": [
+      {
+        "from": "Verona",
+        "to": "Sassari",
+        "merchandise": {
+          "oranges": 9,
+          "mouse": 2,
+          "juice": 14,
+          "spaghetti": 19
+        }
+      },
+      {
+        "from": "Sassari",
+        "to": "Bologna",
+        "merchandise": {
+          "milk": 16,
+          "light bulbs": 29,
+          "garlic": 32,
+          "ketchup": 3,
+          "dish soap": 18,
+          "razor": 8
+        }
+      },
+      {
+        "from": "Bologna",
+        "to": "Grosseto",
+        "merchandise": {
+          "tuna": 41,
+          "toilet paper": 18,
+          "spaghetti": 7,
+          "chocolate": 1,
+          "carrots": 50
+        }
+      },
+      {
+        "from": "Grosseto",
+        "to": "Milan",
+        "merchandise": {
+          "paper towels": 37,
+          "dish soap": 6,
+          "garlic": 23,
+          "cereal": 36,
+          "razor": 31
+        }
+      }
+    ]
+  }
+]

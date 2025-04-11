@@ -1,0 +1,13 @@
+ipykernel
+wheel
+jupyter
+numpy<2
+pandas
+matplotlib
+seaborn
+tqdm
+scikit-learn
+datasketch
+tabulate
+scipy
+scikit-learn-extra

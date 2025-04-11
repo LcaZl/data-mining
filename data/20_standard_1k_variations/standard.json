@@ -1,0 +1,501 @@
+[
+  {
+    "id": "s0",
+    "route": [
+      {
+        "from": "Foggia",
+        "to": "Bologna",
+        "merchandise": {
+          "salad dressing": 43,
+          "chicken": 22
+        }
+      },
+      {
+        "from": "Bologna",
+        "to": "Brescia",
+        "merchandise": {
+          "trash bags": 16,
+          "spaghetti": 26,
+          "toilet paper": 44,
+          "shampoo": 46
+        }
+      }
+    ]
+  },
+  {
+    "id": "s1",
+    "route": [
+      {
+        "from": "Busto Arsizio",
+        "to": "Pistoia",
+        "merchandise": {
+          "broccoli": 1,
+          "chicken": 38,
+          "mouse": 10
+        }
+      }
+    ]
+  },
+  {
+    "id": "s2",
+    "route": [
+      {
+        "from": "Livorno",
+        "to": "Ferrara",
+        "merchandise": {
+          "juice": 21,
+          "dish soap": 17
+        }
+      },
+      {
+        "from": "Ferrara",
+        "to": "Pisa",
+        "merchandise": {
+          "eggs": 35,
+          "tomatoes": 23
+        }
+      }
+    ]
+  },
+  {
+    "id": "s3",
+    "route": [
+      {
+        "from": "Pescara",
+        "to": "Udine",
+        "merchandise": {
+          "yogurt": 49,
+          "socks": 30
+        }
+      }
+    ]
+  },
+  {
+    "id": "s4",
+    "route": [
+      {
+        "from": "Reggio Calabria",
+        "to": "Pescara",
+        "merchandise": {
+          "tomatoes": 3,
+          "keyboard": 1,
+          "potatoes": 17,
+          "juice": 3
+        }
+      }
+    ]
+  },
+  {
+    "id": "s5",
+    "route": [
+      {
+        "from": "Treviso",
+        "to": "Turin",
+        "merchandise": {
+          "onions": 48,
+          "chicken": 29,
+          "chocolate": 9
+        }
+      }
+    ]
+  },
+  {
+    "id": "s6",
+    "route": [
+      {
+        "from": "Pistoia",
+        "to": "Genoa",
+        "merchandise": {
+          "laptop": 25,
+          "apples": 6,
+          "mouse": 47
+        }
+      },
+      {
+        "from": "Genoa",
+        "to": "Florence",
+        "merchandise": {
+          "shampoo": 31,
+          "spaghetti": 27,
+          "toilet paper": 8
+        }
+      },
+      {
+        "from": "Florence",
+        "to": "Taranto",
+        "merchandise": {
+          "fish": 42,
+          "milk": 32,
+          "ketchup": 5,
+          "rice": 31
+        }
+      },
+      {
+        "from": "Taranto",
+        "to": "Grosseto",
+        "merchandise": {
+          "razor": 6,
+          "socks": 42,
+          "garlic": 23,
+          "tomatoes": 20
+        }
+      }
+    ]
+  },
+  {
+    "id": "s7",
+    "route": [
+      {
+        "from": "Grosseto",
+        "to": "Andria",
+        "merchandise": {
+          "trash bags": 47,
+          "beans": 34,
+          "tomatoes": 50,
+          "spaghetti": 24
+        }
+      },
+      {
+        "from": "Andria",
+        "to": "Forl\u00ec",
+        "merchandise": {
+          "potatoes": 28,
+          "broccoli": 10
+        }
+      },
+      {
+        "from": "Forl\u00ec",
+        "to": "Padua",
+        "merchandise": {
+          "razor": 21,
+          "toilet cleaner": 38,
+          "chocolate": 31,
+          "shampoo": 26
+        }
+      },
+      {
+        "from": "Padua",
+        "to": "Genoa",
+        "merchandise": {
+          "apples": 38,
+          "paper towels": 39,
+          "tuna": 12
+        }
+      }
+    ]
+  },
+  {
+    "id": "s8",
+    "route": [
+      {
+        "from": "Reggio Emilia",
+        "to": "Cesena",
+        "merchandise": {
+          "light bulbs": 9,
+          "toilet paper": 20
+        }
+      },
+      {
+        "from": "Cesena",
+        "to": "Grosseto",
+        "merchandise": {
+          "juice": 43,
+          "cereal": 43,
+          "toilet cleaner": 5,
+          "eggs": 12
+        }
+      }
+    ]
+  },
+  {
+    "id": "s9",
+    "route": [
+      {
+        "from": "Florence",
+        "to": "Reggio Emilia",
+        "merchandise": {
+          "beans": 15,
+          "broccoli": 49,
+          "trash bags": 34
+        }
+      },
+      {
+        "from": "Reggio Emilia",
+        "to": "Alessandria",
+        "merchandise": {
+          "light bulbs": 19,
+          "potatoes": 22
+        }
+      }
+    ]
+  },
+  {
+    "id": "s10",
+    "route": [
+      {
+        "from": "Bolzano-Bozen",
+        "to": "Giugliano in Campania",
+        "merchandise": {
+          "oranges": 29,
+          "apples": 46,
+          "pens": 24
+        }
+      },
+      {
+        "from": "Giugliano in Campania",
+        "to": "Treviso",
+        "merchandise": {
+          "fish": 9,
+          "razor": 22,
+          "pens": 34,
+          "socks": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "s11",
+    "route": [
+      {
+        "from": "Naples",
+        "to": "Cesena",
+        "merchandise": {
+          "keyboard": 2,
+          "rice": 25,
+          "ketchup": 30
+        }
+      },
+      {
+        "from": "Cesena",
+        "to": "Catanzaro",
+        "merchandise": {
+          "oranges": 3,
+          "potatoes": 11,
+          "socks": 34,
+          "coffee": 47
+        }
+      },
+      {
+        "from": "Catanzaro",
+        "to": "Padua",
+        "merchandise": {
+          "spaghetti": 30,
+          "juice": 4
+        }
+      }
+    ]
+  },
+  {
+    "id": "s12",
+    "route": [
+      {
+        "from": "Pescara",
+        "to": "Vicenza",
+        "merchandise": {
+          "mouse": 39,
+          "laundry detergent": 20
+        }
+      },
+      {
+        "from": "Vicenza",
+        "to": "Guidonia Montecelio",
+        "merchandise": {
+          "cheese": 37,
+          "ice cream": 29,
+          "toilet paper": 23,
+          "paper towels": 4
+        }
+      }
+    ]
+  },
+  {
+    "id": "s13",
+    "route": [
+      {
+        "from": "Perugia",
+        "to": "Barletta",
+        "merchandise": {
+          "soap": 21,
+          "dish soap": 17
+        }
+      },
+      {
+        "from": "Barletta",
+        "to": "Terni",
+        "merchandise": {
+          "paper towels": 33,
+          "carrots": 14
+        }
+      },
+      {
+        "from": "Terni",
+        "to": "Novara",
+        "merchandise": {
+          "honey": 29,
+          "apples": 3,
+          "chicken": 50
+        }
+      },
+      {
+        "from": "Novara",
+        "to": "Guidonia Montecelio",
+        "merchandise": {
+          "laundry detergent": 36,
+          "kitchen towels": 2,
+          "ketchup": 1,
+          "toothbrush": 9
+        }
+      }
+    ]
+  },
+  {
+    "id": "s14",
+    "route": [
+      {
+        "from": "Pistoia",
+        "to": "Alessandria",
+        "merchandise": {
+          "toilet paper": 7,
+          "toothpaste": 3,
+          "salad dressing": 36,
+          "eggs": 30
+        }
+      },
+      {
+        "from": "Alessandria",
+        "to": "Reggio Calabria",
+        "merchandise": {
+          "tomatoes": 47,
+          "ketchup": 15,
+          "oranges": 5,
+          "shoes": 5
+        }
+      }
+    ]
+  },
+  {
+    "id": "s15",
+    "route": [
+      {
+        "from": "Messina",
+        "to": "Cagliari",
+        "merchandise": {
+          "toothpaste": 17,
+          "pens": 38,
+          "toothbrush": 45
+        }
+      },
+      {
+        "from": "Cagliari",
+        "to": "Taranto",
+        "merchandise": {
+          "light bulbs": 21,
+          "kitchen towels": 34,
+          "razor": 24,
+          "cheese": 17
+        }
+      },
+      {
+        "from": "Taranto",
+        "to": "Trento",
+        "merchandise": {
+          "toothpaste": 10,
+          "butter": 23,
+          "sweater": 45
+        }
+      },
+      {
+        "from": "Trento",
+        "to": "Bergamo",
+        "merchandise": {
+          "chicken": 36,
+          "toothbrush": 45
+        }
+      }
+    ]
+  },
+  {
+    "id": "s16",
+    "route": [
+      {
+        "from": "Grosseto",
+        "to": "Torre del Greco",
+        "merchandise": {
+          "fish": 42,
+          "pens": 22,
+          "broccoli": 13
+        }
+      },
+      {
+        "from": "Torre del Greco",
+        "to": "Turin",
+        "merchandise": {
+          "milk": 9,
+          "laundry detergent": 3,
+          "toothpaste": 43
+        }
+      }
+    ]
+  },
+  {
+    "id": "s17",
+    "route": [
+      {
+        "from": "Perugia",
+        "to": "Milan",
+        "merchandise": {
+          "tomatoes": 5,
+          "coffee": 42,
+          "milk": 38,
+          "spaghetti": 36
+        }
+      }
+    ]
+  },
+  {
+    "id": "s18",
+    "route": [
+      {
+        "from": "Prato",
+        "to": "Cagliari",
+        "merchandise": {
+          "dish soap": 37,
+          "kitchen towels": 40
+        }
+      },
+      {
+        "from": "Cagliari",
+        "to": "Milan",
+        "merchandise": {
+          "sweater": 9,
+          "fish": 14
+        }
+      }
+    ]
+  },
+  {
+    "id": "s19",
+    "route": [
+      {
+        "from": "Pistoia",
+        "to": "Cesena",
+        "merchandise": {
+          "juice": 19,
+          "sweater": 36,
+          "milk": 40,
+          "light bulbs": 37
+        }
+      },
+      {
+        "from": "Cesena",
+        "to": "Bergamo",
+        "merchandise": {
+          "toilet paper": 25,
+          "bread": 9,
+          "toothbrush": 30,
+          "juice": 7
+        }
+      }
+    ]
+  }
+]

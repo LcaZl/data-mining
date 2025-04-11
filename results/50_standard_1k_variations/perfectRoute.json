@@ -1,0 +1,6685 @@
+[
+  {
+    "driver": "driver_74",
+    "route": [
+      {
+        "from": "Piacenza",
+        "to": "Andria",
+        "merchandise": {
+          "honey": 23,
+          "mouse": 21
+        }
+      },
+      {
+        "from": "Andria",
+        "to": "Rimini",
+        "merchandise": {
+          "juice": 33,
+          "rice": 4,
+          "shampoo": 34
+        }
+      },
+      {
+        "from": "Rimini",
+        "to": "Andria",
+        "merchandise": {
+          "spaghetti": 13,
+          "honey": 18
+        }
+      },
+      {
+        "from": "Andria",
+        "to": "Trieste",
+        "merchandise": {
+          "tuna": 14,
+          "shoes": 42,
+          "apples": 25
+        }
+      },
+      {
+        "from": "Trieste",
+        "to": "Catania",
+        "merchandise": {
+          "milk": 45,
+          "apples": 41,
+          "bread": 42,
+          "keyboard": 32
+        }
+      },
+      {
+        "from": "Catania",
+        "to": "Cesena",
+        "merchandise": {
+          "tuna": 4,
+          "dish soap": 44,
+          "shoes": 8,
+          "shampoo": 43
+        }
+      },
+      {
+        "from": "Cesena",
+        "to": "Prato",
+        "merchandise": {
+          "rice": 43,
+          "toilet paper": 28,
+          "trash bags": 14
+        }
+      }
+    ]
+  },
+  {
+    "driver": "driver_45",
+    "route": [
+      {
+        "from": "Lecce",
+        "to": "Ferrara",
+        "merchandise": {
+          "razor": 15,
+          "soap": 46
+        }
+      },
+      {
+        "from": "Ferrara",
+        "to": "Genoa",
+        "merchandise": {
+          "shoes": 18,
+          "soap": 22,
+          "laundry detergent": 23
+        }
+      },
+      {
+        "from": "Genoa",
+        "to": "Rimini",
+        "merchandise": {
+          "razor": 12,
+          "coffee": 48,
+          "pens": 44,
+          "yogurt": 26
+        }
+      },
+      {
+        "from": "Rimini",
+        "to": "Andria",
+        "merchandise": {
+          "spaghetti": 13,
+          "honey": 18
+        }
+      },
+      {
+        "from": "Andria",
+        "to": "Trieste",
+        "merchandise": {
+          "tuna": 14,
+          "shoes": 42,
+          "apples": 25
+        }
+      },
+      {
+        "from": "Trieste",
+        "to": "Bolzano-Bozen",
+        "merchandise": {
+          "coffee": 44,
+          "butter": 5,
+          "laundry detergent": 46,
+          "toilet cleaner": 33
+        }
+      },
+      {
+        "from": "Bolzano-Bozen",
+        "to": "Andria",
+        "merchandise": {
+          "soap": 26,
+          "honey": 36
+        }
+      }
+    ]
+  },
+  {
+    "driver": "driver_90",
+    "route": [
+      {
+        "from": "Brescia",
+        "to": "Venice",
+        "merchandise": {
+          "shoes": 37,
+          "cereal": 21,
+          "fish": 24
+        }
+      },
+      {
+        "from": "Venice",
+        "to": "Ferrara",
+        "merchandise": {
+          "razor": 15,
+          "soap": 46
+        }
+      },
+      {
+        "from": "Ferrara",
+        "to": "Catania",
+        "merchandise": {
+          "milk": 45,
+          "apples": 41,
+          "bread": 42,
+          "keyboard": 32
+        }
+      },
+      {
+        "from": "Catania",
+        "to": "Cesena",
+        "merchandise": {
+          "tuna": 4,
+          "dish soap": 44,
+          "shoes": 8,
+          "shampoo": 43
+        }
+      },
+      {
+        "from": "Cesena",
+        "to": "Prato",
+        "merchandise": {
+          "rice": 43,
+          "toilet paper": 28,
+          "trash bags": 14
+        }
+      },
+      {
+        "from": "Prato",
+        "to": "Rimini",
+        "merchandise": {
+          "juice": 33,
+          "rice": 4,
+          "shampoo": 34
+        }
+      },
+      {
+        "from": "Rimini",
+        "to": "Andria",
+        "merchandise": {
+          "spaghetti": 13,
+          "honey": 18
+        }
+      }
+    ]
+  },
+  {
+    "driver": "driver_9",
+    "route": [
+      {
+        "from": "Livorno",
+        "to": "Ferrara",
+        "merchandise": {
+          "razor": 15,
+          "soap": 46
+        }
+      },
+      {
+        "from": "Ferrara",
+        "to": "Cesena",
+        "merchandise": {
+          "tuna": 4,
+          "dish soap": 44,
+          "shoes": 8,
+          "shampoo": 48
+        }
+      },
+      {
+        "from": "Cesena",
+        "to": "Prato",
+        "merchandise": {
+          "rice": 43,
+          "toilet paper": 28,
+          "trash bags": 14
+        }
+      },
+      {
+        "from": "Prato",
+        "to": "Bergamo",
+        "merchandise": {
+          "ketchup": 6,
+          "bread": 44,
+          "chicken": 21,
+          "butter": 8
+        }
+      },
+      {
+        "from": "Bergamo",
+        "to": "Rimini",
+        "merchandise": {
+          "juice": 33,
+          "rice": 10,
+          "shampoo": 40
+        }
+      },
+      {
+        "from": "Rimini",
+        "to": "Sassari",
+        "merchandise": {
+          "sweater": 42,
+          "broccoli": 20,
+          "laptop": 49
+        }
+      },
+      {
+        "from": "Sassari",
+        "to": "Verona",
+        "merchandise": {
+          "juice": 26,
+          "sweater": 24,
+          "paper towels": 40
+        }
+      }
+    ]
+  },
+  {
+    "driver": "driver_67",
+    "route": [
+      {
+        "from": "Pescara",
+        "to": "Andria",
+        "merchandise": {
+          "soap": 26,
+          "honey": 36
+        }
+      },
+      {
+        "from": "Andria",
+        "to": "Novara",
+        "merchandise": {
+          "razor": 16,
+          "honey": 12
+        }
+      },
+      {
+        "from": "Novara",
+        "to": "Venice",
+        "merchandise": {
+          "shoes": 37,
+          "cereal": 21,
+          "fish": 24
+        }
+      },
+      {
+        "from": "Venice",
+        "to": "Ferrara",
+        "merchandise": {
+          "razor": 15,
+          "soap": 46
+        }
+      },
+      {
+        "from": "Ferrara",
+        "to": "Barletta",
+        "merchandise": {
+          "soap": 26,
+          "honey": 23
+        }
+      },
+      {
+        "from": "Barletta",
+        "to": "Cesena",
+        "merchandise": {
+          "tuna": 4,
+          "dish soap": 44,
+          "shoes": 19,
+          "shampoo": 48
+        }
+      },
+      {
+        "from": "Cesena",
+        "to": "Prato",
+        "merchandise": {
+          "rice": 43,
+          "toilet paper": 28,
+          "trash bags": 14
+        }
+      }
+    ]
+  },
+  {
+    "driver": "driver_31",
+    "route": [
+      {
+        "from": "Messina",
+        "to": "Venice",
+        "merchandise": {
+          "shoes": 37,
+          "cereal": 21,
+          "fish": 24
+        }
+      },
+      {
+        "from": "Venice",
+        "to": "Catania",
+        "merchandise": {
+          "milk": 45,
+          "apples": 41,
+          "bread": 42,
+          "keyboard": 20
+        }
+      },
+      {
+        "from": "Catania",
+        "to": "Arezzo",
+        "merchandise": {
+          "chocolate": 1,
+          "cereal": 49
+        }
+      },
+      {
+        "from": "Arezzo",
+        "to": "Brescia",
+        "merchandise": {
+          "laptop": 3,
+          "bread": 40,
+          "laundry detergent": 29
+        }
+      },
+      {
+        "from": "Brescia",
+        "to": "Cesena",
+        "merchandise": {
+          "tuna": 4,
+          "dish soap": 44,
+          "shoes": 8,
+          "shampoo": 48
+        }
+      },
+      {
+        "from": "Cesena",
+        "to": "Andria",
+        "merchandise": {
+          "soap": 26,
+          "honey": 36
+        }
+      },
+      {
+        "from": "Andria",
+        "to": "Trieste",
+        "merchandise": {
+          "tuna": 14,
+          "shoes": 42,
+          "apples": 25
+        }
+      }
+    ]
+  },
+  {
+    "driver": "driver_27",
+    "route": [
+      {
+        "from": "Padua",
+        "to": "Verona",
+        "merchandise": {
+          "apples": 33,
+          "ice cream": 31,
+          "kitchen towels": 37
+        }
+      },
+      {
+        "from": "Verona",
+        "to": "Messina",
+        "merchandise": {
+          "shoes": 49,
+          "rice": 38,
+          "cheese": 30
+        }
+      },
+      {
+        "from": "Messina",
+        "to": "Ferrara",
+        "merchandise": {
+          "razor": 15,
+          "soap": 46
+        }
+      },
+      {
+        "from": "Ferrara",
+        "to": "Florence",
+        "merchandise": {
+          "apples": 25,
+          "pens": 29
+        }
+      },
+      {
+        "from": "Florence",
+        "to": "Andria",
+        "merchandise": {
+          "honey": 23,
+          "mouse": 21
+        }
+      },
+      {
+        "from": "Andria",
+        "to": "Rimini",
+        "merchandise": {
+          "laundry detergent": 3,
+          "salad dressing": 44,
+          "potatoes": 48
+        }
+      },
+      {
+        "from": "Rimini",
+        "to": "Andria",
+        "merchandise": {
+          "spaghetti": 13,
+          "honey": 18
+        }
+      }
+    ]
+  },
+  {
+    "driver": "driver_52",
+    "route": [
+      {
+        "from": "Naples",
+        "to": "Verona",
+        "merchandise": {
+          "juice": 26,
+          "sweater": 24,
+          "paper towels": 40
+        }
+      },
+      {
+        "from": "Verona",
+        "to": "Naples",
+        "merchandise": {
+          "butter": 50,
+          "salad dressing": 20,
+          "laundry detergent": 38,
+          "toothbrush": 5
+        }
+      },
+      {
+        "from": "Naples",
+        "to": "Rimini",
+        "merchandise": {
+          "laundry detergent": 3,
+          "salad dressing": 50,
+          "potatoes": 48
+        }
+      },
+      {
+        "from": "Rimini",
+        "to": "Reggio Emilia",
+        "merchandise": {
+          "ice cream": 49,
+          "laundry detergent": 1,
+          "shampoo": 17
+        }
+      },
+      {
+        "from": "Reggio Emilia",
+        "to": "Andria",
+        "merchandise": {
+          "soap": 26,
+          "honey": 43
+        }
+      },
+      {
+        "from": "Andria",
+        "to": "Messina",
+        "merchandise": {
+          "shoes": 49,
+          "rice": 28,
+          "cheese": 11
+        }
+      },
+      {
+        "from": "Messina",
+        "to": "Andria",
+        "merchandise": {
+          "soap": 26,
+          "honey": 36
+        }
+      }
+    ]
+  },
+  {
+    "driver": "driver_50",
+    "route": [
+      {
+        "from": "La Spezia",
+        "to": "Messina",
+        "merchandise": {
+          "shoes": 49,
+          "rice": 28,
+          "cheese": 11
+        }
+      },
+      {
+        "from": "Messina",
+        "to": "Andria",
+        "merchandise": {
+          "soap": 26,
+          "honey": 36
+        }
+      },
+      {
+        "from": "Andria",
+        "to": "Guidonia Montecelio",
+        "merchandise": {
+          "carrots": 6,
+          "toilet cleaner": 6,
+          "garlic": 15
+        }
+      },
+      {
+        "from": "Guidonia Montecelio",
+        "to": "Florence",
+        "merchandise": {
+          "apples": 25,
+          "pens": 29
+        }
+      },
+      {
+        "from": "Florence",
+        "to": "Andria",
+        "merchandise": {
+          "honey": 23,
+          "mouse": 21
+        }
+      },
+      {
+        "from": "Andria",
+        "to": "Taranto",
+        "merchandise": {
+          "milk": 8,
+          "eggs": 49,
+          "laundry detergent": 9
+        }
+      },
+      {
+        "from": "Taranto",
+        "to": "Verona",
+        "merchandise": {
+          "juice": 26,
+          "sweater": 24,
+          "paper towels": 40
+        }
+      }
+    ]
+  },
+  {
+    "driver": "driver_88",
+    "route": [
+      {
+        "from": "Treviso",
+        "to": "La Spezia",
+        "merchandise": {
+          "chicken": 31,
+          "salad dressing": 29,
+          "laptop": 20
+        }
+      },
+      {
+        "from": "La Spezia",
+        "to": "Messina",
+        "merchandise": {
+          "shoes": 49,
+          "rice": 28,
+          "cheese": 11
+        }
+      },
+      {
+        "from": "Messina",
+        "to": "Andria",
+        "merchandise": {
+          "soap": 26,
+          "honey": 36
+        }
+      },
+      {
+        "from": "Andria",
+        "to": "Guidonia Montecelio",
+        "merchandise": {
+          "carrots": 6,
+          "toilet cleaner": 6,
+          "garlic": 15
+        }
+      },
+      {
+        "from": "Guidonia Montecelio",
+        "to": "Forl\u00ec",
+        "merchandise": {
+          "cereal": 11,
+          "toothbrush": 16
+        }
+      },
+      {
+        "from": "Forl\u00ec",
+        "to": "Turin",
+        "merchandise": {
+          "razor": 31,
+          "paper towels": 17
+        }
+      },
+      {
+        "from": "Turin",
+        "to": "Rimini",
+        "merchandise": {
+          "ketchup": 50,
+          "honey": 14,
+          "chocolate": 38
+        }
+      }
+    ]
+  },
+  {
+    "driver": "driver_42",
+    "route": [
+      {
+        "from": "Rimini",
+        "to": "Andria",
+        "merchandise": {
+          "sweater": 42,
+          "broccoli": 20,
+          "laptop": 49
+        }
+      },
+      {
+        "from": "Andria",
+        "to": "Brindisi",
+        "merchandise": {
+          "potatoes": 25,
+          "broccoli": 22,
+          "paper towels": 36,
+          "laundry detergent": 29
+        }
+      },
+      {
+        "from": "Brindisi",
+        "to": "Catania",
+        "merchandise": {
+          "milk": 45,
+          "apples": 41,
+          "bread": 42,
+          "keyboard": 32
+        }
+      },
+      {
+        "from": "Catania",
+        "to": "Andria",
+        "merchandise": {
+          "soap": 26,
+          "honey": 36
+        }
+      },
+      {
+        "from": "Andria",
+        "to": "Trieste",
+        "merchandise": {
+          "tuna": 14,
+          "shoes": 42,
+          "apples": 25
+        }
+      },
+      {
+        "from": "Trieste",
+        "to": "Catania",
+        "merchandise": {
+          "milk": 45,
+          "apples": 41,
+          "bread": 42,
+          "keyboard": 32
+        }
+      },
+      {
+        "from": "Catania",
+        "to": "Rimini",
+        "merchandise": {
+          "juice": 33,
+          "rice": 42,
+          "shampoo": 21
+        }
+      }
+    ]
+  },
+  {
+    "driver": "driver_73",
+    "route": [
+      {
+        "from": "Cesena",
+        "to": "Latina",
+        "merchandise": {
+          "salad dressing": 28,
+          "beans": 31
+        }
+      },
+      {
+        "from": "Latina",
+        "to": "Trieste",
+        "merchandise": {
+          "laptop": 29,
+          "salad dressing": 38
+        }
+      },
+      {
+        "from": "Trieste",
+        "to": "Bolzano-Bozen",
+        "merchandise": {
+          "coffee": 44,
+          "butter": 5,
+          "laundry detergent": 46,
+          "toilet cleaner": 33
+        }
+      },
+      {
+        "from": "Bolzano-Bozen",
+        "to": "Rimini",
+        "merchandise": {
+          "laundry detergent": 3,
+          "salad dressing": 44,
+          "potatoes": 48
+        }
+      },
+      {
+        "from": "Rimini",
+        "to": "Andria",
+        "merchandise": {
+          "spaghetti": 13,
+          "honey": 18
+        }
+      },
+      {
+        "from": "Andria",
+        "to": "Cesena",
+        "merchandise": {
+          "tuna": 4,
+          "dish soap": 44,
+          "shoes": 8,
+          "shampoo": 48
+        }
+      },
+      {
+        "from": "Cesena",
+        "to": "Prato",
+        "merchandise": {
+          "rice": 43,
+          "toilet paper": 28,
+          "trash bags": 14
+        }
+      }
+    ]
+  },
+  {
+    "driver": "driver_32",
+    "route": [
+      {
+        "from": "Perugia",
+        "to": "Latina",
+        "merchandise": {
+          "salad dressing": 28,
+          "beans": 31
+        }
+      },
+      {
+        "from": "Latina",
+        "to": "Andria",
+        "merchandise": {
+          "soap": 26,
+          "honey": 36
+        }
+      },
+      {
+        "from": "Andria",
+        "to": "Rimini",
+        "merchandise": {
+          "laundry detergent": 3,
+          "salad dressing": 44,
+          "potatoes": 48
+        }
+      },
+      {
+        "from": "Rimini",
+        "to": "Andria",
+        "merchandise": {
+          "spaghetti": 13,
+          "honey": 18
+        }
+      },
+      {
+        "from": "Andria",
+        "to": "Trieste",
+        "merchandise": {
+          "tuna": 14,
+          "shoes": 42,
+          "apples": 25
+        }
+      },
+      {
+        "from": "Trieste",
+        "to": "Catania",
+        "merchandise": {
+          "milk": 45,
+          "apples": 41,
+          "bread": 42,
+          "keyboard": 32
+        }
+      },
+      {
+        "from": "Catania",
+        "to": "Cesena",
+        "merchandise": {
+          "tuna": 4,
+          "dish soap": 44,
+          "shoes": 8,
+          "shampoo": 43
+        }
+      }
+    ]
+  },
+  {
+    "driver": "driver_72",
+    "route": [
+      {
+        "from": "Perugia",
+        "to": "Florence",
+        "merchandise": {
+          "apples": 25,
+          "pens": 29
+        }
+      },
+      {
+        "from": "Florence",
+        "to": "Andria",
+        "merchandise": {
+          "honey": 23,
+          "mouse": 21
+        }
+      },
+      {
+        "from": "Andria",
+        "to": "Trieste",
+        "merchandise": {
+          "tuna": 14,
+          "shoes": 42,
+          "apples": 25
+        }
+      },
+      {
+        "from": "Trieste",
+        "to": "Catania",
+        "merchandise": {
+          "milk": 45,
+          "apples": 41,
+          "bread": 42,
+          "keyboard": 32
+        }
+      },
+      {
+        "from": "Catania",
+        "to": "Messina",
+        "merchandise": {
+          "shoes": 49,
+          "rice": 28,
+          "cheese": 11
+        }
+      },
+      {
+        "from": "Messina",
+        "to": "Andria",
+        "merchandise": {
+          "soap": 26,
+          "honey": 36
+        }
+      },
+      {
+        "from": "Andria",
+        "to": "Rimini",
+        "merchandise": {
+          "laundry detergent": 3,
+          "salad dressing": 44,
+          "potatoes": 48
+        }
+      }
+    ]
+  },
+  {
+    "driver": "driver_35",
+    "route": [
+      {
+        "from": "Novara",
+        "to": "Rimini",
+        "merchandise": {
+          "juice": 33,
+          "rice": 4,
+          "shampoo": 34
+        }
+      },
+      {
+        "from": "Rimini",
+        "to": "Andria",
+        "merchandise": {
+          "spaghetti": 13,
+          "honey": 18
+        }
+      },
+      {
+        "from": "Andria",
+        "to": "Trieste",
+        "merchandise": {
+          "tuna": 14,
+          "shoes": 42,
+          "apples": 25
+        }
+      },
+      {
+        "from": "Trieste",
+        "to": "Catania",
+        "merchandise": {
+          "milk": 45,
+          "apples": 41,
+          "bread": 42,
+          "keyboard": 32
+        }
+      },
+      {
+        "from": "Catania",
+        "to": "Messina",
+        "merchandise": {
+          "shoes": 49,
+          "rice": 28,
+          "cheese": 11
+        }
+      },
+      {
+        "from": "Messina",
+        "to": "Andria",
+        "merchandise": {
+          "soap": 26,
+          "honey": 36
+        }
+      },
+      {
+        "from": "Andria",
+        "to": "Ferrara",
+        "merchandise": {
+          "razor": 15,
+          "soap": 46
+        }
+      }
+    ]
+  },
+  {
+    "driver": "driver_1",
+    "route": [
+      {
+        "from": "Rimini",
+        "to": "Sassari",
+        "merchandise": {
+          "sweater": 42,
+          "broccoli": 20,
+          "laptop": 49
+        }
+      },
+      {
+        "from": "Sassari",
+        "to": "Cesena",
+        "merchandise": {
+          "tuna": 4,
+          "dish soap": 44,
+          "shoes": 8,
+          "shampoo": 48
+        }
+      },
+      {
+        "from": "Cesena",
+        "to": "Prato",
+        "merchandise": {
+          "rice": 43,
+          "toilet paper": 28,
+          "trash bags": 14
+        }
+      },
+      {
+        "from": "Prato",
+        "to": "Ferrara",
+        "merchandise": {
+          "razor": 15,
+          "soap": 46
+        }
+      },
+      {
+        "from": "Ferrara",
+        "to": "Genoa",
+        "merchandise": {
+          "shoes": 18,
+          "soap": 22,
+          "laundry detergent": 23
+        }
+      },
+      {
+        "from": "Genoa",
+        "to": "Novara",
+        "merchandise": {
+          "razor": 16,
+          "honey": 12
+        }
+      },
+      {
+        "from": "Novara",
+        "to": "Venice",
+        "merchandise": {
+          "shoes": 37,
+          "cereal": 21,
+          "fish": 24
+        }
+      }
+    ]
+  },
+  {
+    "driver": "driver_34",
+    "route": [
+      {
+        "from": "Genoa",
+        "to": "Piacenza",
+        "merchandise": {
+          "chicken": 43,
+          "rice": 26
+        }
+      },
+      {
+        "from": "Piacenza",
+        "to": "Rimini",
+        "merchandise": {
+          "laundry detergent": 3,
+          "salad dressing": 44,
+          "potatoes": 48
+        }
+      },
+      {
+        "from": "Rimini",
+        "to": "Andria",
+        "merchandise": {
+          "soap": 26,
+          "honey": 36
+        }
+      },
+      {
+        "from": "Andria",
+        "to": "Trieste",
+        "merchandise": {
+          "tuna": 14,
+          "shoes": 42,
+          "apples": 25
+        }
+      },
+      {
+        "from": "Trieste",
+        "to": "Catania",
+        "merchandise": {
+          "milk": 45,
+          "apples": 41,
+          "bread": 42,
+          "keyboard": 32
+        }
+      },
+      {
+        "from": "Catania",
+        "to": "Cesena",
+        "merchandise": {
+          "tuna": 4,
+          "dish soap": 44,
+          "shoes": 8,
+          "shampoo": 43
+        }
+      },
+      {
+        "from": "Cesena",
+        "to": "Prato",
+        "merchandise": {
+          "rice": 43,
+          "toilet paper": 28,
+          "trash bags": 14
+        }
+      }
+    ]
+  },
+  {
+    "driver": "driver_87",
+    "route": [
+      {
+        "from": "Vicenza",
+        "to": "Rimini",
+        "merchandise": {
+          "razor": 12,
+          "coffee": 48,
+          "pens": 44,
+          "yogurt": 26
+        }
+      },
+      {
+        "from": "Rimini",
+        "to": "Andria",
+        "merchandise": {
+          "spaghetti": 13,
+          "honey": 18
+        }
+      },
+      {
+        "from": "Andria",
+        "to": "Ferrara",
+        "merchandise": {
+          "razor": 15,
+          "soap": 46
+        }
+      },
+      {
+        "from": "Ferrara",
+        "to": "Cesena",
+        "merchandise": {
+          "tuna": 4,
+          "dish soap": 44,
+          "shoes": 8,
+          "shampoo": 48
+        }
+      },
+      {
+        "from": "Cesena",
+        "to": "Prato",
+        "merchandise": {
+          "rice": 43,
+          "toilet paper": 28,
+          "trash bags": 14
+        }
+      },
+      {
+        "from": "Prato",
+        "to": "Ferrara",
+        "merchandise": {
+          "razor": 15,
+          "soap": 46
+        }
+      },
+      {
+        "from": "Ferrara",
+        "to": "Rimini",
+        "merchandise": {
+          "laundry detergent": 3,
+          "salad dressing": 44,
+          "potatoes": 48
+        }
+      }
+    ]
+  },
+  {
+    "driver": "driver_8",
+    "route": [
+      {
+        "from": "Arezzo",
+        "to": "Andria",
+        "merchandise": {
+          "soap": 26,
+          "honey": 36
+        }
+      },
+      {
+        "from": "Andria",
+        "to": "Guidonia Montecelio",
+        "merchandise": {
+          "carrots": 6,
+          "toilet cleaner": 6,
+          "garlic": 15
+        }
+      },
+      {
+        "from": "Guidonia Montecelio",
+        "to": "Venice",
+        "merchandise": {
+          "shoes": 37,
+          "cereal": 21,
+          "fish": 24
+        }
+      },
+      {
+        "from": "Venice",
+        "to": "Rimini",
+        "merchandise": {
+          "laundry detergent": 3,
+          "salad dressing": 44,
+          "potatoes": 48
+        }
+      },
+      {
+        "from": "Rimini",
+        "to": "Andria",
+        "merchandise": {
+          "spaghetti": 13,
+          "honey": 18
+        }
+      },
+      {
+        "from": "Andria",
+        "to": "Cesena",
+        "merchandise": {
+          "tuna": 4,
+          "dish soap": 44,
+          "shoes": 16,
+          "shampoo": 34
+        }
+      },
+      {
+        "from": "Cesena",
+        "to": "Prato",
+        "merchandise": {
+          "rice": 43,
+          "toilet paper": 28,
+          "trash bags": 14
+        }
+      }
+    ]
+  },
+  {
+    "driver": "driver_13",
+    "route": [
+      {
+        "from": "Arezzo",
+        "to": "Novara",
+        "merchandise": {
+          "razor": 16,
+          "honey": 12
+        }
+      },
+      {
+        "from": "Novara",
+        "to": "Venice",
+        "merchandise": {
+          "shoes": 37,
+          "cereal": 21,
+          "fish": 24
+        }
+      },
+      {
+        "from": "Venice",
+        "to": "Catania",
+        "merchandise": {
+          "milk": 45,
+          "apples": 41,
+          "bread": 42,
+          "keyboard": 20
+        }
+      },
+      {
+        "from": "Catania",
+        "to": "Ferrara",
+        "merchandise": {
+          "razor": 15,
+          "soap": 46
+        }
+      },
+      {
+        "from": "Ferrara",
+        "to": "Cesena",
+        "merchandise": {
+          "tuna": 4,
+          "dish soap": 44,
+          "shoes": 8,
+          "shampoo": 48
+        }
+      },
+      {
+        "from": "Cesena",
+        "to": "Prato",
+        "merchandise": {
+          "rice": 43,
+          "toilet paper": 28,
+          "trash bags": 14
+        }
+      },
+      {
+        "from": "Prato",
+        "to": "Bergamo",
+        "merchandise": {
+          "ketchup": 6,
+          "bread": 44,
+          "chicken": 21,
+          "butter": 8
+        }
+      }
+    ]
+  },
+  {
+    "driver": "driver_78",
+    "route": [
+      {
+        "from": "Bolzano-Bozen",
+        "to": "Messina",
+        "merchandise": {
+          "shoes": 49,
+          "rice": 28,
+          "cheese": 11
+        }
+      },
+      {
+        "from": "Messina",
+        "to": "Andria",
+        "merchandise": {
+          "soap": 26,
+          "honey": 36
+        }
+      },
+      {
+        "from": "Andria",
+        "to": "Messina",
+        "merchandise": {
+          "shoes": 49,
+          "rice": 28,
+          "cheese": 11
+        }
+      },
+      {
+        "from": "Messina",
+        "to": "Genoa",
+        "merchandise": {
+          "shoes": 18,
+          "soap": 22,
+          "laundry detergent": 23
+        }
+      },
+      {
+        "from": "Genoa",
+        "to": "Novara",
+        "merchandise": {
+          "razor": 16,
+          "honey": 12
+        }
+      },
+      {
+        "from": "Novara",
+        "to": "Venice",
+        "merchandise": {
+          "shoes": 37,
+          "cereal": 21,
+          "fish": 24
+        }
+      },
+      {
+        "from": "Venice",
+        "to": "Catania",
+        "merchandise": {
+          "milk": 45,
+          "apples": 41,
+          "bread": 42,
+          "keyboard": 20
+        }
+      }
+    ]
+  },
+  {
+    "driver": "driver_82",
+    "route": [
+      {
+        "from": "Lucca",
+        "to": "Prato",
+        "merchandise": {
+          "rice": 43,
+          "toilet paper": 28,
+          "trash bags": 14
+        }
+      },
+      {
+        "from": "Prato",
+        "to": "Messina",
+        "merchandise": {
+          "shoes": 49,
+          "rice": 28,
+          "cheese": 40
+        }
+      },
+      {
+        "from": "Messina",
+        "to": "Venice",
+        "merchandise": {
+          "shoes": 37,
+          "cereal": 21,
+          "fish": 24
+        }
+      },
+      {
+        "from": "Venice",
+        "to": "Cesena",
+        "merchandise": {
+          "tuna": 4,
+          "dish soap": 44,
+          "shoes": 8,
+          "shampoo": 48
+        }
+      },
+      {
+        "from": "Cesena",
+        "to": "Prato",
+        "merchandise": {
+          "rice": 43,
+          "toilet paper": 28,
+          "trash bags": 14
+        }
+      },
+      {
+        "from": "Prato",
+        "to": "Andria",
+        "merchandise": {
+          "soap": 26,
+          "honey": 36
+        }
+      },
+      {
+        "from": "Andria",
+        "to": "Trieste",
+        "merchandise": {
+          "tuna": 14,
+          "shoes": 42,
+          "apples": 25
+        }
+      }
+    ]
+  },
+  {
+    "driver": "driver_92",
+    "route": [
+      {
+        "from": "Ravenna",
+        "to": "Ferrara",
+        "merchandise": {
+          "razor": 15,
+          "soap": 46
+        }
+      },
+      {
+        "from": "Ferrara",
+        "to": "Cesena",
+        "merchandise": {
+          "tuna": 4,
+          "dish soap": 44,
+          "shoes": 8,
+          "shampoo": 48
+        }
+      },
+      {
+        "from": "Cesena",
+        "to": "Prato",
+        "merchandise": {
+          "rice": 43,
+          "toilet paper": 28,
+          "trash bags": 14
+        }
+      },
+      {
+        "from": "Prato",
+        "to": "Bergamo",
+        "merchandise": {
+          "ketchup": 6,
+          "bread": 44,
+          "chicken": 21,
+          "butter": 8
+        }
+      },
+      {
+        "from": "Bergamo",
+        "to": "Verona",
+        "merchandise": {
+          "juice": 26,
+          "sweater": 24,
+          "paper towels": 40
+        }
+      },
+      {
+        "from": "Verona",
+        "to": "Catania",
+        "merchandise": {
+          "milk": 45,
+          "apples": 38,
+          "bread": 23,
+          "keyboard": 34
+        }
+      },
+      {
+        "from": "Catania",
+        "to": "Cesena",
+        "merchandise": {
+          "tuna": 4,
+          "dish soap": 44,
+          "shoes": 8,
+          "shampoo": 43
+        }
+      }
+    ]
+  },
+  {
+    "driver": "driver_79",
+    "route": [
+      {
+        "from": "Turin",
+        "to": "Sassari",
+        "merchandise": {
+          "potatoes": 25,
+          "broccoli": 22,
+          "paper towels": 36,
+          "laundry detergent": 29
+        }
+      },
+      {
+        "from": "Sassari",
+        "to": "Verona",
+        "merchandise": {
+          "juice": 26,
+          "sweater": 24,
+          "paper towels": 40
+        }
+      },
+      {
+        "from": "Verona",
+        "to": "Catania",
+        "merchandise": {
+          "milk": 45,
+          "apples": 38,
+          "bread": 23,
+          "keyboard": 34
+        }
+      },
+      {
+        "from": "Catania",
+        "to": "Rimini",
+        "merchandise": {
+          "juice": 33,
+          "rice": 4,
+          "shampoo": 34
+        }
+      },
+      {
+        "from": "Rimini",
+        "to": "Andria",
+        "merchandise": {
+          "spaghetti": 13,
+          "honey": 18
+        }
+      },
+      {
+        "from": "Andria",
+        "to": "Trieste",
+        "merchandise": {
+          "tuna": 14,
+          "shoes": 42,
+          "apples": 25
+        }
+      },
+      {
+        "from": "Trieste",
+        "to": "Catania",
+        "merchandise": {
+          "milk": 45,
+          "apples": 41,
+          "bread": 42,
+          "keyboard": 32
+        }
+      }
+    ]
+  },
+  {
+    "driver": "driver_85",
+    "route": [
+      {
+        "from": "Cesena",
+        "to": "Lucca",
+        "merchandise": {
+          "onions": 43,
+          "fish": 7
+        }
+      },
+      {
+        "from": "Lucca",
+        "to": "Grosseto",
+        "merchandise": {
+          "chicken": 20,
+          "mouse": 8
+        }
+      },
+      {
+        "from": "Grosseto",
+        "to": "Catania",
+        "merchandise": {
+          "milk": 45,
+          "apples": 40,
+          "bread": 42,
+          "keyboard": 6
+        }
+      },
+      {
+        "from": "Catania",
+        "to": "Messina",
+        "merchandise": {
+          "shoes": 49,
+          "rice": 28,
+          "cheese": 11
+        }
+      },
+      {
+        "from": "Messina",
+        "to": "Andria",
+        "merchandise": {
+          "soap": 26,
+          "honey": 36
+        }
+      },
+      {
+        "from": "Andria",
+        "to": "Cesena",
+        "merchandise": {
+          "tuna": 4,
+          "dish soap": 44,
+          "shoes": 16,
+          "shampoo": 34
+        }
+      },
+      {
+        "from": "Cesena",
+        "to": "Prato",
+        "merchandise": {
+          "rice": 43,
+          "toilet paper": 28,
+          "trash bags": 14
+        }
+      }
+    ]
+  },
+  {
+    "driver": "driver_29",
+    "route": [
+      {
+        "from": "Cagliari",
+        "to": "Verona",
+        "merchandise": {
+          "juice": 26,
+          "sweater": 24,
+          "paper towels": 40
+        }
+      },
+      {
+        "from": "Verona",
+        "to": "Novara",
+        "merchandise": {
+          "chicken": 34,
+          "paper towels": 12
+        }
+      },
+      {
+        "from": "Novara",
+        "to": "Rimini",
+        "merchandise": {
+          "juice": 33,
+          "rice": 4,
+          "shampoo": 34
+        }
+      },
+      {
+        "from": "Rimini",
+        "to": "Andria",
+        "merchandise": {
+          "spaghetti": 13,
+          "honey": 18
+        }
+      },
+      {
+        "from": "Andria",
+        "to": "Trieste",
+        "merchandise": {
+          "tuna": 14,
+          "shoes": 42,
+          "apples": 25
+        }
+      },
+      {
+        "from": "Trieste",
+        "to": "Reggio Calabria",
+        "merchandise": {
+          "toothpaste": 1,
+          "socks": 15
+        }
+      },
+      {
+        "from": "Reggio Calabria",
+        "to": "Rimini",
+        "merchandise": {
+          "juice": 33,
+          "rice": 4,
+          "shampoo": 34
+        }
+      }
+    ]
+  },
+  {
+    "driver": "driver_28",
+    "route": [
+      {
+        "from": "Busto Arsizio",
+        "to": "Perugia",
+        "merchandise": {
+          "shoes": 11,
+          "toothbrush": 44,
+          "fish": 38
+        }
+      },
+      {
+        "from": "Perugia",
+        "to": "Forl\u00ec",
+        "merchandise": {
+          "cereal": 11,
+          "toothbrush": 16
+        }
+      },
+      {
+        "from": "Forl\u00ec",
+        "to": "Turin",
+        "merchandise": {
+          "razor": 31,
+          "paper towels": 17
+        }
+      },
+      {
+        "from": "Turin",
+        "to": "Brindisi",
+        "merchandise": {
+          "potatoes": 25,
+          "broccoli": 22,
+          "paper towels": 36,
+          "laundry detergent": 29
+        }
+      },
+      {
+        "from": "Brindisi",
+        "to": "Catania",
+        "merchandise": {
+          "milk": 45,
+          "apples": 41,
+          "bread": 42,
+          "keyboard": 32
+        }
+      },
+      {
+        "from": "Catania",
+        "to": "Cesena",
+        "merchandise": {
+          "tuna": 4,
+          "dish soap": 44,
+          "shoes": 8,
+          "shampoo": 43
+        }
+      },
+      {
+        "from": "Cesena",
+        "to": "Prato",
+        "merchandise": {
+          "rice": 43,
+          "toilet paper": 28,
+          "trash bags": 14
+        }
+      }
+    ]
+  },
+  {
+    "driver": "driver_46",
+    "route": [
+      {
+        "from": "Cagliari",
+        "to": "Rimini",
+        "merchandise": {
+          "laundry detergent": 3,
+          "salad dressing": 44,
+          "potatoes": 48
+        }
+      },
+      {
+        "from": "Rimini",
+        "to": "Taranto",
+        "merchandise": {
+          "carrots": 3,
+          "light bulbs": 34,
+          "trash bags": 50,
+          "laundry detergent": 38
+        }
+      },
+      {
+        "from": "Taranto",
+        "to": "Trieste",
+        "merchandise": {
+          "oranges": 38,
+          "razor": 33,
+          "ice cream": 41
+        }
+      },
+      {
+        "from": "Trieste",
+        "to": "Catania",
+        "merchandise": {
+          "milk": 45,
+          "apples": 41,
+          "bread": 42,
+          "keyboard": 32
+        }
+      },
+      {
+        "from": "Catania",
+        "to": "Venice",
+        "merchandise": {
+          "shoes": 37,
+          "cereal": 21,
+          "fish": 24
+        }
+      },
+      {
+        "from": "Venice",
+        "to": "Catania",
+        "merchandise": {
+          "milk": 45,
+          "apples": 41,
+          "bread": 42,
+          "keyboard": 20
+        }
+      },
+      {
+        "from": "Catania",
+        "to": "Cesena",
+        "merchandise": {
+          "tuna": 4,
+          "dish soap": 44,
+          "shoes": 8,
+          "shampoo": 43
+        }
+      }
+    ]
+  },
+  {
+    "driver": "driver_2",
+    "route": [
+      {
+        "from": "Busto Arsizio",
+        "to": "Cesena",
+        "merchandise": {
+          "tuna": 4,
+          "dish soap": 44,
+          "shoes": 8,
+          "shampoo": 48
+        }
+      },
+      {
+        "from": "Cesena",
+        "to": "Prato",
+        "merchandise": {
+          "rice": 43,
+          "toilet paper": 28,
+          "trash bags": 14
+        }
+      },
+      {
+        "from": "Prato",
+        "to": "Bergamo",
+        "merchandise": {
+          "ketchup": 6,
+          "bread": 44,
+          "chicken": 21,
+          "butter": 8
+        }
+      },
+      {
+        "from": "Bergamo",
+        "to": "Venice",
+        "merchandise": {
+          "shoes": 37,
+          "cereal": 18,
+          "fish": 43
+        }
+      },
+      {
+        "from": "Venice",
+        "to": "Catania",
+        "merchandise": {
+          "milk": 45,
+          "apples": 41,
+          "bread": 42,
+          "keyboard": 20
+        }
+      },
+      {
+        "from": "Catania",
+        "to": "Busto Arsizio",
+        "merchandise": {
+          "garlic": 40,
+          "cheese": 42,
+          "laundry detergent": 8,
+          "laptop": 47
+        }
+      },
+      {
+        "from": "Busto Arsizio",
+        "to": "Novara",
+        "merchandise": {
+          "razor": 16,
+          "honey": 12
+        }
+      }
+    ]
+  },
+  {
+    "driver": "driver_93",
+    "route": [
+      {
+        "from": "Turin",
+        "to": "Parma",
+        "merchandise": {
+          "potatoes": 25,
+          "broccoli": 22,
+          "paper towels": 36,
+          "laundry detergent": 29
+        }
+      },
+      {
+        "from": "Parma",
+        "to": "Florence",
+        "merchandise": {
+          "apples": 25,
+          "pens": 29
+        }
+      },
+      {
+        "from": "Florence",
+        "to": "Turin",
+        "merchandise": {
+          "razor": 31,
+          "paper towels": 17
+        }
+      },
+      {
+        "from": "Turin",
+        "to": "Brindisi",
+        "merchandise": {
+          "potatoes": 25,
+          "broccoli": 22,
+          "paper towels": 36,
+          "laundry detergent": 29
+        }
+      },
+      {
+        "from": "Brindisi",
+        "to": "Rimini",
+        "merchandise": {
+          "laundry detergent": 3,
+          "salad dressing": 44,
+          "potatoes": 48
+        }
+      },
+      {
+        "from": "Rimini",
+        "to": "Andria",
+        "merchandise": {
+          "spaghetti": 13,
+          "honey": 18
+        }
+      },
+      {
+        "from": "Andria",
+        "to": "Cesena",
+        "merchandise": {
+          "tuna": 4,
+          "dish soap": 44,
+          "shoes": 8,
+          "shampoo": 48
+        }
+      }
+    ]
+  },
+  {
+    "driver": "driver_83",
+    "route": [
+      {
+        "from": "Alessandria",
+        "to": "Venice",
+        "merchandise": {
+          "shoes": 37,
+          "cereal": 21,
+          "fish": 24
+        }
+      },
+      {
+        "from": "Venice",
+        "to": "Latina",
+        "merchandise": {
+          "salad dressing": 28,
+          "beans": 31
+        }
+      },
+      {
+        "from": "Latina",
+        "to": "Trieste",
+        "merchandise": {
+          "laptop": 29,
+          "salad dressing": 38
+        }
+      },
+      {
+        "from": "Trieste",
+        "to": "Catania",
+        "merchandise": {
+          "milk": 45,
+          "apples": 41,
+          "bread": 42,
+          "keyboard": 32
+        }
+      },
+      {
+        "from": "Catania",
+        "to": "Messina",
+        "merchandise": {
+          "shoes": 49,
+          "rice": 28,
+          "cheese": 11
+        }
+      },
+      {
+        "from": "Messina",
+        "to": "Andria",
+        "merchandise": {
+          "soap": 26,
+          "honey": 36
+        }
+      },
+      {
+        "from": "Andria",
+        "to": "Trieste",
+        "merchandise": {
+          "tuna": 14,
+          "shoes": 42,
+          "apples": 25
+        }
+      }
+    ]
+  },
+  {
+    "driver": "driver_21",
+    "route": [
+      {
+        "from": "Piacenza",
+        "to": "Livorno",
+        "merchandise": {
+          "tomatoes": 39,
+          "laptop": 38,
+          "shoes": 1,
+          "eggs": 6
+        }
+      },
+      {
+        "from": "Livorno",
+        "to": "Cesena",
+        "merchandise": {
+          "tuna": 4,
+          "dish soap": 44,
+          "shoes": 16,
+          "shampoo": 48
+        }
+      },
+      {
+        "from": "Cesena",
+        "to": "Venice",
+        "merchandise": {
+          "chicken": 43,
+          "rice": 26
+        }
+      },
+      {
+        "from": "Venice",
+        "to": "Cesena",
+        "merchandise": {
+          "tuna": 4,
+          "dish soap": 44,
+          "shoes": 8,
+          "shampoo": 48
+        }
+      },
+      {
+        "from": "Cesena",
+        "to": "Lucca",
+        "merchandise": {
+          "onions": 43,
+          "fish": 7
+        }
+      },
+      {
+        "from": "Lucca",
+        "to": "Grosseto",
+        "merchandise": {
+          "chicken": 20,
+          "mouse": 8
+        }
+      },
+      {
+        "from": "Grosseto",
+        "to": "Forl\u00ec",
+        "merchandise": {
+          "cereal": 11,
+          "toothbrush": 16
+        }
+      }
+    ]
+  },
+  {
+    "driver": "driver_69",
+    "route": [
+      {
+        "from": "Grosseto",
+        "to": "Messina",
+        "merchandise": {
+          "shoes": 49,
+          "rice": 28,
+          "cheese": 11
+        }
+      },
+      {
+        "from": "Messina",
+        "to": "Genoa",
+        "merchandise": {
+          "shoes": 18,
+          "soap": 22,
+          "laundry detergent": 23
+        }
+      },
+      {
+        "from": "Genoa",
+        "to": "Rimini",
+        "merchandise": {
+          "razor": 12,
+          "coffee": 48,
+          "pens": 44,
+          "yogurt": 26
+        }
+      },
+      {
+        "from": "Rimini",
+        "to": "Ancona",
+        "merchandise": {
+          "sweater": 42,
+          "broccoli": 20,
+          "laptop": 49
+        }
+      },
+      {
+        "from": "Ancona",
+        "to": "Piacenza",
+        "merchandise": {
+          "sweater": 42,
+          "broccoli": 20,
+          "laptop": 49
+        }
+      },
+      {
+        "from": "Piacenza",
+        "to": "Padua",
+        "merchandise": {
+          "honey": 41,
+          "light bulbs": 24
+        }
+      },
+      {
+        "from": "Padua",
+        "to": "Verona",
+        "merchandise": {
+          "juice": 26,
+          "sweater": 24,
+          "paper towels": 40
+        }
+      }
+    ]
+  },
+  {
+    "driver": "driver_53",
+    "route": [
+      {
+        "from": "Novara",
+        "to": "Latina",
+        "merchandise": {
+          "salad dressing": 28,
+          "beans": 31
+        }
+      },
+      {
+        "from": "Latina",
+        "to": "Trieste",
+        "merchandise": {
+          "laptop": 29,
+          "salad dressing": 38
+        }
+      },
+      {
+        "from": "Trieste",
+        "to": "Catania",
+        "merchandise": {
+          "milk": 45,
+          "apples": 41,
+          "bread": 42,
+          "keyboard": 32
+        }
+      },
+      {
+        "from": "Catania",
+        "to": "Messina",
+        "merchandise": {
+          "shoes": 49,
+          "rice": 28,
+          "cheese": 11
+        }
+      },
+      {
+        "from": "Messina",
+        "to": "Andria",
+        "merchandise": {
+          "soap": 26,
+          "honey": 36
+        }
+      },
+      {
+        "from": "Andria",
+        "to": "Trieste",
+        "merchandise": {
+          "tuna": 14,
+          "shoes": 42,
+          "apples": 25
+        }
+      },
+      {
+        "from": "Trieste",
+        "to": "Catania",
+        "merchandise": {
+          "milk": 45,
+          "apples": 41,
+          "bread": 42,
+          "keyboard": 32,
+          "ice cream": 2
+        }
+      }
+    ]
+  },
+  {
+    "driver": "driver_80",
+    "route": [
+      {
+        "from": "Brescia",
+        "to": "Cesena",
+        "merchandise": {
+          "tuna": 4,
+          "dish soap": 44,
+          "shoes": 8,
+          "shampoo": 48
+        }
+      },
+      {
+        "from": "Cesena",
+        "to": "Venice",
+        "merchandise": {
+          "shoes": 37,
+          "cereal": 21,
+          "fish": 24
+        }
+      },
+      {
+        "from": "Venice",
+        "to": "Latina",
+        "merchandise": {
+          "salad dressing": 28,
+          "beans": 47
+        }
+      },
+      {
+        "from": "Latina",
+        "to": "Trieste",
+        "merchandise": {
+          "laptop": 29,
+          "salad dressing": 38
+        }
+      },
+      {
+        "from": "Trieste",
+        "to": "Treviso",
+        "merchandise": {
+          "soap": 42,
+          "paper towels": 5
+        }
+      },
+      {
+        "from": "Treviso",
+        "to": "Arezzo",
+        "merchandise": {
+          "chocolate": 1,
+          "cereal": 49
+        }
+      },
+      {
+        "from": "Arezzo",
+        "to": "Brescia",
+        "merchandise": {
+          "laptop": 3,
+          "bread": 40,
+          "laundry detergent": 29
+        }
+      }
+    ]
+  },
+  {
+    "driver": "driver_95",
+    "route": [
+      {
+        "from": "Monza",
+        "to": "Venice",
+        "merchandise": {
+          "chicken": 43,
+          "rice": 26
+        }
+      },
+      {
+        "from": "Venice",
+        "to": "Cesena",
+        "merchandise": {
+          "tuna": 4,
+          "dish soap": 44,
+          "shoes": 8,
+          "shampoo": 48
+        }
+      },
+      {
+        "from": "Cesena",
+        "to": "Andria",
+        "merchandise": {
+          "soap": 26,
+          "honey": 36
+        }
+      },
+      {
+        "from": "Andria",
+        "to": "Trieste",
+        "merchandise": {
+          "tuna": 14,
+          "shoes": 42,
+          "apples": 25
+        }
+      },
+      {
+        "from": "Trieste",
+        "to": "Catania",
+        "merchandise": {
+          "milk": 45,
+          "apples": 41,
+          "bread": 42,
+          "keyboard": 32
+        }
+      },
+      {
+        "from": "Catania",
+        "to": "Andria",
+        "merchandise": {
+          "soap": 26,
+          "honey": 36
+        }
+      },
+      {
+        "from": "Andria",
+        "to": "Cesena",
+        "merchandise": {
+          "tuna": 4,
+          "dish soap": 44,
+          "shoes": 8,
+          "shampoo": 48
+        }
+      }
+    ]
+  },
+  {
+    "driver": "driver_77",
+    "route": [
+      {
+        "from": "Venice",
+        "to": "Ferrara",
+        "merchandise": {
+          "razor": 15,
+          "soap": 46
+        }
+      },
+      {
+        "from": "Ferrara",
+        "to": "Rimini",
+        "merchandise": {
+          "juice": 33,
+          "rice": 4,
+          "shampoo": 34
+        }
+      },
+      {
+        "from": "Rimini",
+        "to": "Andria",
+        "merchandise": {
+          "spaghetti": 13,
+          "honey": 18
+        }
+      },
+      {
+        "from": "Andria",
+        "to": "Trieste",
+        "merchandise": {
+          "tuna": 14,
+          "shoes": 42,
+          "apples": 25
+        }
+      },
+      {
+        "from": "Trieste",
+        "to": "Bolzano-Bozen",
+        "merchandise": {
+          "coffee": 44,
+          "butter": 5,
+          "laundry detergent": 46,
+          "toilet cleaner": 33
+        }
+      },
+      {
+        "from": "Bolzano-Bozen",
+        "to": "La Spezia",
+        "merchandise": {
+          "chicken": 31,
+          "salad dressing": 29,
+          "laptop": 20
+        }
+      },
+      {
+        "from": "La Spezia",
+        "to": "Venice",
+        "merchandise": {
+          "shoes": 37,
+          "cereal": 45,
+          "fish": 50
+        }
+      }
+    ]
+  },
+  {
+    "driver": "driver_26",
+    "route": [
+      {
+        "from": "Reggio Calabria",
+        "to": "Venice",
+        "merchandise": {
+          "shoes": 37,
+          "cereal": 21,
+          "fish": 24
+        }
+      },
+      {
+        "from": "Venice",
+        "to": "La Spezia",
+        "merchandise": {
+          "chicken": 31,
+          "salad dressing": 29,
+          "laptop": 20
+        }
+      },
+      {
+        "from": "La Spezia",
+        "to": "Udine",
+        "merchandise": {
+          "eggs": 36,
+          "cheese": 21
+        }
+      },
+      {
+        "from": "Udine",
+        "to": "Rimini",
+        "merchandise": {
+          "laundry detergent": 3,
+          "salad dressing": 44,
+          "potatoes": 48
+        }
+      },
+      {
+        "from": "Rimini",
+        "to": "Andria",
+        "merchandise": {
+          "spaghetti": 13,
+          "honey": 18
+        }
+      },
+      {
+        "from": "Andria",
+        "to": "Trieste",
+        "merchandise": {
+          "tuna": 14,
+          "shoes": 42,
+          "apples": 25
+        }
+      },
+      {
+        "from": "Trieste",
+        "to": "Catania",
+        "merchandise": {
+          "milk": 45,
+          "apples": 41,
+          "bread": 42,
+          "keyboard": 32
+        }
+      }
+    ]
+  },
+  {
+    "driver": "driver_5",
+    "route": [
+      {
+        "from": "Pescara",
+        "to": "Venice",
+        "merchandise": {
+          "shoes": 37,
+          "cereal": 21,
+          "fish": 24
+        }
+      },
+      {
+        "from": "Venice",
+        "to": "Catania",
+        "merchandise": {
+          "milk": 45,
+          "apples": 41,
+          "bread": 42,
+          "keyboard": 20
+        }
+      },
+      {
+        "from": "Catania",
+        "to": "Messina",
+        "merchandise": {
+          "shoes": 49,
+          "rice": 28,
+          "cheese": 11
+        }
+      },
+      {
+        "from": "Messina",
+        "to": "Andria",
+        "merchandise": {
+          "soap": 26,
+          "honey": 36
+        }
+      },
+      {
+        "from": "Andria",
+        "to": "Trieste",
+        "merchandise": {
+          "tuna": 14,
+          "shoes": 42,
+          "apples": 25
+        }
+      },
+      {
+        "from": "Trieste",
+        "to": "Catania",
+        "merchandise": {
+          "milk": 45,
+          "apples": 41,
+          "bread": 42,
+          "keyboard": 32
+        }
+      },
+      {
+        "from": "Catania",
+        "to": "Andria",
+        "merchandise": {
+          "soap": 26,
+          "honey": 36
+        }
+      }
+    ]
+  },
+  {
+    "driver": "driver_56",
+    "route": [
+      {
+        "from": "Ravenna",
+        "to": "Bologna",
+        "merchandise": {
+          "milk": 16,
+          "light bulbs": 29,
+          "garlic": 32,
+          "ketchup": 3
+        }
+      },
+      {
+        "from": "Bologna",
+        "to": "Catania",
+        "merchandise": {
+          "milk": 45,
+          "apples": 41,
+          "bread": 42,
+          "keyboard": 32
+        }
+      },
+      {
+        "from": "Catania",
+        "to": "Cesena",
+        "merchandise": {
+          "tuna": 4,
+          "dish soap": 44,
+          "shoes": 8,
+          "shampoo": 43
+        }
+      },
+      {
+        "from": "Cesena",
+        "to": "Prato",
+        "merchandise": {
+          "rice": 43,
+          "toilet paper": 28,
+          "trash bags": 14
+        }
+      },
+      {
+        "from": "Prato",
+        "to": "Bergamo",
+        "merchandise": {
+          "ketchup": 6,
+          "bread": 44,
+          "chicken": 21,
+          "butter": 8
+        }
+      },
+      {
+        "from": "Bergamo",
+        "to": "Ferrara",
+        "merchandise": {
+          "razor": 15,
+          "soap": 46
+        }
+      },
+      {
+        "from": "Ferrara",
+        "to": "Brescia",
+        "merchandise": {
+          "laptop": 1,
+          "salad dressing": 8
+        }
+      }
+    ]
+  },
+  {
+    "driver": "driver_15",
+    "route": [
+      {
+        "from": "Bergamo",
+        "to": "Bolzano-Bozen",
+        "merchandise": {
+          "coffee": 44,
+          "butter": 5,
+          "laundry detergent": 46,
+          "toilet cleaner": 33
+        }
+      },
+      {
+        "from": "Bolzano-Bozen",
+        "to": "Genoa",
+        "merchandise": {
+          "shoes": 18,
+          "soap": 22,
+          "laundry detergent": 23
+        }
+      },
+      {
+        "from": "Genoa",
+        "to": "Rimini",
+        "merchandise": {
+          "razor": 12,
+          "coffee": 48,
+          "pens": 44,
+          "yogurt": 26
+        }
+      },
+      {
+        "from": "Rimini",
+        "to": "Andria",
+        "merchandise": {
+          "spaghetti": 13,
+          "honey": 18
+        }
+      },
+      {
+        "from": "Andria",
+        "to": "Trieste",
+        "merchandise": {
+          "tuna": 14,
+          "shoes": 42,
+          "apples": 25
+        }
+      },
+      {
+        "from": "Trieste",
+        "to": "Catania",
+        "merchandise": {
+          "milk": 45,
+          "apples": 41,
+          "bread": 42,
+          "keyboard": 32
+        }
+      },
+      {
+        "from": "Catania",
+        "to": "Arezzo",
+        "merchandise": {
+          "chocolate": 1,
+          "cereal": 49
+        }
+      }
+    ]
+  },
+  {
+    "driver": "driver_86",
+    "route": [
+      {
+        "from": "Monza",
+        "to": "Ferrara",
+        "merchandise": {
+          "razor": 15,
+          "soap": 46
+        }
+      },
+      {
+        "from": "Ferrara",
+        "to": "Genoa",
+        "merchandise": {
+          "shoes": 18,
+          "soap": 22,
+          "laundry detergent": 23
+        }
+      },
+      {
+        "from": "Genoa",
+        "to": "Novara",
+        "merchandise": {
+          "razor": 16,
+          "honey": 12
+        }
+      },
+      {
+        "from": "Novara",
+        "to": "Venice",
+        "merchandise": {
+          "shoes": 37,
+          "cereal": 21,
+          "fish": 24
+        }
+      },
+      {
+        "from": "Venice",
+        "to": "Novara",
+        "merchandise": {
+          "razor": 16,
+          "honey": 12
+        }
+      },
+      {
+        "from": "Novara",
+        "to": "Venice",
+        "merchandise": {
+          "shoes": 37,
+          "cereal": 21,
+          "fish": 24,
+          "honey": 1
+        }
+      },
+      {
+        "from": "Venice",
+        "to": "Cesena",
+        "merchandise": {
+          "tuna": 4,
+          "dish soap": 44,
+          "shoes": 8,
+          "shampoo": 48
+        }
+      }
+    ]
+  },
+  {
+    "driver": "driver_94",
+    "route": [
+      {
+        "from": "Milan",
+        "to": "Venice",
+        "merchandise": {
+          "shoes": 37,
+          "cereal": 21,
+          "fish": 24
+        }
+      },
+      {
+        "from": "Venice",
+        "to": "Rimini",
+        "merchandise": {
+          "laundry detergent": 3,
+          "salad dressing": 44,
+          "potatoes": 48
+        }
+      },
+      {
+        "from": "Rimini",
+        "to": "Andria",
+        "merchandise": {
+          "spaghetti": 13,
+          "honey": 18
+        }
+      },
+      {
+        "from": "Andria",
+        "to": "Cesena",
+        "merchandise": {
+          "tuna": 4,
+          "dish soap": 44,
+          "shoes": 8,
+          "shampoo": 48
+        }
+      },
+      {
+        "from": "Cesena",
+        "to": "Prato",
+        "merchandise": {
+          "rice": 43,
+          "toilet paper": 28,
+          "trash bags": 14
+        }
+      },
+      {
+        "from": "Prato",
+        "to": "Bergamo",
+        "merchandise": {
+          "ketchup": 6,
+          "bread": 44,
+          "chicken": 21,
+          "butter": 8
+        }
+      },
+      {
+        "from": "Bergamo",
+        "to": "Rimini",
+        "merchandise": {
+          "juice": 33,
+          "rice": 10,
+          "shampoo": 40
+        }
+      }
+    ]
+  },
+  {
+    "driver": "driver_38",
+    "route": [
+      {
+        "from": "Messina",
+        "to": "Novara",
+        "merchandise": {
+          "razor": 16,
+          "honey": 12
+        }
+      },
+      {
+        "from": "Novara",
+        "to": "Venice",
+        "merchandise": {
+          "shoes": 37,
+          "cereal": 21,
+          "fish": 24
+        }
+      },
+      {
+        "from": "Venice",
+        "to": "Latina",
+        "merchandise": {
+          "salad dressing": 28,
+          "beans": 31
+        }
+      },
+      {
+        "from": "Latina",
+        "to": "Trieste",
+        "merchandise": {
+          "laptop": 29,
+          "salad dressing": 38
+        }
+      },
+      {
+        "from": "Trieste",
+        "to": "Prato",
+        "merchandise": {
+          "garlic": 40,
+          "cheese": 42,
+          "laundry detergent": 8,
+          "laptop": 47
+        }
+      },
+      {
+        "from": "Prato",
+        "to": "Bergamo",
+        "merchandise": {
+          "ketchup": 6,
+          "bread": 44,
+          "chicken": 21,
+          "butter": 8
+        }
+      },
+      {
+        "from": "Bergamo",
+        "to": "Grosseto",
+        "merchandise": {
+          "chicken": 20,
+          "mouse": 25
+        }
+      }
+    ]
+  },
+  {
+    "driver": "driver_43",
+    "route": [
+      {
+        "from": "Ancona",
+        "to": "Messina",
+        "merchandise": {
+          "shoes": 49,
+          "rice": 28,
+          "cheese": 11
+        }
+      },
+      {
+        "from": "Messina",
+        "to": "Andria",
+        "merchandise": {
+          "soap": 26,
+          "honey": 36
+        }
+      },
+      {
+        "from": "Andria",
+        "to": "Taranto",
+        "merchandise": {
+          "milk": 8,
+          "eggs": 49,
+          "laundry detergent": 9
+        }
+      },
+      {
+        "from": "Taranto",
+        "to": "Cagliari",
+        "merchandise": {
+          "kitchen towels": 23,
+          "mouse": 42,
+          "garlic": 20,
+          "apples": 33
+        }
+      },
+      {
+        "from": "Cagliari",
+        "to": "Messina",
+        "merchandise": {
+          "shoes": 49,
+          "rice": 28,
+          "cheese": 11
+        }
+      },
+      {
+        "from": "Messina",
+        "to": "Genoa",
+        "merchandise": {
+          "shoes": 18,
+          "soap": 22,
+          "laundry detergent": 23
+        }
+      },
+      {
+        "from": "Genoa",
+        "to": "Rimini",
+        "merchandise": {
+          "razor": 12,
+          "coffee": 48,
+          "pens": 44,
+          "yogurt": 26
+        }
+      }
+    ]
+  },
+  {
+    "driver": "driver_55",
+    "route": [
+      {
+        "from": "Bolzano-Bozen",
+        "to": "La Spezia",
+        "merchandise": {
+          "chicken": 31,
+          "salad dressing": 29,
+          "laptop": 20
+        }
+      },
+      {
+        "from": "La Spezia",
+        "to": "Ferrara",
+        "merchandise": {
+          "razor": 15,
+          "soap": 46
+        }
+      },
+      {
+        "from": "Ferrara",
+        "to": "Genoa",
+        "merchandise": {
+          "shoes": 18,
+          "soap": 22,
+          "laundry detergent": 48
+        }
+      },
+      {
+        "from": "Genoa",
+        "to": "Rimini",
+        "merchandise": {
+          "razor": 12,
+          "coffee": 48,
+          "pens": 44,
+          "yogurt": 26
+        }
+      },
+      {
+        "from": "Rimini",
+        "to": "Andria",
+        "merchandise": {
+          "spaghetti": 13,
+          "honey": 18
+        }
+      },
+      {
+        "from": "Andria",
+        "to": "Rimini",
+        "merchandise": {
+          "juice": 33,
+          "rice": 4,
+          "shampoo": 34
+        }
+      },
+      {
+        "from": "Rimini",
+        "to": "Bologna",
+        "merchandise": {
+          "shampoo": 5,
+          "tomatoes": 6,
+          "toothbrush": 1,
+          "sweater": 38
+        }
+      }
+    ]
+  },
+  {
+    "driver": "driver_71",
+    "route": [
+      {
+        "from": "Milan",
+        "to": "Prato",
+        "merchandise": {
+          "rice": 43,
+          "toilet paper": 28,
+          "trash bags": 14
+        }
+      },
+      {
+        "from": "Prato",
+        "to": "Bergamo",
+        "merchandise": {
+          "ketchup": 6,
+          "bread": 44,
+          "chicken": 21,
+          "butter": 8
+        }
+      },
+      {
+        "from": "Bergamo",
+        "to": "Verona",
+        "merchandise": {
+          "juice": 26,
+          "sweater": 24,
+          "paper towels": 40
+        }
+      },
+      {
+        "from": "Verona",
+        "to": "Cesena",
+        "merchandise": {
+          "tuna": 4,
+          "dish soap": 44,
+          "shoes": 8,
+          "shampoo": 48
+        }
+      },
+      {
+        "from": "Cesena",
+        "to": "Prato",
+        "merchandise": {
+          "rice": 43,
+          "toilet paper": 28,
+          "trash bags": 14
+        }
+      },
+      {
+        "from": "Prato",
+        "to": "Catania",
+        "merchandise": {
+          "milk": 45,
+          "apples": 41,
+          "bread": 18,
+          "keyboard": 29
+        }
+      },
+      {
+        "from": "Catania",
+        "to": "Ferrara",
+        "merchandise": {
+          "razor": 15,
+          "soap": 46
+        }
+      }
+    ]
+  },
+  {
+    "driver": "driver_36",
+    "route": [
+      {
+        "from": "Ancona",
+        "to": "Messina",
+        "merchandise": {
+          "shoes": 49,
+          "rice": 28,
+          "cheese": 11
+        }
+      },
+      {
+        "from": "Messina",
+        "to": "Andria",
+        "merchandise": {
+          "soap": 26,
+          "honey": 36
+        }
+      },
+      {
+        "from": "Andria",
+        "to": "Brindisi",
+        "merchandise": {
+          "potatoes": 25,
+          "broccoli": 22,
+          "paper towels": 36,
+          "laundry detergent": 29
+        }
+      },
+      {
+        "from": "Brindisi",
+        "to": "Catania",
+        "merchandise": {
+          "milk": 45,
+          "apples": 41,
+          "bread": 42,
+          "keyboard": 32
+        }
+      },
+      {
+        "from": "Catania",
+        "to": "Latina",
+        "merchandise": {
+          "salad dressing": 28,
+          "beans": 31
+        }
+      },
+      {
+        "from": "Latina",
+        "to": "Trieste",
+        "merchandise": {
+          "laptop": 29,
+          "salad dressing": 38
+        }
+      },
+      {
+        "from": "Trieste",
+        "to": "Catania",
+        "merchandise": {
+          "milk": 45,
+          "apples": 41,
+          "bread": 42,
+          "keyboard": 32
+        }
+      }
+    ]
+  },
+  {
+    "driver": "driver_37",
+    "route": [
+      {
+        "from": "Catanzaro",
+        "to": "Cesena",
+        "merchandise": {
+          "tuna": 4,
+          "dish soap": 44,
+          "shoes": 8,
+          "shampoo": 48
+        }
+      },
+      {
+        "from": "Cesena",
+        "to": "Latina",
+        "merchandise": {
+          "salad dressing": 28,
+          "beans": 31
+        }
+      },
+      {
+        "from": "Latina",
+        "to": "Trieste",
+        "merchandise": {
+          "laptop": 29,
+          "salad dressing": 38
+        }
+      },
+      {
+        "from": "Trieste",
+        "to": "Bolzano-Bozen",
+        "merchandise": {
+          "coffee": 44,
+          "butter": 5,
+          "laundry detergent": 46,
+          "toilet cleaner": 33
+        }
+      },
+      {
+        "from": "Bolzano-Bozen",
+        "to": "Rimini",
+        "merchandise": {
+          "laundry detergent": 3,
+          "salad dressing": 44,
+          "potatoes": 48
+        }
+      },
+      {
+        "from": "Rimini",
+        "to": "Andria",
+        "merchandise": {
+          "spaghetti": 13,
+          "honey": 18
+        }
+      },
+      {
+        "from": "Andria",
+        "to": "Rimini",
+        "merchandise": {
+          "laundry detergent": 3,
+          "salad dressing": 44,
+          "potatoes": 48
+        }
+      }
+    ]
+  },
+  {
+    "driver": "driver_40",
+    "route": [
+      {
+        "from": "Vicenza",
+        "to": "Florence",
+        "merchandise": {
+          "apples": 25,
+          "pens": 29
+        }
+      },
+      {
+        "from": "Florence",
+        "to": "Latina",
+        "merchandise": {
+          "salad dressing": 28,
+          "beans": 31
+        }
+      },
+      {
+        "from": "Latina",
+        "to": "Rimini",
+        "merchandise": {
+          "laundry detergent": 3,
+          "salad dressing": 44,
+          "potatoes": 48
+        }
+      },
+      {
+        "from": "Rimini",
+        "to": "Andria",
+        "merchandise": {
+          "spaghetti": 13,
+          "honey": 18
+        }
+      },
+      {
+        "from": "Andria",
+        "to": "Cesena",
+        "merchandise": {
+          "tuna": 4,
+          "dish soap": 44,
+          "shoes": 8,
+          "shampoo": 48
+        }
+      },
+      {
+        "from": "Cesena",
+        "to": "Prato",
+        "merchandise": {
+          "rice": 43,
+          "toilet paper": 28,
+          "trash bags": 14
+        }
+      },
+      {
+        "from": "Prato",
+        "to": "Ferrara",
+        "merchandise": {
+          "razor": 15,
+          "soap": 46
+        }
+      }
+    ]
+  },
+  {
+    "driver": "driver_61",
+    "route": [
+      {
+        "from": "Taranto",
+        "to": "Pistoia",
+        "merchandise": {
+          "razor": 39,
+          "soap": 8,
+          "toothbrush": 20,
+          "juice": 41
+        }
+      },
+      {
+        "from": "Pistoia",
+        "to": "Foggia",
+        "merchandise": {
+          "ice cream": 6,
+          "onions": 32,
+          "rice": 8
+        }
+      },
+      {
+        "from": "Foggia",
+        "to": "Messina",
+        "merchandise": {
+          "shoes": 49,
+          "rice": 28,
+          "cheese": 11
+        }
+      },
+      {
+        "from": "Messina",
+        "to": "Venice",
+        "merchandise": {
+          "shoes": 37,
+          "cereal": 21,
+          "fish": 24
+        }
+      },
+      {
+        "from": "Venice",
+        "to": "Novara",
+        "merchandise": {
+          "razor": 16,
+          "honey": 12
+        }
+      },
+      {
+        "from": "Novara",
+        "to": "Venice",
+        "merchandise": {
+          "shoes": 37,
+          "cereal": 21,
+          "fish": 24
+        }
+      },
+      {
+        "from": "Venice",
+        "to": "Cesena",
+        "merchandise": {
+          "tuna": 4,
+          "dish soap": 44,
+          "shoes": 8,
+          "shampoo": 48
+        }
+      }
+    ]
+  },
+  {
+    "driver": "driver_58",
+    "route": [
+      {
+        "from": "Terni",
+        "to": "Florence",
+        "merchandise": {
+          "apples": 25,
+          "pens": 29
+        }
+      },
+      {
+        "from": "Florence",
+        "to": "Andria",
+        "merchandise": {
+          "honey": 23,
+          "mouse": 21
+        }
+      },
+      {
+        "from": "Andria",
+        "to": "Trieste",
+        "merchandise": {
+          "tuna": 14,
+          "shoes": 42,
+          "apples": 25
+        }
+      },
+      {
+        "from": "Trieste",
+        "to": "Catania",
+        "merchandise": {
+          "milk": 45,
+          "apples": 41,
+          "bread": 42,
+          "keyboard": 32
+        }
+      },
+      {
+        "from": "Catania",
+        "to": "Terni",
+        "merchandise": {
+          "laptop": 45,
+          "juice": 19,
+          "socks": 30
+        }
+      },
+      {
+        "from": "Terni",
+        "to": "Ferrara",
+        "merchandise": {
+          "razor": 15,
+          "soap": 46
+        }
+      },
+      {
+        "from": "Ferrara",
+        "to": "Catania",
+        "merchandise": {
+          "milk": 45,
+          "apples": 41,
+          "bread": 42,
+          "keyboard": 32
+        }
+      }
+    ]
+  },
+  {
+    "driver": "driver_30",
+    "route": [
+      {
+        "from": "Ravenna",
+        "to": "Verona",
+        "merchandise": {
+          "fish": 41,
+          "spaghetti": 17,
+          "broccoli": 45,
+          "paper towels": 20
+        }
+      },
+      {
+        "from": "Verona",
+        "to": "Naples",
+        "merchandise": {
+          "butter": 50,
+          "salad dressing": 20,
+          "laundry detergent": 38,
+          "toothbrush": 5
+        }
+      },
+      {
+        "from": "Naples",
+        "to": "Venice",
+        "merchandise": {
+          "shoes": 37,
+          "cereal": 21,
+          "fish": 24
+        }
+      },
+      {
+        "from": "Venice",
+        "to": "Trento",
+        "merchandise": {
+          "tuna": 31,
+          "apples": 13
+        }
+      },
+      {
+        "from": "Trento",
+        "to": "Turin",
+        "merchandise": {
+          "razor": 31,
+          "paper towels": 17
+        }
+      },
+      {
+        "from": "Turin",
+        "to": "Brindisi",
+        "merchandise": {
+          "potatoes": 25,
+          "broccoli": 22,
+          "paper towels": 36,
+          "laundry detergent": 29
+        }
+      },
+      {
+        "from": "Brindisi",
+        "to": "Andria",
+        "merchandise": {
+          "soap": 26,
+          "honey": 33
+        }
+      }
+    ]
+  },
+  {
+    "driver": "driver_23",
+    "route": [
+      {
+        "from": "Bergamo",
+        "to": "Trieste",
+        "merchandise": {
+          "tuna": 14,
+          "shoes": 42,
+          "apples": 25
+        }
+      },
+      {
+        "from": "Trieste",
+        "to": "Catania",
+        "merchandise": {
+          "milk": 45,
+          "apples": 41,
+          "bread": 42,
+          "keyboard": 32
+        }
+      },
+      {
+        "from": "Catania",
+        "to": "Cesena",
+        "merchandise": {
+          "tuna": 4,
+          "dish soap": 44,
+          "shoes": 8,
+          "shampoo": 43
+        }
+      },
+      {
+        "from": "Cesena",
+        "to": "Turin",
+        "merchandise": {
+          "razor": 31,
+          "paper towels": 17
+        }
+      },
+      {
+        "from": "Turin",
+        "to": "Brindisi",
+        "merchandise": {
+          "potatoes": 25,
+          "broccoli": 22,
+          "paper towels": 36,
+          "laundry detergent": 29
+        }
+      },
+      {
+        "from": "Brindisi",
+        "to": "Venice",
+        "merchandise": {
+          "shoes": 37,
+          "cereal": 41,
+          "fish": 36
+        }
+      },
+      {
+        "from": "Venice",
+        "to": "Florence",
+        "merchandise": {
+          "apples": 25,
+          "pens": 29
+        }
+      }
+    ]
+  },
+  {
+    "driver": "driver_65",
+    "route": [
+      {
+        "from": "La Spezia",
+        "to": "Bergamo",
+        "merchandise": {
+          "kitchen towels": 22,
+          "tomatoes": 42,
+          "socks": 44,
+          "shampoo": 32
+        }
+      },
+      {
+        "from": "Bergamo",
+        "to": "Venice",
+        "merchandise": {
+          "shoes": 37,
+          "cereal": 18,
+          "fish": 43
+        }
+      },
+      {
+        "from": "Venice",
+        "to": "Pisa",
+        "merchandise": {
+          "tuna": 31,
+          "apples": 13
+        }
+      },
+      {
+        "from": "Pisa",
+        "to": "Messina",
+        "merchandise": {
+          "shoes": 49,
+          "rice": 28,
+          "cheese": 11
+        }
+      },
+      {
+        "from": "Messina",
+        "to": "Andria",
+        "merchandise": {
+          "soap": 26,
+          "honey": 36
+        }
+      },
+      {
+        "from": "Andria",
+        "to": "Cesena",
+        "merchandise": {
+          "tuna": 4,
+          "dish soap": 44,
+          "shoes": 16,
+          "shampoo": 34
+        }
+      },
+      {
+        "from": "Cesena",
+        "to": "Prato",
+        "merchandise": {
+          "rice": 43,
+          "toilet paper": 28,
+          "trash bags": 14
+        }
+      }
+    ]
+  },
+  {
+    "driver": "driver_68",
+    "route": [
+      {
+        "from": "Pescara",
+        "to": "Messina",
+        "merchandise": {
+          "shoes": 49,
+          "rice": 28,
+          "cheese": 11
+        }
+      },
+      {
+        "from": "Messina",
+        "to": "Bari",
+        "merchandise": {
+          "toothpaste": 1,
+          "socks": 15
+        }
+      },
+      {
+        "from": "Bari",
+        "to": "Rimini",
+        "merchandise": {
+          "laundry detergent": 3,
+          "salad dressing": 44,
+          "potatoes": 48
+        }
+      },
+      {
+        "from": "Rimini",
+        "to": "Andria",
+        "merchandise": {
+          "spaghetti": 13,
+          "honey": 18
+        }
+      },
+      {
+        "from": "Andria",
+        "to": "Trieste",
+        "merchandise": {
+          "tuna": 14,
+          "shoes": 42,
+          "apples": 25
+        }
+      },
+      {
+        "from": "Trieste",
+        "to": "Catania",
+        "merchandise": {
+          "milk": 45,
+          "apples": 41,
+          "bread": 42,
+          "keyboard": 32
+        }
+      },
+      {
+        "from": "Catania",
+        "to": "Rimini",
+        "merchandise": {
+          "juice": 33,
+          "rice": 4,
+          "shampoo": 34
+        }
+      }
+    ]
+  },
+  {
+    "driver": "driver_66",
+    "route": [
+      {
+        "from": "Alessandria",
+        "to": "Andria",
+        "merchandise": {
+          "soap": 26,
+          "honey": 36
+        }
+      },
+      {
+        "from": "Andria",
+        "to": "Trieste",
+        "merchandise": {
+          "tuna": 14,
+          "shoes": 42,
+          "apples": 25
+        }
+      },
+      {
+        "from": "Trieste",
+        "to": "Bolzano-Bozen",
+        "merchandise": {
+          "garlic": 40,
+          "cheese": 42,
+          "laundry detergent": 8,
+          "laptop": 47
+        }
+      },
+      {
+        "from": "Bolzano-Bozen",
+        "to": "Busto Arsizio",
+        "merchandise": {
+          "garlic": 40,
+          "cheese": 42,
+          "laundry detergent": 8,
+          "laptop": 47
+        }
+      },
+      {
+        "from": "Busto Arsizio",
+        "to": "Novara",
+        "merchandise": {
+          "razor": 16,
+          "honey": 12
+        }
+      },
+      {
+        "from": "Novara",
+        "to": "Venice",
+        "merchandise": {
+          "shoes": 37,
+          "cereal": 21,
+          "fish": 24
+        }
+      },
+      {
+        "from": "Venice",
+        "to": "Modena",
+        "merchandise": {
+          "tuna": 31,
+          "apples": 13
+        }
+      }
+    ]
+  },
+  {
+    "driver": "driver_51",
+    "route": [
+      {
+        "from": "Venice",
+        "to": "Latina",
+        "merchandise": {
+          "salad dressing": 28,
+          "beans": 31
+        }
+      },
+      {
+        "from": "Latina",
+        "to": "Trieste",
+        "merchandise": {
+          "laptop": 29,
+          "salad dressing": 38
+        }
+      },
+      {
+        "from": "Trieste",
+        "to": "Catania",
+        "merchandise": {
+          "milk": 45,
+          "apples": 41,
+          "bread": 42,
+          "keyboard": 32
+        }
+      },
+      {
+        "from": "Catania",
+        "to": "Messina",
+        "merchandise": {
+          "shoes": 49,
+          "rice": 28,
+          "cheese": 11
+        }
+      },
+      {
+        "from": "Messina",
+        "to": "Andria",
+        "merchandise": {
+          "soap": 26,
+          "honey": 36
+        }
+      },
+      {
+        "from": "Andria",
+        "to": "Taranto",
+        "merchandise": {
+          "milk": 8,
+          "eggs": 49,
+          "laundry detergent": 9
+        }
+      },
+      {
+        "from": "Taranto",
+        "to": "Latina",
+        "merchandise": {
+          "salad dressing": 28,
+          "beans": 31
+        }
+      }
+    ]
+  },
+  {
+    "driver": "driver_33",
+    "route": [
+      {
+        "from": "Terni",
+        "to": "La Spezia",
+        "merchandise": {
+          "chicken": 31,
+          "salad dressing": 29,
+          "laptop": 20
+        }
+      },
+      {
+        "from": "La Spezia",
+        "to": "Messina",
+        "merchandise": {
+          "shoes": 49,
+          "rice": 28,
+          "cheese": 11
+        }
+      },
+      {
+        "from": "Messina",
+        "to": "Novara",
+        "merchandise": {
+          "razor": 16,
+          "honey": 12
+        }
+      },
+      {
+        "from": "Novara",
+        "to": "Venice",
+        "merchandise": {
+          "shoes": 37,
+          "cereal": 21,
+          "fish": 24
+        }
+      },
+      {
+        "from": "Venice",
+        "to": "Catania",
+        "merchandise": {
+          "milk": 45,
+          "apples": 41,
+          "bread": 42,
+          "keyboard": 20
+        }
+      },
+      {
+        "from": "Catania",
+        "to": "Rimini",
+        "merchandise": {
+          "juice": 33,
+          "rice": 4,
+          "shampoo": 34
+        }
+      },
+      {
+        "from": "Rimini",
+        "to": "Andria",
+        "merchandise": {
+          "spaghetti": 13,
+          "honey": 18
+        }
+      }
+    ]
+  },
+  {
+    "driver": "driver_57",
+    "route": [
+      {
+        "from": "Novara",
+        "to": "Verona",
+        "merchandise": {
+          "juice": 26,
+          "sweater": 24,
+          "paper towels": 40
+        }
+      },
+      {
+        "from": "Verona",
+        "to": "Naples",
+        "merchandise": {
+          "butter": 50,
+          "salad dressing": 20,
+          "laundry detergent": 38,
+          "toothbrush": 5
+        }
+      },
+      {
+        "from": "Naples",
+        "to": "Rimini",
+        "merchandise": {
+          "laundry detergent": 3,
+          "salad dressing": 50,
+          "potatoes": 48
+        }
+      },
+      {
+        "from": "Rimini",
+        "to": "Grosseto",
+        "merchandise": {
+          "tuna": 41,
+          "toilet paper": 18,
+          "spaghetti": 7,
+          "chocolate": 1
+        }
+      },
+      {
+        "from": "Grosseto",
+        "to": "Genoa",
+        "merchandise": {
+          "shoes": 18,
+          "soap": 44,
+          "laundry detergent": 47
+        }
+      },
+      {
+        "from": "Genoa",
+        "to": "Rimini",
+        "merchandise": {
+          "razor": 12,
+          "coffee": 48,
+          "pens": 44,
+          "yogurt": 26
+        }
+      },
+      {
+        "from": "Rimini",
+        "to": "Andria",
+        "merchandise": {
+          "spaghetti": 13,
+          "honey": 18
+        }
+      }
+    ]
+  },
+  {
+    "driver": "driver_39",
+    "route": [
+      {
+        "from": "Syracuse",
+        "to": "Catanzaro",
+        "merchandise": {
+          "juice": 29,
+          "razor": 47,
+          "broccoli": 13
+        }
+      },
+      {
+        "from": "Catanzaro",
+        "to": "Cesena",
+        "merchandise": {
+          "tuna": 4,
+          "dish soap": 44,
+          "shoes": 22,
+          "shampoo": 48
+        }
+      },
+      {
+        "from": "Cesena",
+        "to": "Prato",
+        "merchandise": {
+          "rice": 43,
+          "toilet paper": 28,
+          "trash bags": 14
+        }
+      },
+      {
+        "from": "Prato",
+        "to": "Forl\u00ec",
+        "merchandise": {
+          "cereal": 11,
+          "toothbrush": 16
+        }
+      },
+      {
+        "from": "Forl\u00ec",
+        "to": "Turin",
+        "merchandise": {
+          "razor": 31,
+          "paper towels": 17
+        }
+      },
+      {
+        "from": "Turin",
+        "to": "Rimini",
+        "merchandise": {
+          "ketchup": 50,
+          "honey": 14,
+          "chocolate": 38
+        }
+      },
+      {
+        "from": "Rimini",
+        "to": "Andria",
+        "merchandise": {
+          "spaghetti": 13,
+          "honey": 18
+        }
+      }
+    ]
+  },
+  {
+    "driver": "driver_44",
+    "route": [
+      {
+        "from": "Brindisi",
+        "to": "Andria",
+        "merchandise": {
+          "soap": 26,
+          "honey": 33
+        }
+      },
+      {
+        "from": "Andria",
+        "to": "Florence",
+        "merchandise": {
+          "apples": 25,
+          "pens": 37
+        }
+      },
+      {
+        "from": "Florence",
+        "to": "Andria",
+        "merchandise": {
+          "honey": 23,
+          "mouse": 21
+        }
+      },
+      {
+        "from": "Andria",
+        "to": "Trieste",
+        "merchandise": {
+          "tuna": 14,
+          "shoes": 42,
+          "apples": 25
+        }
+      },
+      {
+        "from": "Trieste",
+        "to": "Bolzano-Bozen",
+        "merchandise": {
+          "coffee": 44,
+          "butter": 5,
+          "laundry detergent": 46,
+          "toilet cleaner": 33
+        }
+      },
+      {
+        "from": "Bolzano-Bozen",
+        "to": "Cesena",
+        "merchandise": {
+          "tuna": 4,
+          "dish soap": 44,
+          "shoes": 8,
+          "shampoo": 48
+        }
+      },
+      {
+        "from": "Cesena",
+        "to": "Prato",
+        "merchandise": {
+          "rice": 43,
+          "toilet paper": 28,
+          "trash bags": 14
+        }
+      }
+    ]
+  },
+  {
+    "driver": "driver_16",
+    "route": [
+      {
+        "from": "Trento",
+        "to": "Busto Arsizio",
+        "merchandise": {
+          "garlic": 40,
+          "cheese": 42,
+          "laundry detergent": 8,
+          "laptop": 47
+        }
+      },
+      {
+        "from": "Busto Arsizio",
+        "to": "Brescia",
+        "merchandise": {
+          "tomatoes": 48,
+          "coffee": 15,
+          "shampoo": 38,
+          "cereal": 15
+        }
+      },
+      {
+        "from": "Brescia",
+        "to": "Genoa",
+        "merchandise": {
+          "shoes": 18,
+          "soap": 22,
+          "laundry detergent": 23
+        }
+      },
+      {
+        "from": "Genoa",
+        "to": "Rimini",
+        "merchandise": {
+          "razor": 12,
+          "coffee": 48,
+          "pens": 44,
+          "yogurt": 26
+        }
+      },
+      {
+        "from": "Rimini",
+        "to": "Andria",
+        "merchandise": {
+          "spaghetti": 13,
+          "honey": 18
+        }
+      },
+      {
+        "from": "Andria",
+        "to": "Cesena",
+        "merchandise": {
+          "tuna": 4,
+          "dish soap": 44,
+          "shoes": 8,
+          "shampoo": 48
+        }
+      },
+      {
+        "from": "Cesena",
+        "to": "Prato",
+        "merchandise": {
+          "rice": 43,
+          "toilet paper": 28,
+          "trash bags": 14
+        }
+      }
+    ]
+  },
+  {
+    "driver": "driver_25",
+    "route": [
+      {
+        "from": "Ferrara",
+        "to": "Bergamo",
+        "merchandise": {
+          "kitchen towels": 22,
+          "tomatoes": 42,
+          "socks": 44,
+          "shampoo": 32
+        }
+      },
+      {
+        "from": "Bergamo",
+        "to": "Andria",
+        "merchandise": {
+          "honey": 23,
+          "mouse": 21
+        }
+      },
+      {
+        "from": "Andria",
+        "to": "Rimini",
+        "merchandise": {
+          "juice": 33,
+          "rice": 25,
+          "shampoo": 30
+        }
+      },
+      {
+        "from": "Rimini",
+        "to": "Andria",
+        "merchandise": {
+          "spaghetti": 13,
+          "honey": 18
+        }
+      },
+      {
+        "from": "Andria",
+        "to": "Catania",
+        "merchandise": {
+          "milk": 45,
+          "apples": 41,
+          "bread": 42,
+          "keyboard": 32
+        }
+      },
+      {
+        "from": "Catania",
+        "to": "Venice",
+        "merchandise": {
+          "shoes": 37,
+          "cereal": 21,
+          "fish": 24
+        }
+      },
+      {
+        "from": "Venice",
+        "to": "Latina",
+        "merchandise": {
+          "salad dressing": 28,
+          "beans": 31
+        }
+      }
+    ]
+  },
+  {
+    "driver": "driver_11",
+    "route": [
+      {
+        "from": "Lucca",
+        "to": "Livorno",
+        "merchandise": {
+          "yogurt": 26,
+          "eggs": 21,
+          "milk": 40,
+          "ice cream": 41
+        }
+      },
+      {
+        "from": "Livorno",
+        "to": "Cesena",
+        "merchandise": {
+          "tuna": 4,
+          "dish soap": 44,
+          "shoes": 16,
+          "shampoo": 48
+        }
+      },
+      {
+        "from": "Cesena",
+        "to": "Turin",
+        "merchandise": {
+          "razor": 31,
+          "paper towels": 17
+        }
+      },
+      {
+        "from": "Turin",
+        "to": "Rimini",
+        "merchandise": {
+          "ketchup": 50,
+          "honey": 14,
+          "chocolate": 38
+        }
+      },
+      {
+        "from": "Rimini",
+        "to": "Andria",
+        "merchandise": {
+          "spaghetti": 13,
+          "honey": 18
+        }
+      },
+      {
+        "from": "Andria",
+        "to": "Trieste",
+        "merchandise": {
+          "tuna": 14,
+          "shoes": 42,
+          "apples": 25
+        }
+      },
+      {
+        "from": "Trieste",
+        "to": "Bolzano-Bozen",
+        "merchandise": {
+          "coffee": 44,
+          "butter": 5,
+          "laundry detergent": 46,
+          "toilet cleaner": 33
+        }
+      }
+    ]
+  },
+  {
+    "driver": "driver_84",
+    "route": [
+      {
+        "from": "Palermo",
+        "to": "Cesena",
+        "merchandise": {
+          "tuna": 4,
+          "dish soap": 44,
+          "shoes": 8,
+          "shampoo": 48
+        }
+      },
+      {
+        "from": "Cesena",
+        "to": "Latina",
+        "merchandise": {
+          "salad dressing": 28,
+          "beans": 31
+        }
+      },
+      {
+        "from": "Latina",
+        "to": "Ferrara",
+        "merchandise": {
+          "razor": 15,
+          "soap": 46
+        }
+      },
+      {
+        "from": "Ferrara",
+        "to": "Rimini",
+        "merchandise": {
+          "laundry detergent": 3,
+          "salad dressing": 44,
+          "potatoes": 48
+        }
+      },
+      {
+        "from": "Rimini",
+        "to": "Andria",
+        "merchandise": {
+          "spaghetti": 13,
+          "honey": 18
+        }
+      },
+      {
+        "from": "Andria",
+        "to": "Ferrara",
+        "merchandise": {
+          "razor": 15,
+          "soap": 46
+        }
+      },
+      {
+        "from": "Ferrara",
+        "to": "Catania",
+        "merchandise": {
+          "milk": 45,
+          "apples": 18,
+          "bread": 42,
+          "keyboard": 32
+        }
+      }
+    ]
+  },
+  {
+    "driver": "driver_49",
+    "route": [
+      {
+        "from": "Messina",
+        "to": "Ferrara",
+        "merchandise": {
+          "razor": 15,
+          "soap": 46
+        }
+      },
+      {
+        "from": "Ferrara",
+        "to": "Rimini",
+        "merchandise": {
+          "laundry detergent": 3,
+          "salad dressing": 44,
+          "potatoes": 48
+        }
+      },
+      {
+        "from": "Rimini",
+        "to": "Andria",
+        "merchandise": {
+          "spaghetti": 13,
+          "honey": 18
+        }
+      },
+      {
+        "from": "Andria",
+        "to": "Lecce",
+        "merchandise": {
+          "tuna": 14,
+          "shoes": 42,
+          "apples": 25
+        }
+      },
+      {
+        "from": "Lecce",
+        "to": "Messina",
+        "merchandise": {
+          "shoes": 49,
+          "rice": 40,
+          "cheese": 8
+        }
+      },
+      {
+        "from": "Messina",
+        "to": "Andria",
+        "merchandise": {
+          "soap": 26,
+          "honey": 36
+        }
+      },
+      {
+        "from": "Andria",
+        "to": "Monza",
+        "merchandise": {
+          "butter": 47,
+          "garlic": 49,
+          "cereal": 8,
+          "toothpaste": 3
+        }
+      }
+    ]
+  },
+  {
+    "driver": "driver_47",
+    "route": [
+      {
+        "from": "Busto Arsizio",
+        "to": "Forl\u00ec",
+        "merchandise": {
+          "cereal": 11,
+          "toothbrush": 16
+        }
+      },
+      {
+        "from": "Forl\u00ec",
+        "to": "Turin",
+        "merchandise": {
+          "razor": 31,
+          "paper towels": 17
+        }
+      },
+      {
+        "from": "Turin",
+        "to": "Rimini",
+        "merchandise": {
+          "ketchup": 50,
+          "honey": 14,
+          "chocolate": 38
+        }
+      },
+      {
+        "from": "Rimini",
+        "to": "Andria",
+        "merchandise": {
+          "spaghetti": 13,
+          "honey": 18
+        }
+      },
+      {
+        "from": "Andria",
+        "to": "Trieste",
+        "merchandise": {
+          "tuna": 14,
+          "shoes": 42,
+          "apples": 25
+        }
+      },
+      {
+        "from": "Trieste",
+        "to": "Catania",
+        "merchandise": {
+          "milk": 45,
+          "apples": 41,
+          "bread": 42,
+          "keyboard": 32
+        }
+      },
+      {
+        "from": "Catania",
+        "to": "Verona",
+        "merchandise": {
+          "juice": 26,
+          "sweater": 24,
+          "paper towels": 40
+        }
+      }
+    ]
+  },
+  {
+    "driver": "driver_12",
+    "route": [
+      {
+        "from": "Bergamo",
+        "to": "Andria",
+        "merchandise": {
+          "soap": 26,
+          "honey": 36
+        }
+      },
+      {
+        "from": "Andria",
+        "to": "Trieste",
+        "merchandise": {
+          "tuna": 14,
+          "shoes": 42,
+          "apples": 25
+        }
+      },
+      {
+        "from": "Trieste",
+        "to": "Bolzano-Bozen",
+        "merchandise": {
+          "coffee": 44,
+          "butter": 5,
+          "laundry detergent": 46,
+          "toilet cleaner": 33
+        }
+      },
+      {
+        "from": "Bolzano-Bozen",
+        "to": "Rimini",
+        "merchandise": {
+          "laundry detergent": 3,
+          "salad dressing": 44,
+          "potatoes": 48
+        }
+      },
+      {
+        "from": "Rimini",
+        "to": "Andria",
+        "merchandise": {
+          "spaghetti": 13,
+          "honey": 18
+        }
+      },
+      {
+        "from": "Andria",
+        "to": "Cesena",
+        "merchandise": {
+          "tuna": 4,
+          "dish soap": 44,
+          "shoes": 16,
+          "shampoo": 34
+        }
+      },
+      {
+        "from": "Cesena",
+        "to": "Prato",
+        "merchandise": {
+          "rice": 43,
+          "toilet paper": 28,
+          "trash bags": 14
+        }
+      }
+    ]
+  },
+  {
+    "driver": "driver_97",
+    "route": [
+      {
+        "from": "Verona",
+        "to": "Torre del Greco",
+        "merchandise": {
+          "butter": 8,
+          "laundry detergent": 34,
+          "fish": 28
+        }
+      },
+      {
+        "from": "Torre del Greco",
+        "to": "Latina",
+        "merchandise": {
+          "salad dressing": 28,
+          "beans": 31
+        }
+      },
+      {
+        "from": "Latina",
+        "to": "Trieste",
+        "merchandise": {
+          "laptop": 29,
+          "salad dressing": 38
+        }
+      },
+      {
+        "from": "Trieste",
+        "to": "Bolzano-Bozen",
+        "merchandise": {
+          "coffee": 44,
+          "butter": 5,
+          "laundry detergent": 46,
+          "toilet cleaner": 33
+        }
+      },
+      {
+        "from": "Bolzano-Bozen",
+        "to": "Andria",
+        "merchandise": {
+          "soap": 26,
+          "honey": 36
+        }
+      },
+      {
+        "from": "Andria",
+        "to": "Ferrara",
+        "merchandise": {
+          "razor": 15,
+          "soap": 46
+        }
+      },
+      {
+        "from": "Ferrara",
+        "to": "Barletta",
+        "merchandise": {
+          "soap": 26,
+          "honey": 23
+        }
+      }
+    ]
+  },
+  {
+    "driver": "driver_6",
+    "route": [
+      {
+        "from": "Rimini",
+        "to": "Andria",
+        "merchandise": {
+          "kitchen towels": 36,
+          "sweater": 22,
+          "apples": 28,
+          "eggs": 38
+        }
+      },
+      {
+        "from": "Andria",
+        "to": "Prato",
+        "merchandise": {
+          "rice": 43,
+          "toilet paper": 28,
+          "trash bags": 14
+        }
+      },
+      {
+        "from": "Prato",
+        "to": "Messina",
+        "merchandise": {
+          "shoes": 49,
+          "rice": 28,
+          "cheese": 40
+        }
+      },
+      {
+        "from": "Messina",
+        "to": "Andria",
+        "merchandise": {
+          "soap": 26,
+          "honey": 36
+        }
+      },
+      {
+        "from": "Andria",
+        "to": "Trieste",
+        "merchandise": {
+          "tuna": 14,
+          "shoes": 42,
+          "apples": 25
+        }
+      },
+      {
+        "from": "Trieste",
+        "to": "Sassari",
+        "merchandise": {
+          "toothpaste": 1,
+          "socks": 15
+        }
+      },
+      {
+        "from": "Sassari",
+        "to": "Verona",
+        "merchandise": {
+          "juice": 26,
+          "sweater": 24,
+          "paper towels": 40
+        }
+      }
+    ]
+  },
+  {
+    "driver": "driver_41",
+    "route": [
+      {
+        "from": "Livorno",
+        "to": "Rimini",
+        "merchandise": {
+          "mouse": 28,
+          "rice": 11
+        }
+      },
+      {
+        "from": "Rimini",
+        "to": "Andria",
+        "merchandise": {
+          "spaghetti": 13,
+          "honey": 18
+        }
+      },
+      {
+        "from": "Andria",
+        "to": "Messina",
+        "merchandise": {
+          "shoes": 49,
+          "rice": 28,
+          "cheese": 11
+        }
+      },
+      {
+        "from": "Messina",
+        "to": "Andria",
+        "merchandise": {
+          "soap": 26,
+          "honey": 36
+        }
+      },
+      {
+        "from": "Andria",
+        "to": "Trieste",
+        "merchandise": {
+          "tuna": 14,
+          "shoes": 42,
+          "apples": 25
+        }
+      },
+      {
+        "from": "Trieste",
+        "to": "Bolzano-Bozen",
+        "merchandise": {
+          "coffee": 44,
+          "butter": 5,
+          "laundry detergent": 46,
+          "toilet cleaner": 33
+        }
+      },
+      {
+        "from": "Bolzano-Bozen",
+        "to": "Rimini",
+        "merchandise": {
+          "laundry detergent": 3,
+          "salad dressing": 44,
+          "potatoes": 48
+        }
+      }
+    ]
+  },
+  {
+    "driver": "driver_59",
+    "route": [
+      {
+        "from": "Udine",
+        "to": "Latina",
+        "merchandise": {
+          "salad dressing": 28,
+          "beans": 31
+        }
+      },
+      {
+        "from": "Latina",
+        "to": "Trieste",
+        "merchandise": {
+          "laptop": 29,
+          "salad dressing": 38
+        }
+      },
+      {
+        "from": "Trieste",
+        "to": "Bolzano-Bozen",
+        "merchandise": {
+          "coffee": 44,
+          "butter": 5,
+          "laundry detergent": 46,
+          "toilet cleaner": 33
+        }
+      },
+      {
+        "from": "Bolzano-Bozen",
+        "to": "Genoa",
+        "merchandise": {
+          "shoes": 18,
+          "soap": 22,
+          "laundry detergent": 23
+        }
+      },
+      {
+        "from": "Genoa",
+        "to": "Rimini",
+        "merchandise": {
+          "razor": 12,
+          "coffee": 48,
+          "pens": 44,
+          "yogurt": 26
+        }
+      },
+      {
+        "from": "Rimini",
+        "to": "Andria",
+        "merchandise": {
+          "spaghetti": 13,
+          "honey": 18
+        }
+      },
+      {
+        "from": "Andria",
+        "to": "Trieste",
+        "merchandise": {
+          "tuna": 14,
+          "shoes": 42,
+          "apples": 25
+        }
+      }
+    ]
+  },
+  {
+    "driver": "driver_81",
+    "route": [
+      {
+        "from": "Venice",
+        "to": "Florence",
+        "merchandise": {
+          "apples": 25,
+          "pens": 29
+        }
+      },
+      {
+        "from": "Florence",
+        "to": "Andria",
+        "merchandise": {
+          "honey": 23,
+          "mouse": 21
+        }
+      },
+      {
+        "from": "Andria",
+        "to": "Trieste",
+        "merchandise": {
+          "tuna": 14,
+          "shoes": 42,
+          "apples": 25
+        }
+      },
+      {
+        "from": "Trieste",
+        "to": "Bolzano-Bozen",
+        "merchandise": {
+          "coffee": 44,
+          "butter": 5,
+          "laundry detergent": 46,
+          "toilet cleaner": 33
+        }
+      },
+      {
+        "from": "Bolzano-Bozen",
+        "to": "Rimini",
+        "merchandise": {
+          "laundry detergent": 3,
+          "salad dressing": 44,
+          "potatoes": 48
+        }
+      },
+      {
+        "from": "Rimini",
+        "to": "Verona",
+        "merchandise": {
+          "juice": 26,
+          "sweater": 24,
+          "paper towels": 40
+        }
+      },
+      {
+        "from": "Verona",
+        "to": "Novara",
+        "merchandise": {
+          "chicken": 34,
+          "paper towels": 12
+        }
+      }
+    ]
+  },
+  {
+    "driver": "driver_14",
+    "route": [
+      {
+        "from": "Catania",
+        "to": "Venice",
+        "merchandise": {
+          "shoes": 37,
+          "cereal": 21,
+          "fish": 24
+        }
+      },
+      {
+        "from": "Venice",
+        "to": "Catania",
+        "merchandise": {
+          "milk": 45,
+          "apples": 41,
+          "bread": 42,
+          "keyboard": 20
+        }
+      },
+      {
+        "from": "Catania",
+        "to": "Cesena",
+        "merchandise": {
+          "tuna": 4,
+          "dish soap": 44,
+          "shoes": 8,
+          "shampoo": 43
+        }
+      },
+      {
+        "from": "Cesena",
+        "to": "Prato",
+        "merchandise": {
+          "rice": 43,
+          "toilet paper": 28,
+          "trash bags": 14
+        }
+      },
+      {
+        "from": "Prato",
+        "to": "Bergamo",
+        "merchandise": {
+          "ketchup": 6,
+          "bread": 44,
+          "chicken": 21,
+          "butter": 8
+        }
+      },
+      {
+        "from": "Bergamo",
+        "to": "Venice",
+        "merchandise": {
+          "shoes": 37,
+          "cereal": 18,
+          "fish": 43
+        }
+      },
+      {
+        "from": "Venice",
+        "to": "Cesena",
+        "merchandise": {
+          "tuna": 4,
+          "dish soap": 44,
+          "shoes": 8,
+          "shampoo": 48
+        }
+      }
+    ]
+  },
+  {
+    "driver": "driver_48",
+    "route": [
+      {
+        "from": "La Spezia",
+        "to": "Arezzo",
+        "merchandise": {
+          "chocolate": 1,
+          "cereal": 49
+        }
+      },
+      {
+        "from": "Arezzo",
+        "to": "Brescia",
+        "merchandise": {
+          "laptop": 3,
+          "bread": 40,
+          "laundry detergent": 29
+        }
+      },
+      {
+        "from": "Brescia",
+        "to": "Messina",
+        "merchandise": {
+          "shoes": 49,
+          "rice": 28,
+          "cheese": 11
+        }
+      },
+      {
+        "from": "Messina",
+        "to": "Andria",
+        "merchandise": {
+          "soap": 26,
+          "honey": 36
+        }
+      },
+      {
+        "from": "Andria",
+        "to": "Messina",
+        "merchandise": {
+          "shoes": 49,
+          "rice": 28,
+          "cheese": 11
+        }
+      },
+      {
+        "from": "Messina",
+        "to": "Genoa",
+        "merchandise": {
+          "shoes": 18,
+          "soap": 22,
+          "laundry detergent": 23
+        }
+      },
+      {
+        "from": "Genoa",
+        "to": "Rimini",
+        "merchandise": {
+          "razor": 12,
+          "coffee": 48,
+          "pens": 44,
+          "yogurt": 26
+        }
+      }
+    ]
+  },
+  {
+    "driver": "driver_20",
+    "route": [
+      {
+        "from": "Cagliari",
+        "to": "Palermo",
+        "merchandise": {
+          "socks": 26,
+          "cereal": 42
+        }
+      },
+      {
+        "from": "Palermo",
+        "to": "Rimini",
+        "merchandise": {
+          "laundry detergent": 3,
+          "salad dressing": 44,
+          "potatoes": 48
+        }
+      },
+      {
+        "from": "Rimini",
+        "to": "Andria",
+        "merchandise": {
+          "spaghetti": 13,
+          "honey": 18
+        }
+      },
+      {
+        "from": "Andria",
+        "to": "Trieste",
+        "merchandise": {
+          "tuna": 14,
+          "shoes": 42,
+          "apples": 25
+        }
+      },
+      {
+        "from": "Trieste",
+        "to": "Bolzano-Bozen",
+        "merchandise": {
+          "coffee": 44,
+          "butter": 5,
+          "laundry detergent": 46,
+          "toilet cleaner": 33
+        }
+      },
+      {
+        "from": "Bolzano-Bozen",
+        "to": "Rimini",
+        "merchandise": {
+          "laundry detergent": 3,
+          "salad dressing": 44,
+          "potatoes": 48
+        }
+      },
+      {
+        "from": "Rimini",
+        "to": "Cesena",
+        "merchandise": {
+          "tuna": 4,
+          "dish soap": 44,
+          "shoes": 8,
+          "shampoo": 48
+        }
+      }
+    ]
+  },
+  {
+    "driver": "driver_89",
+    "route": [
+      {
+        "from": "Bari",
+        "to": "Latina",
+        "merchandise": {
+          "salad dressing": 28,
+          "beans": 31
+        }
+      },
+      {
+        "from": "Latina",
+        "to": "Trieste",
+        "merchandise": {
+          "laptop": 29,
+          "salad dressing": 38
+        }
+      },
+      {
+        "from": "Trieste",
+        "to": "Bolzano-Bozen",
+        "merchandise": {
+          "coffee": 44,
+          "butter": 5,
+          "laundry detergent": 46,
+          "toilet cleaner": 33
+        }
+      },
+      {
+        "from": "Bolzano-Bozen",
+        "to": "Rimini",
+        "merchandise": {
+          "juice": 33,
+          "rice": 4,
+          "shampoo": 34
+        }
+      },
+      {
+        "from": "Rimini",
+        "to": "Andria",
+        "merchandise": {
+          "spaghetti": 13,
+          "honey": 18
+        }
+      },
+      {
+        "from": "Andria",
+        "to": "Guidonia Montecelio",
+        "merchandise": {
+          "carrots": 6,
+          "toilet cleaner": 6,
+          "garlic": 15
+        }
+      },
+      {
+        "from": "Guidonia Montecelio",
+        "to": "Novara",
+        "merchandise": {
+          "razor": 16,
+          "honey": 12
+        }
+      }
+    ]
+  },
+  {
+    "driver": "driver_54",
+    "route": [
+      {
+        "from": "Taranto",
+        "to": "Genoa",
+        "merchandise": {
+          "shoes": 18,
+          "soap": 22,
+          "laundry detergent": 23
+        }
+      },
+      {
+        "from": "Genoa",
+        "to": "Rimini",
+        "merchandise": {
+          "razor": 12,
+          "coffee": 48,
+          "pens": 44,
+          "yogurt": 26
+        }
+      },
+      {
+        "from": "Rimini",
+        "to": "Andria",
+        "merchandise": {
+          "spaghetti": 13,
+          "honey": 18
+        }
+      },
+      {
+        "from": "Andria",
+        "to": "Rimini",
+        "merchandise": {
+          "laundry detergent": 3,
+          "salad dressing": 44,
+          "potatoes": 48
+        }
+      },
+      {
+        "from": "Rimini",
+        "to": "Andria",
+        "merchandise": {
+          "soap": 26,
+          "honey": 36
+        }
+      },
+      {
+        "from": "Andria",
+        "to": "Cesena",
+        "merchandise": {
+          "tuna": 4,
+          "dish soap": 44,
+          "shoes": 16,
+          "shampoo": 34
+        }
+      },
+      {
+        "from": "Cesena",
+        "to": "Prato",
+        "merchandise": {
+          "rice": 43,
+          "toilet paper": 28,
+          "trash bags": 14
+        }
+      }
+    ]
+  },
+  {
+    "driver": "driver_3",
+    "route": [
+      {
+        "from": "Reggio Calabria",
+        "to": "Brindisi",
+        "merchandise": {
+          "potatoes": 25,
+          "broccoli": 22,
+          "paper towels": 36,
+          "laundry detergent": 29
+        }
+      },
+      {
+        "from": "Brindisi",
+        "to": "Ferrara",
+        "merchandise": {
+          "razor": 15,
+          "soap": 46
+        }
+      },
+      {
+        "from": "Ferrara",
+        "to": "Genoa",
+        "merchandise": {
+          "shoes": 18,
+          "soap": 22,
+          "laundry detergent": 23
+        }
+      },
+      {
+        "from": "Genoa",
+        "to": "Rimini",
+        "merchandise": {
+          "razor": 12,
+          "coffee": 48,
+          "pens": 44,
+          "yogurt": 26
+        }
+      },
+      {
+        "from": "Rimini",
+        "to": "Andria",
+        "merchandise": {
+          "spaghetti": 13,
+          "honey": 18
+        }
+      },
+      {
+        "from": "Andria",
+        "to": "Rimini",
+        "merchandise": {
+          "juice": 33,
+          "rice": 4,
+          "shampoo": 34
+        }
+      },
+      {
+        "from": "Rimini",
+        "to": "Cesena",
+        "merchandise": {
+          "tuna": 4,
+          "dish soap": 44,
+          "shoes": 8,
+          "shampoo": 48
+        }
+      }
+    ]
+  },
+  {
+    "driver": "driver_98",
+    "route": [
+      {
+        "from": "Padua",
+        "to": "Latina",
+        "merchandise": {
+          "salad dressing": 28,
+          "beans": 31
+        }
+      },
+      {
+        "from": "Latina",
+        "to": "Trieste",
+        "merchandise": {
+          "laptop": 29,
+          "salad dressing": 38
+        }
+      },
+      {
+        "from": "Trieste",
+        "to": "Ravenna",
+        "merchandise": {
+          "garlic": 40,
+          "cheese": 42,
+          "laundry detergent": 8,
+          "laptop": 47
+        }
+      },
+      {
+        "from": "Ravenna",
+        "to": "Busto Arsizio",
+        "merchandise": {
+          "garlic": 40,
+          "cheese": 42,
+          "laundry detergent": 8,
+          "laptop": 47
+        }
+      },
+      {
+        "from": "Busto Arsizio",
+        "to": "Rimini",
+        "merchandise": {
+          "juice": 33,
+          "rice": 4,
+          "shampoo": 34
+        }
+      },
+      {
+        "from": "Rimini",
+        "to": "Andria",
+        "merchandise": {
+          "spaghetti": 13,
+          "honey": 18
+        }
+      },
+      {
+        "from": "Andria",
+        "to": "Trieste",
+        "merchandise": {
+          "tuna": 14,
+          "shoes": 42,
+          "apples": 25
+        }
+      }
+    ]
+  },
+  {
+    "driver": "driver_18",
+    "route": [
+      {
+        "from": "Salerno",
+        "to": "Venice",
+        "merchandise": {
+          "shoes": 37,
+          "cereal": 21,
+          "fish": 24
+        }
+      },
+      {
+        "from": "Venice",
+        "to": "Forl\u00ec",
+        "merchandise": {
+          "cereal": 11,
+          "toothbrush": 16
+        }
+      },
+      {
+        "from": "Forl\u00ec",
+        "to": "Turin",
+        "merchandise": {
+          "razor": 31,
+          "paper towels": 17
+        }
+      },
+      {
+        "from": "Turin",
+        "to": "Rimini",
+        "merchandise": {
+          "ketchup": 50,
+          "honey": 14,
+          "chocolate": 38
+        }
+      },
+      {
+        "from": "Rimini",
+        "to": "Andria",
+        "merchandise": {
+          "spaghetti": 13,
+          "honey": 18
+        }
+      },
+      {
+        "from": "Andria",
+        "to": "Latina",
+        "merchandise": {
+          "tuna": 14,
+          "shoes": 42,
+          "apples": 25
+        }
+      },
+      {
+        "from": "Latina",
+        "to": "Trieste",
+        "merchandise": {
+          "laptop": 29,
+          "salad dressing": 38
+        }
+      }
+    ]
+  },
+  {
+    "driver": "driver_22",
+    "route": [
+      {
+        "from": "Venice",
+        "to": "Grosseto",
+        "merchandise": {
+          "tuna": 31,
+          "apples": 13
+        }
+      },
+      {
+        "from": "Grosseto",
+        "to": "Florence",
+        "merchandise": {
+          "apples": 25,
+          "pens": 43
+        }
+      },
+      {
+        "from": "Florence",
+        "to": "Andria",
+        "merchandise": {
+          "honey": 23,
+          "mouse": 21
+        }
+      },
+      {
+        "from": "Andria",
+        "to": "Trieste",
+        "merchandise": {
+          "tuna": 14,
+          "shoes": 42,
+          "apples": 25
+        }
+      },
+      {
+        "from": "Trieste",
+        "to": "Catania",
+        "merchandise": {
+          "milk": 45,
+          "apples": 41,
+          "bread": 42,
+          "keyboard": 32
+        }
+      },
+      {
+        "from": "Catania",
+        "to": "Verona",
+        "merchandise": {
+          "juice": 26,
+          "sweater": 24,
+          "paper towels": 40
+        }
+      },
+      {
+        "from": "Verona",
+        "to": "Cesena",
+        "merchandise": {
+          "tuna": 4,
+          "dish soap": 44,
+          "shoes": 8,
+          "shampoo": 48
+        }
+      }
+    ]
+  },
+  {
+    "driver": "driver_19",
+    "route": [
+      {
+        "from": "Rimini",
+        "to": "Andria",
+        "merchandise": {
+          "soap": 26,
+          "honey": 36
+        }
+      },
+      {
+        "from": "Andria",
+        "to": "Prato",
+        "merchandise": {
+          "rice": 43,
+          "toilet paper": 28,
+          "trash bags": 14
+        }
+      },
+      {
+        "from": "Prato",
+        "to": "Bergamo",
+        "merchandise": {
+          "ketchup": 6,
+          "bread": 44,
+          "chicken": 21,
+          "butter": 8
+        }
+      },
+      {
+        "from": "Bergamo",
+        "to": "Venice",
+        "merchandise": {
+          "shoes": 37,
+          "cereal": 18,
+          "fish": 43
+        }
+      },
+      {
+        "from": "Venice",
+        "to": "Cesena",
+        "merchandise": {
+          "tuna": 4,
+          "dish soap": 44,
+          "shoes": 8,
+          "shampoo": 48
+        }
+      },
+      {
+        "from": "Cesena",
+        "to": "Prato",
+        "merchandise": {
+          "rice": 43,
+          "toilet paper": 28,
+          "trash bags": 14
+        }
+      },
+      {
+        "from": "Prato",
+        "to": "Venice",
+        "merchandise": {
+          "shoes": 37,
+          "cereal": 21,
+          "fish": 24
+        }
+      }
+    ]
+  },
+  {
+    "driver": "driver_63",
+    "route": [
+      {
+        "from": "Catania",
+        "to": "Venice",
+        "merchandise": {
+          "shoes": 37,
+          "cereal": 21,
+          "fish": 24
+        }
+      },
+      {
+        "from": "Venice",
+        "to": "Latina",
+        "merchandise": {
+          "salad dressing": 28,
+          "beans": 47
+        }
+      },
+      {
+        "from": "Latina",
+        "to": "Trieste",
+        "merchandise": {
+          "laptop": 29,
+          "salad dressing": 38
+        }
+      },
+      {
+        "from": "Trieste",
+        "to": "Bolzano-Bozen",
+        "merchandise": {
+          "coffee": 44,
+          "butter": 5,
+          "laundry detergent": 46,
+          "toilet cleaner": 33
+        }
+      },
+      {
+        "from": "Bolzano-Bozen",
+        "to": "Catania",
+        "merchandise": {
+          "milk": 45,
+          "apples": 24,
+          "bread": 42,
+          "keyboard": 32
+        }
+      },
+      {
+        "from": "Catania",
+        "to": "Arezzo",
+        "merchandise": {
+          "chocolate": 1,
+          "cereal": 49
+        }
+      },
+      {
+        "from": "Arezzo",
+        "to": "Brescia",
+        "merchandise": {
+          "laptop": 3,
+          "bread": 40,
+          "laundry detergent": 29
+        }
+      }
+    ]
+  },
+  {
+    "driver": "driver_17",
+    "route": [
+      {
+        "from": "Novara",
+        "to": "Verona",
+        "merchandise": {
+          "juice": 26,
+          "sweater": 24,
+          "paper towels": 40
+        }
+      },
+      {
+        "from": "Verona",
+        "to": "Parma",
+        "merchandise": {
+          "toilet paper": 43,
+          "cereal": 44
+        }
+      },
+      {
+        "from": "Parma",
+        "to": "Ferrara",
+        "merchandise": {
+          "razor": 15,
+          "soap": 46
+        }
+      },
+      {
+        "from": "Ferrara",
+        "to": "Cesena",
+        "merchandise": {
+          "tuna": 4,
+          "dish soap": 44,
+          "shoes": 8,
+          "shampoo": 48
+        }
+      },
+      {
+        "from": "Cesena",
+        "to": "Prato",
+        "merchandise": {
+          "rice": 43,
+          "toilet paper": 28,
+          "trash bags": 14
+        }
+      },
+      {
+        "from": "Prato",
+        "to": "Rimini",
+        "merchandise": {
+          "laundry detergent": 3,
+          "salad dressing": 44,
+          "potatoes": 21
+        }
+      },
+      {
+        "from": "Rimini",
+        "to": "Sassari",
+        "merchandise": {
+          "sweater": 42,
+          "broccoli": 20,
+          "laptop": 49
+        }
+      }
+    ]
+  },
+  {
+    "driver": "driver_91",
+    "route": [
+      {
+        "from": "Bergamo",
+        "to": "La Spezia",
+        "merchandise": {
+          "juice": 21,
+          "tuna": 44
+        }
+      },
+      {
+        "from": "La Spezia",
+        "to": "Venice",
+        "merchandise": {
+          "shoes": 37,
+          "cereal": 45,
+          "fish": 50
+        }
+      },
+      {
+        "from": "Venice",
+        "to": "Catania",
+        "merchandise": {
+          "milk": 45,
+          "apples": 41,
+          "bread": 42,
+          "keyboard": 20
+        }
+      },
+      {
+        "from": "Catania",
+        "to": "Verona",
+        "merchandise": {
+          "juice": 26,
+          "sweater": 24,
+          "paper towels": 40
+        }
+      },
+      {
+        "from": "Verona",
+        "to": "Cesena",
+        "merchandise": {
+          "tuna": 4,
+          "dish soap": 44,
+          "shoes": 8,
+          "shampoo": 48
+        }
+      },
+      {
+        "from": "Cesena",
+        "to": "Latina",
+        "merchandise": {
+          "salad dressing": 28,
+          "beans": 31
+        }
+      },
+      {
+        "from": "Latina",
+        "to": "Trieste",
+        "merchandise": {
+          "laptop": 29,
+          "salad dressing": 38
+        }
+      }
+    ]
+  },
+  {
+    "driver": "driver_4",
+    "route": [
+      {
+        "from": "Barletta",
+        "to": "Novara",
+        "merchandise": {
+          "razor": 16,
+          "honey": 12
+        }
+      },
+      {
+        "from": "Novara",
+        "to": "Venice",
+        "merchandise": {
+          "shoes": 37,
+          "cereal": 21,
+          "fish": 24
+        }
+      },
+      {
+        "from": "Venice",
+        "to": "Rimini",
+        "merchandise": {
+          "laundry detergent": 3,
+          "salad dressing": 44,
+          "potatoes": 48
+        }
+      },
+      {
+        "from": "Rimini",
+        "to": "Andria",
+        "merchandise": {
+          "spaghetti": 13,
+          "honey": 18
+        }
+      },
+      {
+        "from": "Andria",
+        "to": "Trieste",
+        "merchandise": {
+          "tuna": 14,
+          "shoes": 42,
+          "apples": 25
+        }
+      },
+      {
+        "from": "Trieste",
+        "to": "Catania",
+        "merchandise": {
+          "milk": 45,
+          "apples": 41,
+          "bread": 42,
+          "keyboard": 32
+        }
+      },
+      {
+        "from": "Catania",
+        "to": "Cesena",
+        "merchandise": {
+          "tuna": 4,
+          "dish soap": 44,
+          "shoes": 8,
+          "shampoo": 43
+        }
+      }
+    ]
+  },
+  {
+    "driver": "driver_70",
+    "route": [
+      {
+        "from": "Florence",
+        "to": "Genoa",
+        "merchandise": {
+          "shoes": 18,
+          "soap": 22,
+          "laundry detergent": 23
+        }
+      },
+      {
+        "from": "Genoa",
+        "to": "Rimini",
+        "merchandise": {
+          "razor": 12,
+          "coffee": 48,
+          "pens": 44,
+          "yogurt": 26
+        }
+      },
+      {
+        "from": "Rimini",
+        "to": "Andria",
+        "merchandise": {
+          "spaghetti": 13,
+          "honey": 18
+        }
+      },
+      {
+        "from": "Andria",
+        "to": "Trieste",
+        "merchandise": {
+          "tuna": 14,
+          "shoes": 42,
+          "apples": 25
+        }
+      },
+      {
+        "from": "Trieste",
+        "to": "Catania",
+        "merchandise": {
+          "milk": 45,
+          "apples": 41,
+          "bread": 42,
+          "keyboard": 32
+        }
+      },
+      {
+        "from": "Catania",
+        "to": "Cesena",
+        "merchandise": {
+          "tuna": 4,
+          "dish soap": 44,
+          "shoes": 8,
+          "shampoo": 43
+        }
+      },
+      {
+        "from": "Cesena",
+        "to": "Prato",
+        "merchandise": {
+          "rice": 43,
+          "toilet paper": 28,
+          "trash bags": 14
+        }
+      }
+    ]
+  },
+  {
+    "driver": "driver_7",
+    "route": [
+      {
+        "from": "Busto Arsizio",
+        "to": "Novara",
+        "merchandise": {
+          "razor": 16,
+          "honey": 12
+        }
+      },
+      {
+        "from": "Novara",
+        "to": "Rimini",
+        "merchandise": {
+          "juice": 33,
+          "rice": 4,
+          "shampoo": 34
+        }
+      },
+      {
+        "from": "Rimini",
+        "to": "Andria",
+        "merchandise": {
+          "spaghetti": 13,
+          "honey": 18
+        }
+      },
+      {
+        "from": "Andria",
+        "to": "Trieste",
+        "merchandise": {
+          "tuna": 14,
+          "shoes": 42,
+          "apples": 25
+        }
+      },
+      {
+        "from": "Trieste",
+        "to": "Parma",
+        "merchandise": {
+          "coffee": 44,
+          "butter": 5,
+          "laundry detergent": 46,
+          "toilet cleaner": 33
+        }
+      },
+      {
+        "from": "Parma",
+        "to": "Ferrara",
+        "merchandise": {
+          "razor": 15,
+          "soap": 46
+        }
+      },
+      {
+        "from": "Ferrara",
+        "to": "Cesena",
+        "merchandise": {
+          "tuna": 4,
+          "dish soap": 44,
+          "shoes": 8,
+          "shampoo": 48
+        }
+      }
+    ]
+  },
+  {
+    "driver": "driver_99",
+    "route": [
+      {
+        "from": "Livorno",
+        "to": "Ferrara",
+        "merchandise": {
+          "razor": 15,
+          "soap": 46
+        }
+      },
+      {
+        "from": "Ferrara",
+        "to": "Catania",
+        "merchandise": {
+          "milk": 45,
+          "apples": 41,
+          "bread": 42,
+          "keyboard": 32
+        }
+      },
+      {
+        "from": "Catania",
+        "to": "Verona",
+        "merchandise": {
+          "juice": 26,
+          "sweater": 24,
+          "paper towels": 40
+        }
+      },
+      {
+        "from": "Verona",
+        "to": "Cesena",
+        "merchandise": {
+          "tuna": 4,
+          "dish soap": 44,
+          "shoes": 8,
+          "shampoo": 48
+        }
+      },
+      {
+        "from": "Cesena",
+        "to": "Prato",
+        "merchandise": {
+          "rice": 43,
+          "toilet paper": 28,
+          "trash bags": 14
+        }
+      },
+      {
+        "from": "Prato",
+        "to": "Venice",
+        "merchandise": {
+          "shoes": 37,
+          "cereal": 21,
+          "fish": 24
+        }
+      },
+      {
+        "from": "Venice",
+        "to": "Forl\u00ec",
+        "merchandise": {
+          "cereal": 11,
+          "toothbrush": 16
+        }
+      }
+    ]
+  },
+  {
+    "driver": "driver_96",
+    "route": [
+      {
+        "from": "Andria",
+        "to": "Giugliano in Campania",
+        "merchandise": {
+          "laptop": 11,
+          "rice": 20
+        }
+      },
+      {
+        "from": "Giugliano in Campania",
+        "to": "Florence",
+        "merchandise": {
+          "apples": 25,
+          "pens": 29
+        }
+      },
+      {
+        "from": "Florence",
+        "to": "Andria",
+        "merchandise": {
+          "honey": 23,
+          "mouse": 21
+        }
+      },
+      {
+        "from": "Andria",
+        "to": "Rimini",
+        "merchandise": {
+          "laundry detergent": 3,
+          "salad dressing": 44,
+          "potatoes": 48
+        }
+      },
+      {
+        "from": "Rimini",
+        "to": "Andria",
+        "merchandise": {
+          "soap": 26,
+          "honey": 36
+        }
+      },
+      {
+        "from": "Andria",
+        "to": "Trieste",
+        "merchandise": {
+          "tuna": 14,
+          "shoes": 42,
+          "apples": 25
+        }
+      },
+      {
+        "from": "Trieste",
+        "to": "Messina",
+        "merchandise": {
+          "garlic": 40,
+          "cheese": 42,
+          "laundry detergent": 8,
+          "laptop": 47
+        }
+      }
+    ]
+  },
+  {
+    "driver": "driver_60",
+    "route": [
+      {
+        "from": "Grosseto",
+        "to": "Rimini",
+        "merchandise": {
+          "juice": 33,
+          "rice": 4,
+          "shampoo": 34
+        }
+      },
+      {
+        "from": "Rimini",
+        "to": "Andria",
+        "merchandise": {
+          "spaghetti": 13,
+          "honey": 18
+        }
+      },
+      {
+        "from": "Andria",
+        "to": "Guidonia Montecelio",
+        "merchandise": {
+          "carrots": 6,
+          "toilet cleaner": 6,
+          "garlic": 15
+        }
+      },
+      {
+        "from": "Guidonia Montecelio",
+        "to": "Rimini",
+        "merchandise": {
+          "laundry detergent": 3,
+          "salad dressing": 44,
+          "potatoes": 48
+        }
+      },
+      {
+        "from": "Rimini",
+        "to": "Bologna",
+        "merchandise": {
+          "shampoo": 5,
+          "tomatoes": 6,
+          "toothbrush": 1,
+          "sweater": 38
+        }
+      },
+      {
+        "from": "Bologna",
+        "to": "Cesena",
+        "merchandise": {
+          "tuna": 4,
+          "dish soap": 44,
+          "shoes": 13,
+          "shampoo": 48
+        }
+      },
+      {
+        "from": "Cesena",
+        "to": "Florence",
+        "merchandise": {
+          "apples": 25,
+          "pens": 50
+        }
+      }
+    ]
+  },
+  {
+    "driver": "driver_76",
+    "route": [
+      {
+        "from": "Brescia",
+        "to": "Catania",
+        "merchandise": {
+          "milk": 45,
+          "apples": 41,
+          "bread": 42,
+          "keyboard": 32
+        }
+      },
+      {
+        "from": "Catania",
+        "to": "Cesena",
+        "merchandise": {
+          "tuna": 4,
+          "dish soap": 44,
+          "shoes": 8,
+          "shampoo": 43
+        }
+      },
+      {
+        "from": "Cesena",
+        "to": "Prato",
+        "merchandise": {
+          "rice": 43,
+          "toilet paper": 28,
+          "trash bags": 14
+        }
+      },
+      {
+        "from": "Prato",
+        "to": "Ferrara",
+        "merchandise": {
+          "razor": 15,
+          "soap": 46
+        }
+      },
+      {
+        "from": "Ferrara",
+        "to": "Brescia",
+        "merchandise": {
+          "laptop": 1,
+          "salad dressing": 8
+        }
+      },
+      {
+        "from": "Brescia",
+        "to": "Pesaro",
+        "merchandise": {
+          "garlic": 29,
+          "tomatoes": 36
+        }
+      },
+      {
+        "from": "Pesaro",
+        "to": "Rimini",
+        "merchandise": {
+          "juice": 33,
+          "rice": 4,
+          "shampoo": 39
+        }
+      }
+    ]
+  },
+  {
+    "driver": "driver_24",
+    "route": [
+      {
+        "from": "Verona",
+        "to": "Cesena",
+        "merchandise": {
+          "tuna": 4,
+          "dish soap": 44,
+          "shoes": 8,
+          "shampoo": 48
+        }
+      },
+      {
+        "from": "Cesena",
+        "to": "Prato",
+        "merchandise": {
+          "rice": 43,
+          "toilet paper": 28,
+          "trash bags": 14
+        }
+      },
+      {
+        "from": "Prato",
+        "to": "Venice",
+        "merchandise": {
+          "shoes": 37,
+          "cereal": 21,
+          "fish": 24
+        }
+      },
+      {
+        "from": "Venice",
+        "to": "Cesena",
+        "merchandise": {
+          "tuna": 4,
+          "dish soap": 44,
+          "shoes": 8,
+          "shampoo": 48
+        }
+      },
+      {
+        "from": "Cesena",
+        "to": "Venice",
+        "merchandise": {
+          "shoes": 37,
+          "cereal": 4,
+          "fish": 24
+        }
+      },
+      {
+        "from": "Venice",
+        "to": "Latina",
+        "merchandise": {
+          "salad dressing": 28,
+          "beans": 47
+        }
+      },
+      {
+        "from": "Latina",
+        "to": "Reggio Calabria",
+        "merchandise": {
+          "coffee": 48,
+          "ice cream": 39,
+          "toothbrush": 16,
+          "mouse": 46
+        }
+      }
+    ]
+  },
+  {
+    "driver": "driver_62",
+    "route": [
+      {
+        "from": "Padua",
+        "to": "Rimini",
+        "merchandise": {
+          "laundry detergent": 3,
+          "salad dressing": 44,
+          "potatoes": 48
+        }
+      },
+      {
+        "from": "Rimini",
+        "to": "Andria",
+        "merchandise": {
+          "spaghetti": 13,
+          "honey": 18
+        }
+      },
+      {
+        "from": "Andria",
+        "to": "Trieste",
+        "merchandise": {
+          "tuna": 14,
+          "shoes": 42,
+          "apples": 25
+        }
+      },
+      {
+        "from": "Trieste",
+        "to": "Bolzano-Bozen",
+        "merchandise": {
+          "coffee": 44,
+          "butter": 5,
+          "laundry detergent": 46,
+          "toilet cleaner": 33
+        }
+      },
+      {
+        "from": "Bolzano-Bozen",
+        "to": "Rimini",
+        "merchandise": {
+          "laundry detergent": 3,
+          "salad dressing": 44,
+          "potatoes": 48
+        }
+      },
+      {
+        "from": "Rimini",
+        "to": "Cesena",
+        "merchandise": {
+          "tuna": 4,
+          "dish soap": 44,
+          "shoes": 8,
+          "shampoo": 48
+        }
+      },
+      {
+        "from": "Cesena",
+        "to": "Prato",
+        "merchandise": {
+          "rice": 43,
+          "toilet paper": 28,
+          "trash bags": 14
+        }
+      }
+    ]
+  },
+  {
+    "driver": "driver_64",
+    "route": [
+      {
+        "from": "Pisa",
+        "to": "Florence",
+        "merchandise": {
+          "apples": 25,
+          "pens": 29
+        }
+      },
+      {
+        "from": "Florence",
+        "to": "Andria",
+        "merchandise": {
+          "honey": 23,
+          "mouse": 21
+        }
+      },
+      {
+        "from": "Andria",
+        "to": "Treviso",
+        "merchandise": {
+          "soap": 42,
+          "paper towels": 5
+        }
+      },
+      {
+        "from": "Treviso",
+        "to": "Ferrara",
+        "merchandise": {
+          "razor": 15,
+          "soap": 46
+        }
+      },
+      {
+        "from": "Ferrara",
+        "to": "Cesena",
+        "merchandise": {
+          "tuna": 4,
+          "dish soap": 44,
+          "shoes": 8,
+          "shampoo": 48
+        }
+      },
+      {
+        "from": "Cesena",
+        "to": "Prato",
+        "merchandise": {
+          "rice": 43,
+          "toilet paper": 28,
+          "trash bags": 14
+        }
+      },
+      {
+        "from": "Prato",
+        "to": "Rimini",
+        "merchandise": {
+          "juice": 33,
+          "rice": 4,
+          "shampoo": 34
+        }
+      }
+    ]
+  },
+  {
+    "driver": "driver_75",
+    "route": [
+      {
+        "from": "Trieste",
+        "to": "Catanzaro",
+        "merchandise": {
+          "toothpaste": 1,
+          "socks": 15
+        }
+      },
+      {
+        "from": "Catanzaro",
+        "to": "Cesena",
+        "merchandise": {
+          "tuna": 4,
+          "dish soap": 44,
+          "shoes": 8,
+          "shampoo": 48
+        }
+      },
+      {
+        "from": "Cesena",
+        "to": "Naples",
+        "merchandise": {
+          "onions": 20,
+          "ice cream": 2,
+          "garlic": 17,
+          "pens": 8
+        }
+      },
+      {
+        "from": "Naples",
+        "to": "Rimini",
+        "merchandise": {
+          "laundry detergent": 3,
+          "salad dressing": 50,
+          "potatoes": 48
+        }
+      },
+      {
+        "from": "Rimini",
+        "to": "Ferrara",
+        "merchandise": {
+          "razor": 15,
+          "soap": 46
+        }
+      },
+      {
+        "from": "Ferrara",
+        "to": "Rimini",
+        "merchandise": {
+          "juice": 33,
+          "rice": 4,
+          "shampoo": 34
+        }
+      },
+      {
+        "from": "Rimini",
+        "to": "Andria",
+        "merchandise": {
+          "spaghetti": 13,
+          "honey": 18
+        }
+      }
+    ]
+  },
+  {
+    "driver": "driver_10",
+    "route": [
+      {
+        "from": "Naples",
+        "to": "Genoa",
+        "merchandise": {
+          "shoes": 18,
+          "soap": 22,
+          "laundry detergent": 23
+        }
+      },
+      {
+        "from": "Genoa",
+        "to": "Rimini",
+        "merchandise": {
+          "razor": 12,
+          "coffee": 48,
+          "pens": 44,
+          "yogurt": 26
+        }
+      },
+      {
+        "from": "Rimini",
+        "to": "Terni",
+        "merchandise": {
+          "sweater": 42,
+          "broccoli": 20,
+          "laptop": 49
+        }
+      },
+      {
+        "from": "Terni",
+        "to": "Cesena",
+        "merchandise": {
+          "tuna": 4,
+          "dish soap": 44,
+          "shoes": 8,
+          "shampoo": 48
+        }
+      },
+      {
+        "from": "Cesena",
+        "to": "Prato",
+        "merchandise": {
+          "rice": 43,
+          "toilet paper": 28,
+          "trash bags": 14
+        }
+      },
+      {
+        "from": "Prato",
+        "to": "Andria",
+        "merchandise": {
+          "soap": 26,
+          "honey": 36
+        }
+      },
+      {
+        "from": "Andria",
+        "to": "Trieste",
+        "merchandise": {
+          "tuna": 14,
+          "shoes": 42,
+          "apples": 25
+        }
+      }
+    ]
+  }
+]
